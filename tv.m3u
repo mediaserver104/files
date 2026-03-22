@@ -1,7 +1,7 @@
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/au/all/epg.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/Roku/all.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml"
