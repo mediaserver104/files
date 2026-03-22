@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/au/all/epg.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
@@ -64,12 +64,19 @@ http://192.168.1.200:8409/iptv/channel/320.m3u8?mode=hls-direct
 http://192.168.1.200:8409/iptv/channel/990.m3u8?mode=hls-direct
 
 
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
 
+
+#EXTINF:-1 group-title="Classic TV",Green Acres
+https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 group-title="Classic TV",The Addams Family
+https://linear-1146.frequency.stream/dist/tcltv/1146/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-id="Alfred Hitchcock Presents" tvg-logo="https://m.media-amazon.com/images/I/41kkoJ4jU7L._UXNaN_FMjpg_QL85_.jpg" group-title="Classic TV",Alfred Hitchcock Presents
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 group-title="Classic TV",The Dick Van Dyke Show
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884544/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884544&ads.xumo_streamId=88884544&declaredCC1Language=en&ads.caid=DickVanDyke&ads.csid=tcl2_us_thedickvandykeshow_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=DickVanDyke&ads.xumo_providerId=5&ads.xumo_providerName=DickVanDyke&ads.xumo_channelName=DickVanDyke&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/The-three-stooges-5659a60a0e117.png" tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" channel-number="115" tvg-chno="115" group-title="Classic TV",Three Stooges+
 https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?content_provider=three-stooges&did=&channel_brand_id=AMDB013402&h=1080&device_make=&iu=&channel_company_id=AMDP500511&gdpr=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&dnt=&channel_name=Three%20Stooges+&coppa=0&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_bundle=&app_store_url=&app_name=&genre=Comedy&w=1920&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ic=&device_model=&device_type=&channel_corp=C3%20Entertainment%20INC&us_privacy=1YNY&gdpr_consent=&idtype=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=86.48.9.131
@@ -79,7 +86,8 @@ https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/a
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 
-
+#EXTINF:-1 group-title="Classic TV",The Outer Limits
+https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 
 #EXTINF:-1 tvg-id="XUMO_99991157" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/300x300.webp?type=color_onBlack" group-title="Classic TV",Johnny Carson TV
@@ -393,6 +401,25 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="58d947b9e420d8656ee101ab",RiffTrax
 https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 
+#EXTINF:-1 group-title="Movies",Free Sci-Fi & Fantasy Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814535/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814535&ads.xumo_streamId=88814535&declaredCC1Language=en&ads.caid=XumoFreeSciFiandFantasyMovies&ads.csid=tcl2_us_xumofreescifiandfantasymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Horror%252CSci-Fi&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-ma&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeSciFiandFantasyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeSciFiandFantasyMovies&ads.xumo_channelName=XumoFreeSciFiandFantasyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",MGM Presents Action
+https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 group-title="Movies",Free Action Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814531&ads.xumo_streamId=88814531&declaredCC1Language=en&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_channelName=XumoFreeActionMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",Free Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814534&ads.xumo_streamId=88814534&declaredCC1Language=en&ads.caid=XumoFreeMovies&ads.csid=tcl2_us_xumofreemovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeMovies&ads.xumo_channelName=XumoFreeMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",FlixFling
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814627/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814627&ads.xumo_streamId=88814627&declaredCC1Language=en&ads.caid=Flixfling&ads.csid=tcl2_us_flixfling_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3994&ads.xumo_contentName=Flixfling&ads.xumo_providerId=3994&ads.xumo_providerName=Flixfling&ads.xumo_channelName=Flixfling&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",Free Comedy Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814527&ads.xumo_streamId=88814527&declaredCC1Language=en&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_channelName=XumoFreeComedyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+
 #EXTINF:-1 tvg-id="XUMO_99991106" tvg-logo="https://image.xumo.com/v1/channels/channel/99991106/300x300.webp?type=color_onBlack" group-title="Movies",RiffTrax
 https://dbrb49pjoymg4.cloudfront.net/10001/99991106/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991106&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=RiffTrax&ads.csid=xumo_[PLATFORM]_RiffTrax_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1089&ads.xumo_contentName=RiffTrax&ads.xumo_providerId=1089&ads.xumo_providerName=RiffTrax&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991106&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
@@ -578,7 +605,8 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 
 
 
-
+#EXTINF:-1 group-title="Sci-Fi & Fantasy",Continuum
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884591/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884591&ads.xumo_streamId=88884591&declaredCC1Language=en&ads.caid=FilmRise&ads.csid=tcl2_ca_continuum_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=FilmRise&ads.xumo_providerId=5&ads.xumo_providerName=FilmRise&ads.xumo_channelName=FilmRise&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 #EXTINF:-1 tvg-id="Andromeda.us@UK"group-title="Sci-Fi & Fantasy",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
@@ -652,17 +680,22 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991331/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="XUMO_99951412" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/300x300.webp?type=color_onBlack" group-title="Sci-Fi & Fantasy",Xena Warrior Princess
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951412/hls/master.m3u8?ads.xumo_channelId=99951412&ads.asnw=169843&ads.afid=438810158&ads.sfid=23712979&ads.caid=xenawarriorprincess_linear&ads.csid=xumo_[PLATFORM]_NBCUXenaWarriorPrincess_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4226&ads.xumo_contentName=NBCUXenaWarriorPrincess&ads.xumo_providerId=4226&ads.xumo_providerName=NBCUXenaWarriorPrincess&ads.channelId=99951412&ads._fw_ifa_type=[IFA_TYPE]
 
+#EXTINF:-1 group-title="Action & Drama",The Outpost
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884572/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884572&ads.xumo_streamId=88884572&declaredCC1Language=en&ads.caid=TheOutpost&ads.csid=tcl2_us_theoutpost_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=TheOutpost&ads.xumo_providerId=5&ads.xumo_providerName=TheOutpost&ads.xumo_channelName=TheOutpost&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
+#EXTINF:-1 group-title="Action & Drama",AMC Thrillers
+https://ca287254.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0FNQ1RocmlsbGVyc19ITFM/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=AMCThrillers&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 
+#EXTINF:-1 group-title="Action & Drama",Las Vegas
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814609/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814609&ads.xumo_streamId=88814609&declaredCC1Language=en&ads.caid=NBCUTopChefVault&ads.csid=tcl2_us_nbcutopchefvault_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Reality-TV&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3932&ads.xumo_contentName=NBCUTopChefVault&ads.xumo_providerId=3932&ads.xumo_providerName=NBCUTopChefVault&ads.xumo_channelName=NBCUTopChefVault&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",7th Heaven
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",7th Heaven
 https://jmp2.uk/plu-68503cfda1e091e16f000625.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",Beyond the Gates
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 
-#EXTINF:-1 tvg-id="Degrassi.us@US"group-title="Action & Drama"",Degrassi
+#EXTINF:-1 tvg-id="Degrassi.us@US"group-title="Action & Drama",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Action & Drama";Classic TV",Dynasty
@@ -671,49 +704,49 @@ https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 #EXTINF:-1 tvg-id=""group-title="Action & Drama";Classic TV",Dynasty
 https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",Ebony TV Drama
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",Ebony TV Drama
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",Feel Good Drama
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama";Crime & Mystery",Flashpoint
+#EXTINF:-1 tvg-id=""group-title="Action & Drama;Crime & Mystery",Flashpoint
 https://jmp2.uk/plu-66a10eacfe11e500084c6925.m3u8
 
 #EXTINF:-1 tvg-id="Heartland.us@Web"group-title="Action & Drama",Heartland
 https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us@Spain"group-title="Action & Drama"",Melrose Place
+#EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us@Spain"group-title="Action & Drama",Melrose Place
 https://jmp2.uk/plu-66275eed5e23700008f8c8f9.m3u8
 
-#EXTINF:-1 tvg-id="MoreTVDrama.us@SD"group-title="Action & Drama"",More TV Drama
+#EXTINF:-1 tvg-id="MoreTVDrama.us@SD"group-title="Action & Drama",More TV Drama
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",Nash Bridges
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",Nash Bridges
 https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 
-#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD"group-title="Action & Drama"",Paramount+ Picks
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD"group-title="Action & Drama",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVDrama.us@UK"group-title="Action & Drama"",Pluto TV Drama
+#EXTINF:-1 tvg-id="PlutoTVDrama.us@UK"group-title="Action & Drama",Pluto TV Drama
 https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama";Classic TV",Scorpion
+#EXTINF:-1 tvg-id=""group-title="Action & Drama;Classic TV",Scorpion
 https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 
-#EXTINF:-1 tvg-id="StoriesbyAMC.us@SD"group-title="Action & Drama"",Stories by AMC
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@SD"group-title="Action & Drama",Stories by AMC
 https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",Supernatural Drama
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama"",Touched by an Angel
+#EXTINF:-1 tvg-id=""group-title="Action & Drama",Touched by an Angel
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 
-#EXTINF:-1 tvg-id="TVLandDrama.us@SD"group-title="Action & Drama"",TV Land Drama
+#EXTINF:-1 tvg-id="TVLandDrama.us@SD"group-title="Action & Drama",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 
-#EXTINF:-1 tvg-id="TVLandDrama.us@SD"group-title="Action & Drama"",TV Land Drama
+#EXTINF:-1 tvg-id="TVLandDrama.us@SD"group-title="Action & Drama",TV Land Drama
 https://jmp2.uk/plu-612fea0e970e6f00083be56b.m3u8
 
 
@@ -2897,6 +2930,11 @@ https://i.mjh.nz/.r/sbs-3syd.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sbs-sb01.m3u8
 
+#EXTINF:-1 group-title="Comedy",Kim's Convenience
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884585/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884585&ads.xumo_streamId=88884585&declaredCC1Language=en&ads.caid=FilmRise&ads.csid=tcl2_us_kimsconvenience_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=FilmRise&ads.xumo_providerId=5&ads.xumo_providerName=FilmRise&ads.xumo_channelName=FilmRise&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Comedy",80s Sitcom
+https://amg02208-dlt-amg02208c1-tclideo-na-8335.playouts.now.amagi.tv/playlist/amg02208-dltentertainment-80ssitcom-tclideona/playlist.m3u8?device[did]=REPLACE_ME&device[dnt]=REPLACE_ME&gender=REPLACE_ME&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&url=REPLACE_ME&genre=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&gdpr=REPLACE_ME&gdpr_consent=REPLACE_ME&coppa=0&schain=REPLACE_ME&ifa_type=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us@SD" group-title="Comedy",Comedy Dynamics
 https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
