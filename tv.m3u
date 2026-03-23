@@ -83,6 +83,9 @@ https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 #EXTINF:-1 group-title="Classic TV",The Outer Limits
 https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
+#EXTINF:-1 tvg-id="60f75178e7f8aa0007e9c259" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG.png" group-title="Classic TV",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
 
 #EXTINF:-1 tvg-id="XUMO_99991157" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/300x300.webp?type=color_onBlack" group-title="Classic TV",Johnny Carson TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991157/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991157&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheJohnnyCarsonShow&ads.csid=xumo_[PLATFORM]_TheJohnnyCarsonShow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=197&ads.xumo_contentName=ShoutFactory&ads.xumo_providerId=197&ads.xumo_providerName=ShoutFactory&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991157&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
@@ -118,6 +121,9 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-640205c68ecb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG.png" group-title="Classic TV",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+#EXTINF:-1 tvg-id="5ef3977e5d773400077de284" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Classic TV",Three's Company
+https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Classic TV",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
@@ -682,6 +688,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991331/hls/master.m3u8?includeAsset
 
 #EXTINF:-1 tvg-id="XUMO_99951412" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/300x300.webp?type=color_onBlack" group-title="Sci-Fi & Fantasy",Xena Warrior Princess
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951412/hls/master.m3u8?ads.xumo_channelId=99951412&ads.asnw=169843&ads.afid=438810158&ads.sfid=23712979&ads.caid=xenawarriorprincess_linear&ads.csid=xumo_[PLATFORM]_NBCUXenaWarriorPrincess_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4226&ads.xumo_contentName=NBCUXenaWarriorPrincess&ads.xumo_providerId=4226&ads.xumo_providerName=NBCUXenaWarriorPrincess&ads.channelId=99951412&ads._fw_ifa_type=[IFA_TYPE]
+
+
+
 
 #EXTINF:-1 group-title="Action & Drama",The Outpost
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884572/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884572&ads.xumo_streamId=88884572&declaredCC1Language=en&ads.caid=TheOutpost&ads.csid=tcl2_us_theoutpost_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=TheOutpost&ads.xumo_providerId=5&ads.xumo_providerName=TheOutpost&ads.xumo_channelName=TheOutpost&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
@@ -1640,7 +1649,7 @@ https://i.mjh.nz/.r/10-wicked-tuna.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PlutoTVRetroToons.us@UK"group-title="Animation & Kids",Pluto TV Retro Toons
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d"group-title="Animation & Kids",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Animation & Kids",90's Kids
@@ -1848,7 +1857,10 @@ https://i.mjh.nz/.r/10-nickteen.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 tvg-id="cartoon-classics@distro" tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/logo_20241119_223053_61.png" group-title="Classic TV",Cartoon Classics
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation & Kids",RetroCrush (1080p)
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-classics@distro" tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/logo_20241119_223053_61.png" group-title="Animation & Kids",Cartoon Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.channel_name=Cartoon+Classics&ads.content_id=STA105&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136900&ads.show_id=5244&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CCartoon%2CClassic%20Shows%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Cartoon%20Classics&ads.episodetitle=Cartoon%20Classics&ads.keywords=Comedy%2CCartoon&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=7TNIxrkadpW
 
 #EXTINF:-1 tvg-id=""group-title="Classic TV",U&Laughs
