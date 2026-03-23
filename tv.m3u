@@ -403,6 +403,9 @@ https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 #EXTINF:-1 group-title="Movies",Free Sci-Fi & Fantasy Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814535/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814535&ads.xumo_streamId=88814535&declaredCC1Language=en&ads.caid=XumoFreeSciFiandFantasyMovies&ads.csid=tcl2_us_xumofreescifiandfantasymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Horror%252CSci-Fi&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-ma&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeSciFiandFantasyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeSciFiandFantasyMovies&ads.xumo_channelName=XumoFreeSciFiandFantasyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
+#EXTINF:-1 group-title="Movies",MGM Presents
+https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
 #EXTINF:-1 group-title="Movies",MGM Presents Action
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
@@ -658,6 +661,9 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi & Fantasy",Stargate
+https://linear-1082.frequency.stream/dist/tcltv/1082/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD"group-title="Sci-Fi & Fantasy",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
@@ -1108,6 +1114,12 @@ https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/ncis-fast.m3u8
 
+#EXTINF:-1 tvg-id="Baywatch.us@US" group-title="Action & Drama",Baywatch
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Action & Drama",Free Action & Drama TV
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814522/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814522&ads.xumo_streamId=88814522&declaredCC1Language=en&ads.caid=XumoFreeActionandDramaTV&ads.csid=tcl2_us_xumofreeactionanddramatv_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-ma&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionandDramaTV&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionAndDrama&ads.xumo_channelName=XumoFreeActionandDramaTV&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
 #EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="Crime & Mystery" , 9Crime
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -1152,6 +1164,11 @@ https://i.mjh.nz/.r/10-crime-hunters.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
+
+
+#EXTINF:-1 group-title="Crime & Mystery",Sheriffs: El Dorado County
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884588/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884588&ads.xumo_streamId=88884588&declaredCC1Language=en&ads.caid=FilmRise&ads.csid=tcl2_us_sheriffseldorado_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=FilmRise&ads.xumo_providerId=5&ads.xumo_providerName=FilmRise&ads.xumo_channelName=FilmRise&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
 
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="http://img-store-prod.switch.tv/images/cca28dac-5a69-4e9d-90ad-748bc29c142c/ABCNews.png" group-title="News",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -1360,6 +1377,9 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/dw-news.m3u8
+
+#EXTINF:-1 group-title="Documentary & History",AIR & SPACE
+https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8?ads.wurl_channel=1684&ads.wurl_name=AIRandSPACE&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 
 #EXTINF:-1 tvg-id="" group-title="Documentary & History",Cosmic Frontiers (1080p)
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
@@ -2147,8 +2167,10 @@ https://i.mjh.nz/.r/real-emergency-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 
+#EXTINF:-1 group-title="Lifestyle & Travel",Property & Reno
+https://linear-476.frequency.stream/dist/tcltv/476/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 tvg-id=""group-title="Lifestyle & Travel",5 Exploring Britain
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Travel",5 Exploring Britain
 https://jmp2.uk/plu-5ddf901280e3550009139c86.m3u8#EXTINF:-1 tvg-id=""group-title="Lifestyle & Travel",A New Life in the Sun
 https://jmp2.uk/plu-6852854bce36f0644f37d765.m3u8
 
@@ -2222,7 +2244,8 @@ https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 
 
-
+#EXTINF:-1 group-title="Lifestyle & Travel",Property Brothers Channel
+https://linear-684.frequency.stream/dist/tcltv/684/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 
 #EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="mjh-the-block-247-fast" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="Lifestyle & Travel;Reality" , The Block 24/7
@@ -2932,8 +2955,6 @@ https://i.mjh.nz/.r/sbs-sb01.m3u8
 #EXTINF:-1 group-title="Comedy",Kim's Convenience
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884585/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884585&ads.xumo_streamId=88884585&declaredCC1Language=en&ads.caid=FilmRise&ads.csid=tcl2_us_kimsconvenience_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=FilmRise&ads.xumo_providerId=5&ads.xumo_providerName=FilmRise&ads.xumo_channelName=FilmRise&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 group-title="Comedy",80s Sitcom
-https://amg02208-dlt-amg02208c1-tclideo-na-8335.playouts.now.amagi.tv/playlist/amg02208-dltentertainment-80ssitcom-tclideona/playlist.m3u8?device[did]=REPLACE_ME&device[dnt]=REPLACE_ME&gender=REPLACE_ME&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&url=REPLACE_ME&genre=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&gdpr=REPLACE_ME&gdpr_consent=REPLACE_ME&coppa=0&schain=REPLACE_ME&ifa_type=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us@SD" group-title="Comedy",Comedy Dynamics
 https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
@@ -3803,4 +3824,5 @@ https://i.mjh.nz/.r/tourism-tv.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-tas.m3u8
+
 
