@@ -104,7 +104,7 @@ https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master_6.m3u8
 #EXTINF:-1 tvg-id="TheBeverlyHillbillies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/The_Beverly_Hillbillies.svg/revision/latest/scale-to-width-down/250?cb=20210629160139" tvg-name="The Beverly Hillbillies" group-title="Classic TV",The Beverly Hillbillies
 https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f7796e470510900070d4e3d"group-title="Classic TV",Beverly Hillbillies
+#EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG.png" group-title="Classic TV",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
@@ -834,10 +834,10 @@ https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
 
 
 
-#EXTINF:-1 tvg-id="48Hours.us@SD"group-title="Crime & Mystery",48 Hours
+#EXTINF:-1 tvg-id="6176f39e709f160007ec61c3"group-title="Crime & Mystery",48 Hours
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
 
-#EXTINF:-1 tvg-id="48Hours.us@SD"group-title="Crime & Mystery",48 Hours
+#EXTINF:-1 tvg-id="6299e5afdd5833000727e795"group-title="Crime & Mystery",48 Hours
 https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
 
 #EXTINF:-1 tvg-id="5Cops.us@UK"group-title="Crime & Mystery",5 Cops
