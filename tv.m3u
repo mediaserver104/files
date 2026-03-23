@@ -1,4 +1,8 @@
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTM3U url-tvg="http://192.168.1.200:8409/iptv/xmltv.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
+
+
+
+
 
 
 #EXTINF:0 tvg-id="C99.210.ersatztv.org" channel-id="YRDbcKBUNUKZO3xLiFZSpQ" channel-number="99" CUID="YRDbcKBUNUKZO3xLiFZSpQ" tvg-chno="99" tvg-name="Vault-Tec" tvg-logo="http://192.168.1.200:8409/iptv/logos/C03546577767047917D91494E43BA70B.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Vault-Tec
@@ -59,10 +63,10 @@ http://192.168.1.200:8409/iptv/channel/990.m3u8?mode=hls-direct
 
 
 
-#EXTINF:-1 group-title="Classic TV",Green Acres
+#EXTINF:-1 tvg-logo="https://nexxdigitalmarketing.com/wp-content/uploads/2025/05/2.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 group-title="Classic TV",The Addams Family
+#EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
 https://linear-1146.frequency.stream/dist/tcltv/1146/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-id="Alfred Hitchcock Presents" tvg-logo="https://m.media-amazon.com/images/I/41kkoJ4jU7L._UXNaN_FMjpg_QL85_.jpg" group-title="Classic TV",Alfred Hitchcock Presents
@@ -112,33 +116,35 @@ https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk5MzgwMDU5M30
 
 
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Bonanza
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG.png" group-title="Classic TV",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Cheers + Frasier
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Classic TV",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 
-#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD"group-title="Classic TV",Classic TV Comedy
+#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Classic TV",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Classic TV Crime Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 
-#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD"group-title="Classic TV",Classic TV Drama
+#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
 https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 
-#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD"group-title="Classic TV",Classic TV: Families
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV: Families
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
-#EXTINF:-1 tvg-id="FamilyTies.us@SD"group-title="Classic TV",Family Ties
+#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Classic TV",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
-#EXTINF:-1 tvg-id="Gunsmoke.us@SD"group-title="Classic TV",Gunsmoke
+#EXTINF:-1 tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Classic TV",Gunsmoke
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
-#EXTINF:-1 tvg-id="Gunsmoke.us@SD"group-title="Classic TV",Gunsmoke
+#EXTINF:-1 tvg-id="68503d1736c9361b191e7d89" tvg-logo="https://images.pluto.tv/channels/68503d1736c9361b191e7d89/colorLogoPNG.png" group-title="Classic TV",Gunsmoke
 https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
 
-#EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/series/5fac94083650d7001b3fed6c/tile_1768506733600.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" group-title="Classic TV",Happy Days
+#EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Classic TV",Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Classic TV",Hit Sitcoms
@@ -339,7 +345,7 @@ https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="63335b193583440007c859fb",Lifetime Movie Favorites
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="6008ddf24ef92b00079d61cf",Movies for Gamers
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6008ddf24ef92b00079d61cf/colorLogoPNG.png" group-title="Movies" tvg-id="6008ddf24ef92b00079d61cf",Movies for Gamers
 https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="645e7828e1979c00087b75b4",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
