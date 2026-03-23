@@ -2,9 +2,6 @@
 
 
 
-
-
-
 #EXTINF:0 tvg-id="C99.210.ersatztv.org" channel-id="YRDbcKBUNUKZO3xLiFZSpQ" channel-number="99" CUID="YRDbcKBUNUKZO3xLiFZSpQ" tvg-chno="99" tvg-name="Vault-Tec" tvg-logo="http://192.168.1.200:8409/iptv/logos/C03546577767047917D91494E43BA70B.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Vault-Tec
 http://192.168.1.200:8409/iptv/channel/99.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C100.241.ersatztv.org" channel-id="lKd4YXy_BEewu1ewM8KZCA" channel-number="100" CUID="lKd4YXy_BEewu1ewM8KZCA" tvg-chno="100" tvg-name="Cartoon Classics" tvg-logo="http://192.168.1.200:8409/iptv/logos/B65126A27B26EA8594C84BBA6F086387.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cartoon Classics
