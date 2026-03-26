@@ -56,7 +56,7 @@ http://192.168.1.200:8409/iptv/channel/310.m3u8?mode=hls-direct
 http://192.168.1.200:8409/iptv/channel/320.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C990.258.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="990" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="990" tvg-name="Countdown" tvg-logo="http://192.168.1.200:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
 http://192.168.1.200:8409/iptv/channel/990.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C999.267.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="999" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="999" tvg-name="DaveTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/B406D94007125918F9DA675C620BBA5A.jpg" group-title="AtomicTV", DaveTV
+#EXTINF:0 tvg-id="C999.267.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="999" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="999" tvg-name="DaveTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/9BA6786E9212E7BFD67C4A368B086B12.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", DaveTV
 http://192.168.1.200:8409/iptv/channel/999.ts
 
 
