@@ -54,6 +54,8 @@ http://192.168.1.200:8409/iptv/channel/300.m3u8?mode=hls-direct
 http://192.168.1.200:8409/iptv/channel/310.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C320.245.ersatztv.org" channel-id="kLcqu7F_pEanXzwjjRZHDA" channel-number="320" CUID="kLcqu7F_pEanXzwjjRZHDA" tvg-chno="320" tvg-name="Suits" tvg-logo="http://192.168.1.200:8409/iptv/logos/258410A5791848AFED8D88D8B6C28B51.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Suits
 http://192.168.1.200:8409/iptv/channel/320.m3u8?mode=hls-direct
+#EXTINF:0 tvg-id="C370.250.ersatztv.org" channel-id="WYdO5u6qKEu2mGPEYvi8yQ" channel-number="370" CUID="WYdO5u6qKEu2mGPEYvi8yQ" tvg-chno="370" tvg-name="The Simpsons" tvg-logo="http://192.168.1.200:8409/iptv/logos/400C0788CD253427947C866250CF84B7.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Simpsons
+http://192.168.1.200:8409/iptv/channel/370.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C990.258.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="990" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="990" tvg-name="Countdown" tvg-logo="http://192.168.1.200:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
 http://192.168.1.200:8409/iptv/channel/990.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C998.266.ersatztv.org" channel-id="F7WAeNHcKkGx85pZp5kC_g" channel-number="998" CUID="F7WAeNHcKkGx85pZp5kC_g" tvg-chno="998" tvg-name="MTV Punk" tvg-logo="http://192.168.1.200:8409/iptv/logos/63FA7FFEACD77161652D4B3691425B61.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV Punk
