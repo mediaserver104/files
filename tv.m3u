@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.1.200:8409/iptv/xmltv.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/all/epg.xml.gz,https://tvpass.org/epg.xml"
+#EXTM3U url-tvg="http://192.168.1.200:8409/iptv/xmltv.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/all/epg.xml.gz,https://tvpass.org/epg.xmlhttps://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
 
 
@@ -3840,16 +3840,13 @@ https://i.mjh.nz/.r/tourism-tv.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-tas.m3u8
 
-
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="TVPass",MeTV Toons
 https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="TVPass",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" group-title="TVPass",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" group-title="TVPass",Cinemax
 https://tvpass.org/live/CinemaxEast/hd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="TVPass",HBO
-https://tvpass.org/live/HBOEast/hd
-#EXTINF:-1 tvg-id="amc-eastern-feed" group-title="TVPass",AMC
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="TVPass",AMC
 https://tvpass.org/live/AMCEast/hd
 #EXTINF:-1 tvg-id="bbc-america-east" group-title="TVPass",BBC Amercia
 https://tvpass.org/live/BBCAmericaEast/hd
@@ -3857,43 +3854,43 @@ https://tvpass.org/live/BBCAmericaEast/hd
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1 tvg-id="cnn" group-title="TVPass",CNN US
 https://tvpass.org/live/CNN/hd
-#EXTINF:-1 tvg-id="fx-movie-channel" group-title="TVPass",FX Movie
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="TVPass",FX Movie
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" group-title="TVPass",FX
 https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 tvg-id="fxx-usa-eastern" group-title="TVPass",FXX
 https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="TVPass",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="TVPass",HBO
 https://tvpass.org/live/HBOEast/hd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" group-title="TVPass",HBO2
+#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="TVPass",HBO2
 https://tvpass.org/live/HBO2East/hd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" group-title="TVPass",HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="TVPass",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/hd
 #EXTINF:-1 tvg-id="hbo-family-eastern-feed" group-title="TVPass",HBO Family
 https://tvpass.org/live/HBOFamilyEast/hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" group-title="TVPass",HBO Signature
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" group-title="TVPass",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" group-title="TVPass",HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" group-title="TVPass",HBO Zone
 https://tvpass.org/live/HBOZoneEast/hd
-#EXTINF:-1 tvg-id="independent-film-channel-us" group-title="TVPass",Independent Film Channel
+#EXTINF:-1 tvg-id="IFC.HD.us2" group-title="TVPass",Independent Film Channel
 https://tvpass.org/live/IFCEast/hd
-#EXTINF:-1 tvg-id="moremax-eastern" group-title="TVPass",MoreMax
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" group-title="TVPass",MoreMax
 https://tvpass.org/live/MoreMaxEast/hd
 #EXTINF:-1 tvg-id="reelzchannel" group-title="TVPass",Reelz Channel
 https://tvpass.org/live/Reelz/hd
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" group-title="TVPass",Showtime
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="TVPass",Showtime
 https://tvpass.org/live/ShowtimeEast/hd
-#EXTINF:-1 tvg-id="showtime-2-eastern" group-title="TVPass",Showtime 2
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" group-title="TVPass",Showtime 2
 https://tvpass.org/live/Showtime2East/hd
-#EXTINF:-1 tvg-id="starz-eastern" group-title="TVPass",Starz
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" group-title="TVPass",Starz
 https://tvpass.org/live/StarzEast/hd
 #EXTINF:-1 tvg-id="syfy-eastern-feed" group-title="TVPass",SyFy
 https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 tvg-id="tbs-east" group-title="TVPass",TBS
 https://tvpass.org/live/TBSEast/hd
-#EXTINF:-1 tvg-id="tmc-us-eastern-feed" group-title="TVPass",TMC
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" group-title="TVPass",TMC
 https://tvpass.org/live/TheMovieChannelEast/hd
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" group-title="TVPass",Turner Classic Movies
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" group-title="TVPass",Turner Classic Movies
 https://tvpass.org/live/TCMEast/hd
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="TVPass",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
@@ -3929,7 +3926,7 @@ https://tvpass.org/live/GolfChannel/hd
 https://tvpass.org/live/HallmarkDrama/hd
 #EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" group-title="TVPass",Hallmark Movies & Mysteries
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
-#EXTINF:-1 tvg-id="lifetime-movies-east" group-title="TVPass",Lifetime Movies
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" group-title="TVPass",Lifetime Movies
 https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1 tvg-id="logo-east" group-title="TVPass",Logo East
 https://tvpass.org/live/LogoEast/hd
@@ -3955,8 +3952,7 @@ https://tvpass.org/live/nbc-sports-philadelphia/hd
 https://tvpass.org/live/NewsmaxTV/hd
 #EXTINF:-1 tvg-id="nfl-redzone" group-title="TVPass",NFL RedZone
 https://tvpass.org/live/NFLRedZone/hd
-#EXTINF:-1 tvg-id="starz-eastern" group-title="TVPass",Starz East
-https://tvpass.org/live/StarzEast/hd
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="TVPass",USA Network
 https://tvpass.org/live/USANetworkEast/hd
+
 
