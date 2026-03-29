@@ -3,9 +3,11 @@
 
 
 #EXTINF:0 tvg-id="C99.210.ersatztv.org" channel-id="YRDbcKBUNUKZO3xLiFZSpQ" channel-number="99" CUID="YRDbcKBUNUKZO3xLiFZSpQ" tvg-chno="99" tvg-name="Vault-Tec" tvg-logo="http://192.168.1.200:8409/iptv/logos/C03546577767047917D91494E43BA70B.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Vault-Tec
-http://192.168.1.200:8409/iptv/channel/99.m3u8?mode=hls-direct
+http://192.168.1.200:8409/iptv/channel/99.ts
 #EXTINF:0 tvg-id="C100.241.ersatztv.org" channel-id="lKd4YXy_BEewu1ewM8KZCA" channel-number="100" CUID="lKd4YXy_BEewu1ewM8KZCA" tvg-chno="100" tvg-name="Cartoon Classics" tvg-logo="http://192.168.1.200:8409/iptv/logos/B65126A27B26EA8594C84BBA6F086387.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cartoon Classics
 http://192.168.1.200:8409/iptv/channel/100.m3u8?mode=hls-direct
+#EXTINF:0 tvg-id="C105.246.ersatztv.org" channel-id="DNEJy347lECv1-2v485a-Q" channel-number="105" CUID="DNEJy347lECv1-2v485a-Q" tvg-chno="105" tvg-name="Thunderbirds" tvg-logo="http://192.168.1.200:8409/iptv/logos/7F9EC01624590ECA5791479BA9D1C076.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Thunderbirds
+http://192.168.1.200:8409/iptv/channel/105.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C110.242.ersatztv.org" channel-id="Ti2aAVodL0OBccEwqeKrKQ" channel-number="110" CUID="Ti2aAVodL0OBccEwqeKrKQ" tvg-chno="110" tvg-name="Atomic TV" tvg-logo="http://192.168.1.200:8409/iptv/logos/5B709FF51654FAE5D51F3EE5408D0065.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Atomic TV
 http://192.168.1.200:8409/iptv/channel/110.m3u8?mode=hls-direct
 #EXTINF:0 tvg-id="C115.247.ersatztv.org" channel-id="S4HVmGekGEG2fauukUB5UA" channel-number="115" CUID="S4HVmGekGEG2fauukUB5UA" tvg-chno="115" tvg-name="Outer Zone" tvg-logo="http://192.168.1.200:8409/iptv/logos/949D52225411FDBBE5E04212376AA991.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Outer Zone
@@ -316,9 +318,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_c
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="62ba60f059624e000781c436",00s Replay
@@ -3841,6 +3840,7 @@ https://i.mjh.nz/.r/tourism-tv.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-tas.m3u8
 
+
 #EXTINF:-1 tvg-id="MeTV Toons" group-title="TVPass",MeTV Toons
 https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="MeTV" group-title="TVPass",MeTV
@@ -4002,3 +4002,4 @@ https://tvpass.org/live/WNET/hd
 https://tvpass.org/live/TelemundoEast/hd
 #EXTINF:-1 tvg-id="WNYWDT1.us@SD" group-title="TVPass",WNYW-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WNYWDT1/hd
+
