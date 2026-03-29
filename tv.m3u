@@ -3841,3 +3841,164 @@ https://i.mjh.nz/.r/tourism-tv.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-tas.m3u8
 
+#EXTINF:-1 tvg-id="MeTV Toons" group-title="TVPass",MeTV Toons
+https://tvpass.org/live/metv-toons/hd
+#EXTINF:-1 tvg-id="MeTV" group-title="TVPass",MeTV
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+
+#EXTINF:-1 tvg-id="Cinemax" group-title="TVPass",Cinemax
+https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="HBO" group-title="TVPass",HBO
+https://tvpass.org/live/HBOEast/hd
+
+#EXTINF:-1 tvg-id="AMC" group-title="TVPass",AMC
+https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1 tvg-id="BBC Amercia" group-title="TVPass",BBC Amercia
+https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-id="Bravo" group-title="TVPass",Bravo
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="CNN" group-title="TVPass",CNN US
+https://tvpass.org/live/CNN/hd
+#EXTINF:-1 tvg-id="FX Movie" group-title="TVPass",FX Movie
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FX" group-title="TVPass",FX
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FXX" group-title="TVPass",FXX
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="HBO" group-title="TVPass",HBO
+https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="HBO2" group-title="TVPass",HBO2
+https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 tvg-id="HBO Comedy" group-title="TVPass",HBO Comedy
+https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="HBO Family" group-title="TVPass",HBO Family
+https://tvpass.org/live/HBOFamilyEast/hd
+#EXTINF:-1 tvg-id="HBO Signature" group-title="TVPass",HBO Signature
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="HBO Zone" group-title="TVPass",HBO Zone
+https://tvpass.org/live/HBOZoneEast/hd
+#EXTINF:-1 tvg-id="Independant Film Channel" group-title="TVPass",Independant Film Channel
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="MoreMax" group-title="TVPass",MoreMax
+https://tvpass.org/live/MoreMaxEast/hd
+#EXTINF:-1 tvg-id="Reelz" group-title="TVPass",Reelz
+https://tvpass.org/live/Reelz/hd
+#EXTINF:-1 tvg-id="Showtime" group-title="TVPass",Showtime
+https://tvpass.org/live/ShowtimeEast/hd
+#EXTINF:-1 tvg-id="Showtime 2" group-title="TVPass",Showtime 2
+https://tvpass.org/live/Showtime2East/hd
+#EXTINF:-1 tvg-id="Starz" group-title="TVPass",Starz
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="SyFy" group-title="TVPass",SyFy
+https://tvpass.org/live/SyfyEast/hd
+
+#EXTINF:-1 tvg-id="TBS" group-title="TVPass",TBS
+https://tvpass.org/live/TBSEast/hd
+
+#EXTINF:-1 tvg-id="TMC" group-title="TVPass",TMC
+https://tvpass.org/live/TheMovieChannelEast/hd
+
+#EXTINF:-1 tvg-id="Turner Classic Movies" group-title="TVPass",Turner Classic Movies
+https://tvpass.org/live/TCMEast/hd
+
+#EXTINF:-1 tvg-id="TV Land" group-title="TVPass",TV Land
+https://tvpass.org/live/tv-land-eastern/hd
+
+
+
+#EXTINF:-1 tvg-id="AE.us@East" group-title="TVPass",A&E East (720p) [Not 24/7]
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="CNBC.us@SD" group-title="TVPass",CNBC (720p) [Not 24/7]
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD" group-title="TVPass",Crime + Investigation (720p) [Not 24/7]
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="TVPass",Disney Channel East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="TVPass",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="DisneyXD.us@East" group-title="TVPass",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E.us@East" group-title="TVPass",E! East (1080p) [Not 24/7]
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="TVPass",Fox Business Network (720p) [Not 24/7]
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="TVPass",Fox News Channel (720p) [Not 24/7]
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="" group-title="TVPass",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="Fuse.us@East" group-title="TVPass",Fuse East (1080p) [Not 24/7]
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-id="FX.us@East" group-title="TVPass",FX East (720p) [Not 24/7]
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD" group-title="TVPass",FX Movie Channel (720p) [Not 24/7]
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FXX.us@East" group-title="TVPass",FXX East (720p) [Not 24/7]
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="FYI.us@East" group-title="TVPass",FYI East (720p) [Not 24/7]
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="TVPass",Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD" group-title="TVPass",Hallmark Drama (720p) [Not 24/7]
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East" group-title="TVPass",Hallmark Movies & Mysteries East (1080p) [Not 24/7]
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="IFC.us@East" group-title="TVPass",IFC East (720p) [Not 24/7]
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="KCBSDT1.us@SD" group-title="TVPass",KCBS-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="KFMBDT2.us@SD" group-title="TVPass",KFMB-DT2 (720p) [Not 24/7]
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 tvg-id="KNBCDT1.us@SD" group-title="TVPass",KNBC-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="KTTVDT1.us@SD" group-title="TVPass",KTTV-DT1 (720p) [Not 24/7]
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" group-title="TVPass",Lifetime Movies East (720p) [Not 24/7]
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 tvg-id="Logo.us@East" group-title="TVPass",Logo East (720p) [Not 24/7]
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-id="MSG.us@SD" group-title="TVPass",MSG (1080p) [Not 24/7]
+https://tvpass.org/live/msg-madison-square-gardens/hd
+#EXTINF:-1 tvg-id="MSGPlus.us@SD" group-title="TVPass",MSG Plus (720p) [Not 24/7]
+https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 tvg-id="" group-title="TVPass",MSNBC (720p) [Not 24/7]
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" group-title="TVPass",National Geographic HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" group-title="TVPass",National Geographic Wild HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" group-title="TVPass",NBC Sports Bay Area (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="NBCSportsBoston.us@SD" group-title="TVPass",NBC Sports Boston (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" group-title="TVPass",NBC Sports Philadelphia (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" group-title="TVPass",Newsmax TV (1080p) [Not 24/7]
+https://tvpass.org/live/NewsmaxTV/hd
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" group-title="TVPass",NFL RedZone (720p) [Not 24/7]
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-id="Starz.us@East" group-title="TVPass",Starz East (1080p) [Not 24/7]
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="TSN1.ca@SD" group-title="TVPass",TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="TSN2.ca@SD" group-title="TVPass",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="TVPass",TSN3 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="TSN4.ca@SD" group-title="TVPass",TSN4 (720p) [Not 24/7]
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="TSN5.ca@SD" group-title="TVPass",TSN5 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="TVPass",USA Network East (1080p) [Not 24/7]
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="WABCDT1.us@SD" group-title="TVPass",WABC-DT1 (720p) [Not 24/7]
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="WISDT2.us@SD" group-title="TVPass",WIS-DT2 (720p) [Not 24/7]
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD" group-title="TVPass",WNBC-DT1 (720p) [Not 24/7]
+https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 tvg-id="WNETDT1.us@SD" group-title="TVPass",WNET-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD" group-title="TVPass",WNJU-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 tvg-id="WNYWDT1.us@SD" group-title="TVPass",WNYW-DT1 (720p) [Not 24/7]
+https://tvpass.org/live/WNYWDT1/hd
