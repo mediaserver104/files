@@ -3856,7 +3856,7 @@ https://tvpass.org/live/BravoEast/hd
 https://tvpass.org/live/CNN/hd
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="TVPass",FX Movie
 https://tvpass.org/live/FXMovieChannel/hd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" group-title="TVPass",FX
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="TVPass",FX
 https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 tvg-id="fxx-usa-eastern" group-title="TVPass",FXX
 https://tvpass.org/live/FXXEast/hd
