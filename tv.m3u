@@ -3853,7 +3853,7 @@ https://tvpass.org/live/HBOEast/hd
 
 #EXTINF:-1 tvg-id="AMC" group-title="TVPass",AMC
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="BBC Amercia" group-title="TVPass",BBC Amercia
+#EXTINF:-1 tvg-id="BBC America" group-title="TVPass",BBC America
 https://tvpass.org/live/BBCAmericaEast/hd
 #EXTINF:-1 tvg-id="Bravo" group-title="TVPass",Bravo
 https://tvpass.org/live/BravoEast/hd
