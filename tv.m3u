@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/all/epg.xml.gz,https://tvpass.org/epg.xmlhttps://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
-
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/Plex/all.xml;https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/all/epg.xml.gz,https://tvpass.org/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
 
 
@@ -177,7 +176,7 @@ https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.channel_name=Comedy+Classics&ads.content_id=STA108&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136901&ads.show_id=5245&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CComedy%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Comedy%20Classics&ads.episodetitle=Comedy%20Classics&ads.keywords=Classic%2CComedy&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=6X7yzRAm3Mq
 
 
-#EXTINF:-1 tvg-id="21-jump-street" group-title="Classic TV",21 Jump Street (1080p)
+#EXTINF:-1 tvg-id="21-jump-street" group-title="Classic TV",21 Jump Street
 https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
 
 
@@ -529,24 +528,24 @@ https://2bf7756b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://stream.broadpeak.io/828752f77ada1b8bdfa4b2c4c7f0108e/channels/6416f2b20f43c8665f42a8ee/master.m3u8?app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&channel_name=Movie+Mania&content_id=&content_genre=Movies+and+Series&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=MyCastTV_MyCastTV_MovieManiaEN-US&content_categories=IAB1%2CIAB1-5&content_custom_3_param=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&dnt=&lmt=&coppa=0&us_privacy=1YNN&cb=&h=&w=&content_livestream=1&tag_id=106918&wtv_channel_id=0060&tv_language=&placement=1&ap=1&mute=0&skip=0&gender=F%2CM&age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&sid=&ssai_vendor=MyCastTV&min_dur=5&max_dur=30&ads.gdpr=0
 
 
-#EXTINF:-1 tvg-id="popflix" group-title="Movies",Popflix (720p)
+#EXTINF:-1 tvg-id="popflix" group-title="Movies",Popflix
 https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-id="RakutenTVTopMovies.es@UK" group-title="Movies",Rakuten Top Movies UK (1080p)
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-id="RakutenTVTopMovies.es@UK" group-title="Movies",Rakuten Top Movies UK
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-id="RakutenTVActionMovies.es@UK" group-title="Movies",Rakuten TV Action Movies UK (1080p)
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-id="RakutenTVActionMovies.es@UK" group-title="Movies",Rakuten TV Action Movies UK
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-id="RakutenTVComedyMovies.es@UK" group-title="Movies",Rakuten TV Comedy Movies UK (1080p)
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-id="RakutenTVComedyMovies.es@UK" group-title="Movies",Rakuten TV Comedy Movies UK
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-id="RakutenTVDramaMovies.es@UK" group-title="Movies",Rakuten TV Drama Movies UK (1080p)
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-id="RakutenTVDramaMovies.es@UK" group-title="Movies",Rakuten TV Drama Movies UK
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-id="RakutenTVFamilyMovies.es@UK" group-title="Movies",Rakuten TV Family Movies UK (1080p)
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-id="RakutenTVFamilyMovies.es@UK" group-title="Movies",Rakuten TV Family Movies UK
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
-#EXTINF:-1 tvg-id="romance-rakuten-tv" group-title="Movies",Rakuten TV Romance Movies UK (1080p)
+#EXTINF:-1 tvg-id="romance-rakuten-tv" group-title="Movies",Rakuten TV Romance Movies UK
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" group-title="Movies",Rakuten TV Sci-Fi UK (1080p)
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" group-title="Movies",Rakuten TV Sci-Fi UK
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
-#EXTINF:-1 tvg-id="thriller-rakuten-tv" group-title="Movies",Rakuten TV Thrillers UK (1080p)
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" group-title="Movies",Rakuten TV Thrillers UK
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 
 
@@ -1328,7 +1327,7 @@ https://i.mjh.nz/.r/dw-news.m3u8
 #EXTINF:-1 group-title="Documentary & History",AIR & SPACE
 https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8?ads.wurl_channel=1684&ads.wurl_name=AIRandSPACE&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 
-#EXTINF:-1 tvg-id="" group-title="Documentary & History",Cosmic Frontiers (1080p)
+#EXTINF:-1 tvg-id="" group-title="Documentary & History",Cosmic Frontiers
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/3-1x1.png" tvg-id="LN_79549FA0-4EBE-48C3-957F-037BA02E827F" tvg-id="LN_79549FA0-4EBE-48C3-957F-037BA02E827F" group-title="Documentary & History",Horror Machine
@@ -1797,7 +1796,7 @@ https://i.mjh.nz/.r/10-nickteen.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation & Kids",RetroCrush (1080p)
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation & Kids",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-classics@distro" tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/logo_20241119_223053_61.png" group-title="Animation & Kids",Cartoon Classics
@@ -2608,40 +2607,40 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rocktv" tvg-logo="" group-title="Music",Rock TV
 https://21e6414e36b844dc82803325a634a6f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_RockTV/playlist.m3u8?ads.wurl_channel=1367&ads.wurl_name=RockTV&ads.coppa=0&ads.device_id=c86fe201-8996-49f4-99ed-190d66adc82c&ads.dnt=0&ads.lmt=0&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=F%2CM&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&ads.duration=&ads.content_producer_name=WURL_CHILI_RockTV&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=c86fe201-8996-49f4-99ed-190d66adc82c&ads.height=1080&ads.width=1920&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB1%2CIAB1-6&ads.rlaxx_genre=Music&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=106482&ads.channel_number=0108&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
 
-#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Music",Totalmusic 80s (720p)
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Music",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Music",Totalmusic 2000s (720p)
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Music",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Music",Totalmusic (720p)
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Music",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Music",Totalmusic Concerts (720p)
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Music",Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Music",Totalmusic Dance (720p)
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Music",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p)
+#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo 70s (1080p)
+#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo 70s
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (1080p)
+#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo 90s (1080p)
+#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo 90s
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country (1080p)
+#EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (1080p)
+#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock (1080p)
+#EXTINF:-1 tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
 https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VevoRB.us@SD"group-title="Music",Vevo R&B
@@ -2653,31 +2652,31 @@ https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 #EXTINF:-1 tvg-id=""group-title="Music",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Music",XITE 80s Flashback (1080p)
+#EXTINF:-1 tvg-id="" group-title="Music",XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Music",XITE 90s Throwback (1080p)
+#EXTINF:-1 tvg-id="" group-title="Music",XITE 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Music",XITE Celebrates (1080p)
+#EXTINF:-1 tvg-id="" group-title="Music",XITE Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
 
-#EXTINF:-1 tvg-id="XITEHits.nl@NL" group-title="Music",XITE Hits (1080p)
+#EXTINF:-1 tvg-id="XITEHits.nl@NL" group-title="Music",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Music",XITE Classic Country
 https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 
-#EXTINF:-1 tvg-id="XITEJustChill.nl@US" group-title="Music",XITE Just Chill (1080p)
+#EXTINF:-1 tvg-id="XITEJustChill.nl@US" group-title="Music",XITE Just Chill
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 
-#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" group-title="Music",XITE Rock x Metal (1080p)
+#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" group-title="Music",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Music",XITE Rock x Metal
 https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" group-title="Music",XITE Reggae Vibes (1080p)
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" group-title="Music",XITE Reggae Vibes
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 
 #EXTINF:-1 tvg-id="CMTEqualPlay.us@SD"group-title="Music",CMT Equal Play
@@ -2695,7 +2694,7 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Auto",Ice Road Truckers (720p)
+#EXTINF:-1 tvg-id="" group-title="Auto",Ice Road Truckers
 https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Auto",5 Trucking Hell
@@ -3775,6 +3774,7 @@ https://i.mjh.nz/.r/tourism-tv.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-tas.m3u8
 
+
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="TVPass",MeTV Toons
 https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="TVPass",MeTV
@@ -3783,7 +3783,7 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="AMC.HD.us2" group-title="TVPass",AMC
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="bbc-america-east" group-title="TVPass",BBC Amercia
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="TVPass",BBC Amercia
 https://tvpass.org/live/BBCAmericaEast/hd
 #EXTINF:-1 tvg-id="bravo-usa-eastern-feed" group-title="TVPass",Bravo
 https://tvpass.org/live/BravoEast/hd
@@ -3821,7 +3821,7 @@ https://tvpass.org/live/Showtime2East/hd
 https://tvpass.org/live/StarzEast/hd
 #EXTINF:-1 tvg-id="syfy-eastern-feed" group-title="TVPass",SyFy
 https://tvpass.org/live/SyfyEast/hd
-#EXTINF:-1 tvg-id="tbs-east" group-title="TVPass",TBS
+#EXTINF:-1 tvg-id="TBS.HD.us2" group-title="TVPass",TBS
 https://tvpass.org/live/TBSEast/hd
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" group-title="TVPass",TMC
 https://tvpass.org/live/TheMovieChannelEast/hd
@@ -3841,7 +3841,7 @@ https://tvpass.org/live/DisneyChannelEast/hd
 https://tvpass.org/live/DisneyJuniorEast/hd
 #EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" group-title="TVPass",Disney XD
 https://tvpass.org/live/DisneyXDEast/hd
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="TVPass",E!
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" group-title="TVPass",E!
 https://tvpass.org/live/EEast/hd
 #EXTINF:-1 tvg-id="fox-business" group-title="TVPass",Fox Business Network
 https://tvpass.org/live/FoxBusiness/hd
