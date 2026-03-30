@@ -1,74 +1,9 @@
-#EXTM3U url-tvg="http://192.168.1.200:8409/iptv/xmltv.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/all/epg.xml.gz,https://tvpass.org/epg.xmlhttps://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
-
-
-
-#EXTINF:0 tvg-id="C99.210.ersatztv.org" channel-id="YRDbcKBUNUKZO3xLiFZSpQ" channel-number="99" CUID="YRDbcKBUNUKZO3xLiFZSpQ" tvg-chno="99" tvg-name="Vault-Tec" tvg-logo="http://192.168.1.200:8409/iptv/logos/C03546577767047917D91494E43BA70B.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Vault-Tec
-http://192.168.1.200:8409/iptv/channel/99.ts
-#EXTINF:0 tvg-id="C100.241.ersatztv.org" channel-id="lKd4YXy_BEewu1ewM8KZCA" channel-number="100" CUID="lKd4YXy_BEewu1ewM8KZCA" tvg-chno="100" tvg-name="Cartoon Classics" tvg-logo="http://192.168.1.200:8409/iptv/logos/B65126A27B26EA8594C84BBA6F086387.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cartoon Classics
-http://192.168.1.200:8409/iptv/channel/100.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C105.246.ersatztv.org" channel-id="DNEJy347lECv1-2v485a-Q" channel-number="105" CUID="DNEJy347lECv1-2v485a-Q" tvg-chno="105" tvg-name="Thunderbirds" tvg-logo="http://192.168.1.200:8409/iptv/logos/7F9EC01624590ECA5791479BA9D1C076.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Thunderbirds
-http://192.168.1.200:8409/iptv/channel/105.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C110.242.ersatztv.org" channel-id="Ti2aAVodL0OBccEwqeKrKQ" channel-number="110" CUID="Ti2aAVodL0OBccEwqeKrKQ" tvg-chno="110" tvg-name="Atomic TV" tvg-logo="http://192.168.1.200:8409/iptv/logos/5B709FF51654FAE5D51F3EE5408D0065.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Atomic TV
-http://192.168.1.200:8409/iptv/channel/110.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C115.247.ersatztv.org" channel-id="S4HVmGekGEG2fauukUB5UA" channel-number="115" CUID="S4HVmGekGEG2fauukUB5UA" tvg-chno="115" tvg-name="Outer Zone" tvg-logo="http://192.168.1.200:8409/iptv/logos/949D52225411FDBBE5E04212376AA991.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Outer Zone
-http://192.168.1.200:8409/iptv/channel/115.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C120.243.ersatztv.org" channel-id="m7biASL_c0-G1HMZP9j-FQ" channel-number="120" CUID="m7biASL_c0-G1HMZP9j-FQ" tvg-chno="120" tvg-name="Spooky TV" tvg-logo="http://192.168.1.200:8409/iptv/logos/D746E8B9C6BDA7D5F4664582181101C7.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Spooky TV
-http://192.168.1.200:8409/iptv/channel/120.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C130.244.ersatztv.org" channel-id="hLIbnKXVjUWrCTSspypiBg" channel-number="130" CUID="hLIbnKXVjUWrCTSspypiBg" tvg-chno="130" tvg-name="Classic Vault" tvg-logo="http://192.168.1.200:8409/iptv/logos/23FCAA09C905EB6A9F408B17B322B28D.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Classic Vault
-http://192.168.1.200:8409/iptv/channel/130.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C132.246.ersatztv.org" channel-id="Ocpwzdudzk6FUNoK3dc34Q" channel-number="132" CUID="Ocpwzdudzk6FUNoK3dc34Q" tvg-chno="132" tvg-name="Yesteryear" tvg-logo="http://192.168.1.200:8409/iptv/logos/C4D9E0D562BD85AB52247DB417BA2E8C.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Yesteryear
-http://192.168.1.200:8409/iptv/channel/132.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C135.249.ersatztv.org" channel-id="1rUCIVsTQ0idj8WIoJEaDg" channel-number="135" CUID="1rUCIVsTQ0idj8WIoJEaDg" tvg-chno="135" tvg-name="Magic Television" tvg-logo="http://192.168.1.200:8409/iptv/logos/D91189F7EF8BC118AF211A10EF1008F7.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Magic Television
-http://192.168.1.200:8409/iptv/channel/135.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C140.245.ersatztv.org" channel-id="mz7CaKxutUiPYrDQbzs_HA" channel-number="140" CUID="mz7CaKxutUiPYrDQbzs_HA" tvg-chno="140" tvg-name="Lost in Space" tvg-logo="http://192.168.1.200:8409/iptv/logos/2B0C298AFB6A329E12A3158E759C81FB.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Lost in Space
-http://192.168.1.200:8409/iptv/channel/140.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C150.246.ersatztv.org" channel-id="8N54kQbuAU2D1UcXya7-cQ" channel-number="150" CUID="8N54kQbuAU2D1UcXya7-cQ" tvg-chno="150" tvg-name="Gilligans Island" tvg-logo="http://192.168.1.200:8409/iptv/logos/964BF15EF2AA5458EFA4BA23077A8601.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Gilligans Island
-http://192.168.1.200:8409/iptv/channel/150.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C160.247.ersatztv.org" channel-id="AEkOsSftWkCe8j4lvW34Jg" channel-number="160" CUID="AEkOsSftWkCe8j4lvW34Jg" tvg-chno="160" tvg-name="Bewitched" tvg-logo="http://192.168.1.200:8409/iptv/logos/C178E83DFFD02CD68BEB3CBAB82AD654.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Bewitched
-http://192.168.1.200:8409/iptv/channel/160.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C170.248.ersatztv.org" channel-id="2mNnB8OKjkiYe-qUYqdZbA" channel-number="170" CUID="2mNnB8OKjkiYe-qUYqdZbA" tvg-chno="170" tvg-name="I Dream of Jeannie" tvg-logo="http://192.168.1.200:8409/iptv/logos/C512692D28A2077184ACA940CCA79611.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", I Dream of Jeannie
-http://192.168.1.200:8409/iptv/channel/170.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C180.249.ersatztv.org" channel-id="Mbb3Q9MSfEKeIc-IJV1Erw" channel-number="180" CUID="Mbb3Q9MSfEKeIc-IJV1Erw" tvg-chno="180" tvg-name="Get Smart" tvg-logo="http://192.168.1.200:8409/iptv/logos/ED4964DDEE577F831F57605D49B59399.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Get Smart
-http://192.168.1.200:8409/iptv/channel/180.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C190.250.ersatztv.org" channel-id="ODD02eY8j0ihpBcaKcFD2w" channel-number="190" CUID="ODD02eY8j0ihpBcaKcFD2w" tvg-chno="190" tvg-name="Happy Days" tvg-logo="http://192.168.1.200:8409/iptv/logos/D91917A1D081EEE6D365FDED6BDD3E97.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Happy Days
-http://192.168.1.200:8409/iptv/channel/190.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C200.242.ersatztv.org" channel-id="6CoVfPnzhkqjB59YBMmI0g" channel-number="200" CUID="6CoVfPnzhkqjB59YBMmI0g" tvg-chno="200" tvg-name="Wonder Woman" tvg-logo="http://192.168.1.200:8409/iptv/logos/083C1F61AEC6F0EB90A26518C22ED038.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Wonder Woman
-http://192.168.1.200:8409/iptv/channel/200.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C210.243.ersatztv.org" channel-id="YknjvgSdOESXfLHNBeH1EA" channel-number="210" CUID="YknjvgSdOESXfLHNBeH1EA" tvg-chno="210" tvg-name="Retro 70s" tvg-logo="http://192.168.1.200:8409/iptv/logos/BA521AE7EDABD8311AF18DB93DEBE6E8.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 70s
-http://192.168.1.200:8409/iptv/channel/210.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C220.244.ersatztv.org" channel-id="O7niEsA4BkCaY4mQUpVWtg" channel-number="220" CUID="O7niEsA4BkCaY4mQUpVWtg" tvg-chno="220" tvg-name="Retro 80s" tvg-logo="http://192.168.1.200:8409/iptv/logos/E2B9B5A48D6E409B8A259C7CEF876EDC.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 80s
-http://192.168.1.200:8409/iptv/channel/220.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C230.245.ersatztv.org" channel-id="pMzYG8F1MEmPlndGP-zU7w" channel-number="230" CUID="pMzYG8F1MEmPlndGP-zU7w" tvg-chno="230" tvg-name="Retro TV" tvg-logo="http://192.168.1.200:8409/iptv/logos/5206E0F80800FA7D315F5E35D3E6C711.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro TV
-http://192.168.1.200:8409/iptv/channel/230.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C240.246.ersatztv.org" channel-id="b7kvvCX56EC4f9vEBrVNuA" channel-number="240" CUID="b7kvvCX56EC4f9vEBrVNuA" tvg-chno="240" tvg-name="Retro Sci Fi" tvg-logo="http://192.168.1.200:8409/iptv/logos/8F5D9F34B2DD5CE641691010E9820D7A.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro Sci Fi
-http://192.168.1.200:8409/iptv/channel/240.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C250.247.ersatztv.org" channel-id="Pqse9maYb0mhDsRiFA-O8g" channel-number="250" CUID="Pqse9maYb0mhDsRiFA-O8g" tvg-chno="250" tvg-name="Big Bang Theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Big Bang Theory
-http://192.168.1.200:8409/iptv/channel/250.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C260.248.ersatztv.org" channel-id="GMokDFNLEUSNGDYJlDJtuQ" channel-number="260" CUID="GMokDFNLEUSNGDYJlDJtuQ" tvg-chno="260" tvg-name="Modern Family" tvg-logo="http://192.168.1.200:8409/iptv/logos/88EA643CC3AE95FC68B4C6A6F829A8E6.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Modern Family
-http://192.168.1.200:8409/iptv/channel/260.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C270.249.ersatztv.org" channel-id="P2WMIl9pSE-wmb_8vqwG6g" channel-number="270" CUID="P2WMIl9pSE-wmb_8vqwG6g" tvg-chno="270" tvg-name="The Office" tvg-logo="http://192.168.1.200:8409/iptv/logos/64F539539B6B38A69EC89C4930641357.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Office
-http://192.168.1.200:8409/iptv/channel/270.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C280.250.ersatztv.org" channel-id="uq99VyqFVUuPJ8V-Tz-4rQ" channel-number="280" CUID="uq99VyqFVUuPJ8V-Tz-4rQ" tvg-chno="280" tvg-name="Parks and Recreation" tvg-logo="http://192.168.1.200:8409/iptv/logos/D1CAE0F239BDE3CE0F3D7DDFEF8535D5.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Parks and Recreation
-http://192.168.1.200:8409/iptv/channel/280.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C300.243.ersatztv.org" channel-id="b07jZ2o9WUGIIyRSMfqEmA" channel-number="300" CUID="b07jZ2o9WUGIIyRSMfqEmA" tvg-chno="300" tvg-name="How I Met Your Mother" tvg-logo="http://192.168.1.200:8409/iptv/logos/F760A04B4BFC7AC1D2BBC0FC46FC4C31.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", How I Met Your Mother
-http://192.168.1.200:8409/iptv/channel/300.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C310.244.ersatztv.org" channel-id="ygjif0CrCUWfChLPM9HDdg" channel-number="310" CUID="ygjif0CrCUWfChLPM9HDdg" tvg-chno="310" tvg-name="Mad Men" tvg-logo="http://192.168.1.200:8409/iptv/logos/79342AC706661182C4AB5408E2E28101.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Mad Men
-http://192.168.1.200:8409/iptv/channel/310.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C320.245.ersatztv.org" channel-id="kLcqu7F_pEanXzwjjRZHDA" channel-number="320" CUID="kLcqu7F_pEanXzwjjRZHDA" tvg-chno="320" tvg-name="Suits" tvg-logo="http://192.168.1.200:8409/iptv/logos/258410A5791848AFED8D88D8B6C28B51.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Suits
-http://192.168.1.200:8409/iptv/channel/320.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C370.250.ersatztv.org" channel-id="WYdO5u6qKEu2mGPEYvi8yQ" channel-number="370" CUID="WYdO5u6qKEu2mGPEYvi8yQ" tvg-chno="370" tvg-name="The Simpsons" tvg-logo="http://192.168.1.200:8409/iptv/logos/400C0788CD253427947C866250CF84B7.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Simpsons
-http://192.168.1.200:8409/iptv/channel/370.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C990.258.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="990" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="990" tvg-name="Countdown" tvg-logo="http://192.168.1.200:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
-http://192.168.1.200:8409/iptv/channel/990.m3u8?mode=hls-direct
-#EXTINF:0 tvg-id="C998.266.ersatztv.org" channel-id="F7WAeNHcKkGx85pZp5kC_g" channel-number="998" CUID="F7WAeNHcKkGx85pZp5kC_g" tvg-chno="998" tvg-name="MTV Punk" tvg-logo="http://192.168.1.200:8409/iptv/logos/63FA7FFEACD77161652D4B3691425B61.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV Punk
-http://192.168.1.200:8409/iptv/channel/998.ts
-#EXTINF:0 tvg-id="C999.267.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="999" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="999" tvg-name="MTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/4F0CDB4845FBAA1C76FE715999D3F610.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV
-http://192.168.1.200:8409/iptv/channel/999.ts
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/au/all/epg.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://i.mjh.nz/Roku/all.xml,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/all/epg.xml.gz,https://tvpass.org/epg.xmlhttps://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
 
 
 
-#EXTINF:-1 tvg-logo="https://nexxdigitalmarketing.com/wp-content/uploads/2025/05/2.png" group-title="Classic TV",Green Acres
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
