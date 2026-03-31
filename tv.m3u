@@ -2,6 +2,9 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
@@ -292,6 +295,9 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="645e7828e1979c00087b75b4",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere" tvg-id="USBD17000117B" tvg-id="MovieSphere.us@HD" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="Movies",MovieSphere
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="545943f1c9f133a519bbac92",MST3K
 https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="5cb0cae7a461406ffe3f5213",Paramount Movie Channel
@@ -340,11 +346,9 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" group-title="Movies",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="58d947b9e420d8656ee101ab",RiffTrax
-https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 
-#EXTINF:-1 group-title="Movies",Free Sci-Fi & Fantasy Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814535/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814535&ads.xumo_streamId=88814535&declaredCC1Language=en&ads.caid=XumoFreeSciFiandFantasyMovies&ads.csid=tcl2_us_xumofreescifiandfantasymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Horror%252CSci-Fi&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-ma&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeSciFiandFantasyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeSciFiandFantasyMovies&ads.xumo_channelName=XumoFreeSciFiandFantasyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+
 
 #EXTINF:-1 group-title="Movies",MGM Presents
 https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
@@ -352,18 +356,8 @@ https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ad
 #EXTINF:-1 group-title="Movies",MGM Presents Action
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 group-title="Movies",Free Action Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814531&ads.xumo_streamId=88814531&declaredCC1Language=en&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_channelName=XumoFreeActionMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-
-#EXTINF:-1 group-title="Movies",Free Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814534&ads.xumo_streamId=88814534&declaredCC1Language=en&ads.caid=XumoFreeMovies&ads.csid=tcl2_us_xumofreemovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeMovies&ads.xumo_channelName=XumoFreeMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-
-#EXTINF:-1 group-title="Movies",FlixFling
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814627/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814627&ads.xumo_streamId=88814627&declaredCC1Language=en&ads.caid=Flixfling&ads.csid=tcl2_us_flixfling_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3994&ads.xumo_contentName=Flixfling&ads.xumo_providerId=3994&ads.xumo_providerName=Flixfling&ads.xumo_channelName=Flixfling&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-
-#EXTINF:-1 group-title="Movies",Free Comedy Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814527&ads.xumo_streamId=88814527&declaredCC1Language=en&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_channelName=XumoFreeComedyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-
+#EXTINF:-1 group-title="Movies" tvg-id="58d947b9e420d8656ee101ab",RiffTrax
+https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_99991106" tvg-logo="https://image.xumo.com/v1/channels/channel/99991106/300x300.webp?type=color_onBlack" group-title="Movies",RiffTrax
 https://dbrb49pjoymg4.cloudfront.net/10001/99991106/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991106&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=RiffTrax&ads.csid=xumo_[PLATFORM]_RiffTrax_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1089&ads.xumo_contentName=RiffTrax&ads.xumo_providerId=1089&ads.xumo_providerName=RiffTrax&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991106&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
@@ -382,6 +376,39 @@ https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E2B93420-EB36-4052-B789-2AD8286E402B/3-1x1.png" tvg-id="LN_E2B93420-EB36-4052-B789-2AD8286E402B" group-title="Movies",Non-Stop '90s
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/744/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n4=content_name&ads.v4=Non-Stop%2090s&ads.n21=app_version&ads.v21=0.0.0&ads.n22=content_custom_1_param&ads.v22=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n23=gpp_sid&ads.v23=&ads.n24=app_bundle&ads.v24=&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013526&ads.n27=gpp&ads.v27=&ads.n28=url&ads.v28=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n29=channel_id&ads.v29=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n30=channel_brand_id&ads.v30=AMDB013526&ads.n31=device_model&ads.v31=&ads.n32=w&ads.v32=1920&ads.n33=channel_language&ads.v33=en&ads.n34=content_provider&ads.v34=nonstop-90s&ads.n35=channel_title&ads.v35=Non-Stop%2090s&ads.n36=channel_ext_id&ads.v36=&ads.n37=ifa_type&ads.v37=&ads.n38=channel_company_id&ads.v38=AMDP500152&ads.n39=content_type&ads.v39=channel&ads.n40=content_producer_name&ads.v40=Shout%21%20Factory%20LLC&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=ip&ads.v42=86.48.9.131&ads.n43=ua&ads.v43=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n44=pos&ads.v44=midroll&ads.n45=app_name&ads.v45=&ads.n46=channel_genre&ads.v46=Movies%20and%20TV&ads.n47=h&ads.v47=1080&ads.n48=device_make&ads.v48=&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=did&ads.v50=&ads.n51=network_name&ads.v51=nonstop-90s&ads.n52=dnt&ads.v52=&ads.n53=content_livestream&ads.v53=1&ads.n54=channel_corp&ads.v54=Shout%21%20Factory%20LLC&ads.n55=app_store_url&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=channel_name&ads.v58=Non-Stop%2090s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Movies",Free Sci-Fi & Fantasy Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814535/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814535&ads.xumo_streamId=88814535&declaredCC1Language=en&ads.caid=XumoFreeSciFiandFantasyMovies&ads.csid=tcl2_us_xumofreescifiandfantasymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Horror%252CSci-Fi&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-ma&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeSciFiandFantasyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeSciFiandFantasyMovies&ads.xumo_channelName=XumoFreeSciFiandFantasyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",Free Action Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814531&ads.xumo_streamId=88814531&declaredCC1Language=en&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_channelName=XumoFreeActionMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",Free Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814534&ads.xumo_streamId=88814534&declaredCC1Language=en&ads.caid=XumoFreeMovies&ads.csid=tcl2_us_xumofreemovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeMovies&ads.xumo_channelName=XumoFreeMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",FlixFling
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814627/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814627&ads.xumo_streamId=88814627&declaredCC1Language=en&ads.caid=Flixfling&ads.csid=tcl2_us_flixfling_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3994&ads.xumo_contentName=Flixfling&ads.xumo_providerId=3994&ads.xumo_providerName=Flixfling&ads.xumo_channelName=Flixfling&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 group-title="Movies",Free Comedy Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814527&ads.xumo_streamId=88814527&declaredCC1Language=en&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_channelName=XumoFreeComedyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 
 
@@ -444,11 +471,7 @@ https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Movies4Free" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png" tvg-name="wedotvMovies" group-title="Movies",wedotv Movies
 https://movies4free-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD17000117B" tvg-id="MovieSphere.us@HD" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere
-https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us@SD" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere 2
-https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7hY9D1vU-XQVvNwFTQgRNRKVOPjpXlB5Ug&s" group-title="Movies",MyTime Movie Network
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
@@ -499,10 +522,7 @@ https://i.mjh.nz/.r/all-starcinema-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/lmn-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="Movies" , Moviesphere
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-moviesphere.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="Movies" ,Romance Movies
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -561,9 +581,8 @@ https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
 
 #EXTINF:-1 tvg-id="400000059" group-title="Sci-Fi & Fantasy",Doctor Who Classic
 https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
-
-#EXTINF:-1 tvg-id="d5381e91f6f651d0a933e7e51fdadc7c" tvg-logo="https://image.pngaaa.com/343/1605343-middle.png" group-title="Sci-Fi & Fantasy",BBC Doctor Who Classic
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Earth: Final Conflict
 https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
@@ -576,33 +595,31 @@ https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 
 #EXTINF:-1 tvg-id="MST3K.us@US"group-title="Sci-Fi & Fantasy",MST3K
 https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
-
-#EXTINF:-1 tvg-id="MST3K.us@UK"group-title="Sci-Fi & Fantasy",MST3K
 https://jmp2.uk/plu-5ad8d44cfd87eb3a2717afc5.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",OuterSphere
 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVSciFi.uk@UK"group-title="Sci-Fi & Fantasy",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" group-title="Sci-Fi & Fantasy",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US"group-title="Sci-Fi & Fantasy",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="5dc02a44a9518600094273ac" group-title="Sci-Fi & Fantasy",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
-#EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Pluto TV Sci-fi Series
+#EXTINF:-1 tvg-id="619247c34a270700077c8415" group-title="Sci-Fi & Fantasy",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 
-#EXTINF:-1 tvg-id="StarTrek.us@SD"group-title="Sci-Fi & Fantasy",Star Trek
+#EXTINF:-1 tvg-id="5efbd39f8c4ce900075d7698" group-title="Sci-Fi & Fantasy",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Star Trek: The Next Generation
+#EXTINF:-1 tvg-id="695c32e61ca20bb8ca802eb9" group-title="Sci-Fi & Fantasy",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Star Trek: Deep Space Nine
+#EXTINF:-1 tvg-id="65c69bbfd77d450008c7ffee" group-title="Sci-Fi & Fantasy",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Star Trek: Voyager
+#EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" group-title="Sci-Fi & Fantasy",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sci-Fi & Fantasy",Stargate
+#EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" group-title="Sci-Fi & Fantasy",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 
 #EXTINF:-1 group-title="Sci-Fi & Fantasy",Stargate
@@ -649,10 +666,10 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us@US"group-title="Action & Drama",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama";Classic TV",Dynasty
+#EXTINF:-1 tvg-id="64d1606b4c5ed80008e3b8b9" group-title="Action & Drama";Classic TV",Dynasty
 https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama";Classic TV",Dynasty
+#EXTINF:-1 tvg-id="622f48de713e510007f85808" group-title="Action & Drama";Classic TV",Dynasty
 https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Action & Drama",Ebony TV Drama
@@ -694,11 +711,11 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-id=""group-title="Action & Drama",Touched by an Angel
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 
-#EXTINF:-1 tvg-id="TVLandDrama.us@SD"group-title="Action & Drama",TV Land Drama
+#EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e"group-title="Action & Drama",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
-
-#EXTINF:-1 tvg-id="TVLandDrama.us@SD"group-title="Action & Drama",TV Land Drama
 https://jmp2.uk/plu-612fea0e970e6f00083be56b.m3u8
+
+
 
 
 
@@ -738,19 +755,16 @@ https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas26-fast.m3u8
 
-#EXTINF:-1 tvg-id="IONPlus.us@East" group-title="Action & Drama",ION Plus
-https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Action & Drama",ION Plus
 https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_99951138" tvg-logo="https://image.xumo.com/v1/channels/channel/99951138/300x300.webp?type=color_onBlack" group-title="Action & Drama",McLeod's Daughters
 https://dbrb49pjoymg4.cloudfront.net/10001/99951138/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951138&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BanijayMcLeodsDaughters&ads.csid=xumo_[PLATFORM]_BanijayMcLeodsDaughters_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3750&ads.xumo_contentName=BanijayMcLeodsDaughters&ads.xumo_providerId=3750&ads.xumo_providerName=BanijayMcLeodsDaughters&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951138&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22919/revry/logo_20231219_221503_68.png" group-title="Action & Drama",Revry
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry/playlist.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22919&ads.content_duration=18000&ads.episode_id=43912&ads.show_id=1240&ads.showCategories=IAB14&ads.episodeCategories=IAB14&ads.genre=Lifestyle%2CEntertainment%2CDrama%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Revry&ads.episodetitle=Revry&ads.keywords=revry&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=revry&ads.stationCode=625876&ads.islive=1&ads.streamtype=live&ads.vf=tdn838VloxO
-
-#EXTINF:-1 tvg-id="Revry.us@SD"group-title="Action & Drama",Revry
 https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
 
 
@@ -760,8 +774,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951497/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="XUMO_99951493" tvg-logo="https://image.xumo.com/v1/channels/channel/99951493/300x300.webp?type=color_onBlack" group-title="Action & Drama",GoldenTV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951493/hls/GOLDENTV_SCTE.m3u8?ads.xumo_channelId=99951493&ads.xumo_streamId=99951493&ads.channelId=99951493&ads.channelName=TripleBGoldenTV_us&ads.caid=TripleBGoldenTV&ads.csid=xumo_[PLATFORM]_TripleBGoldenTV_ssai&ads.genre=ArtsEntertainment,Television,Multicultural&ads._fw_content_genre=ArtsEntertainment,Television,Multicultural&ads._fw_coppa=0&ads.xumo_contentId=4338&ads.xumo_contentName=TripleBGoldenTV&ads.xumo_providerId=4338&ads.xumo_providerName=TripleBGoldenTV&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
 
-#EXTINF:-1 tvg-id="XUMO_9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Action & Drama",ION Plus
-https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
 
 #EXTINF:-1 tvg-id="XUMO_99991622" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/300x300.webp?type=color_onBlack" group-title="Action & Drama",Stories by AMC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_[PLATFORM]_storiesbyamc_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=[PLATFORM]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
@@ -972,8 +985,7 @@ https://jmp2.uk/plu-68e3c37c19f32ffa27bae948.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us@UK"group-title="Crime & Mystery",FBI Files
 https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Crime & Mystery;Action & Drama",ION
-https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+
 
 
 
@@ -1324,8 +1336,11 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/dw-news.m3u8
 
-#EXTINF:-1 group-title="Documentary & History",AIR & SPACE
+#EXTINF:-1 channel-id="Air and Space" tvg-id="Air and Space" group-title="Documentary & History",Air and Space
+https://wingspan-airandspace-1-au.tcl.wurl.tv/playlist.m3u8
 https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8?ads.wurl_channel=1684&ads.wurl_name=AIRandSPACE&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Documentary & History",Cosmic Frontiers
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
@@ -1333,28 +1348,28 @@ https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/play
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/3-1x1.png" tvg-id="LN_79549FA0-4EBE-48C3-957F-037BA02E827F" tvg-id="LN_79549FA0-4EBE-48C3-957F-037BA02E827F" group-title="Documentary & History",Horror Machine
 https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/82/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n4=content_name&ads.v4=EPG%20%7C%20Horror%20Machine&ads.n21=channel_language&ads.v21=en&ads.n22=content_type&ads.v22=channel&ads.n23=channel_rating&ads.v23=TV-PG&ads.n24=ua&ads.v24=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n25=app_version&ads.v25=0.0.0&ads.n26=url&ads.v26=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n27=device_type&ads.v27=&ads.n28=h&ads.v28=1080&ads.n29=app_bundle&ads.v29=&ads.n30=channel_corp&ads.v30=Navio%20Networks%20INC&ads.n31=channel_id&ads.v31=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n32=content_custom_1_param&ads.v32=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n33=channel_title&ads.v33=EPG%20%20Horror%20Machine&ads.n34=network_name&ads.v34=horror-machine&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=channel_name&ads.v36=EPG%20%20Horror%20Machine&ads.n37=device_make&ads.v37=&ads.n38=cust_devicename&ads.v38=desktop_web&ads.n39=channel_genre&ads.v39=Horror&ads.n40=content_producer_name&ads.v40=Navio%20Networks%20INC&ads.n41=dnt&ads.v41=&ads.n42=ip&ads.v42=86.48.9.131&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=channel_company_id&ads.v44=AMDP500508&ads.n45=channel_ext_id&ads.v45=6058394aaceae9658754f502&ads.n46=gpp&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB012040&ads.n48=device_model&ads.v48=&ads.n49=channel_brand_id&ads.v49=AMDB012040&ads.n50=pos&ads.v50=midroll&ads.n51=did&ads.v51=&ads.n52=gpp_sid&ads.v52=&ads.n53=ifa_type&ads.v53=&ads.n54=content_livestream&ads.v54=1&ads.n55=w&ads.v55=1920&ads.n56=app_store_url&ads.v56=&ads.n57=app_name&ads.v57=&ads.n58=content_provider&ads.v58=horror-machine
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",A Haunting
+#EXTINF:-1 tvg-id="64ff1d92d545e9000877fba4" group-title="Documentary & History",A Haunting
 https://jmp2.uk/plu-64ff1d92d545e9000877fba4.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",Ancient Aliens
+#EXTINF:-1 tvg-id="6887a8fd8e92b5e0a7244e88" group-title="Documentary & History",Ancient Aliens
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
 
-#EXTINF:-1 tvg-id="BeyondBeliefFactorFiction.us@UK"group-title="Documentary & History",Beyond Belief: Fact or Fiction
+#EXTINF:-1 tvg-id="611f85396abc84000738417b" group-title="Documentary & History",Beyond Belief: Fact or Fiction
 https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 
-#EXTINF:-1 tvg-id="GhostDimension.us@UK"group-title="Documentary & History",Ghost Dimension
+#EXTINF:-1 tvg-id="5c45f5a9d40d58066869fa60" group-title="Documentary & History",Ghost Dimension
 https://jmp2.uk/plu-5c45f5a9d40d58066869fa60.m3u8
 
-#EXTINF:-1 tvg-id="GhostHunters.us@UK"group-title="Documentary & History",Ghost Hunters
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" group-title="Documentary & History",Ghost Hunters
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 
-#EXTINF:-1 tvg-id="GhostHunters.us@UK"group-title="Documentary & History",Ghost Hunters
+#EXTINF:-1 tvg-id="5f27bbe4779de70007a6d1c1" group-title="Documentary & History",Ghost Hunters
 https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 
-#EXTINF:-1 tvg-id="HauntTV.us@SD"group-title="Documentary & History",Haunt TV
+#EXTINF:-1 tvg-id="6319f06067a3ee000708af95" group-title="Documentary & History",Haunt TV
 https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",Mayday Air Disaster
+#EXTINF:-1 tvg-id="6852811933a52de120f8b89d" group-title="Documentary & History",Mayday Air Disaster
 https://jmp2.uk/plu-6852811933a52de120f8b89d.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Documentary & History",Modern Marvels by HISTORY
@@ -1369,11 +1384,21 @@ https://jmp2.uk/plu-68e3bffe1cfcd7541d59090f.m3u8
 #EXTINF:-1 tvg-id=""group-title="Documentary & History",Mystery TV
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
 
-#EXTINF:-1 tvg-id="Mythbusters.us@UK"group-title="Documentary & History",MythBusters
+#EXTINF:-1 tvg-id="66e0b4866ad04d0008fff4d8" group-title="Documentary & History",MythBusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 
-#EXTINF:-1 tvg-id="Mythbusters.us@UK"group-title="Documentary & History",Mythbusters
+
+#EXTINF:-1 tvg-id="5bd833b41843b56328bac189" group-title="Documentary & History",Mythbusters
 https://jmp2.uk/plu-5bd833b41843b56328bac189.m3u8
+
+#EXTINF:-1 tvg-id="Mythbusters.us@UK" group-title="Documentary & History",Mythbusters
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="Documentary & History" , Mythbusters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/mythbusters-fast.m3u8
 
 #EXTINF:-1 tvg-id="ParanormalState.us@UK"group-title="Documentary & History",Paranormal State
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
@@ -1381,55 +1406,55 @@ https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 #EXTINF:-1 tvg-id=""group-title="Documentary & History",Pluto TV Alien Invasion
 https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",Pluto TV Britain at War
+#EXTINF:-1 tvg-id="625e8cb585ef320007806caf" group-title="Documentary & History",Pluto TV Britain at War
 https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVConspiracy.us@UK"group-title="Documentary & History",Pluto TV Conspiracy
+#EXTINF:-1 tvg-id="5d4ae94ef1a1bbb350ca41bb" group-title="Documentary & History",Pluto TV Conspiracy
 https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVHistory.us@US"group-title="Documentary & History",Pluto TV History
+#EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" group-title="Documentary & History",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVHistory.us@UK"group-title="Documentary & History",Pluto TV History
+#EXTINF:-1 tvg-id="5d4af1803e7983b391d73b13" group-title="Documentary & History",Pluto TV History
 https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVMilitary.us@SD"group-title="Documentary & History",Pluto TV Military
+#EXTINF:-1 tvg-id="5bb3fea0f711fd76340eebff" group-title="Documentary & History",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@US"group-title="Documentary & History",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" group-title="Documentary & History",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@UK"group-title="Documentary & History",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="5d4af2ffa9506ab29cf38c38" group-title="Documentary & History",Pluto TV Paranormal
 https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Documentary & History",Pluto TV Paranormal+
 https://jmp2.uk/stvp-GBBA33000362J?.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVScience.us@US"group-title="Documentary & History",Pluto TV Science
+#EXTINF:-1 tvg-id="563a970aa1a1f7fe7c9daad7"group-title="Documentary & History",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVScience.us@UK"group-title="Documentary & History",Pluto TV Science
+#EXTINF:-1 tvg-id="5d9492c77ea6f99188738ff1"group-title="Documentary & History",Pluto TV Science
 https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@UK"group-title="Documentary & History",Pluto TV Space
+#EXTINF:-1 tvg-id="5dbc2f98777f2e0009934ae7" group-title="Documentary & History",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",Robot Wars by MECH+
+#EXTINF:-1 tvg-id="677d672ef090ab00085b8e9b" group-title="Documentary & History",Robot Wars by MECH+
 https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8
 
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD"group-title="Documentary & History",Smithsonian Channel Selects
+#EXTINF:-1 tvg-id="5f21ea08007a49000762d349"group-title="Documentary & History",Smithsonian Channel Selects
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
-#EXTINF:-1 tvg-id="SpikePlutoTV.us@SD"group-title="Documentary & History",Spike Pluto TV
+#EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" group-title="Documentary & History",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",UnXplained Zone
+#EXTINF:-1 tvg-id="656538f8954b020008d389db" group-title="Documentary & History",UnXplained Zone
 https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",Weird or What? With William Shatner
+#EXTINF:-1 tvg-id="65819f83a620e300080f692a" group-title="Documentary & History",Weird or What? With William Shatner
 https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Documentary & History",World War TV
+#EXTINF:-1 tvg-id="6319ee0cf78bb10007ee5e6b" group-title="Documentary & History",World War TV
 https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8
 
 
@@ -1463,13 +1488,7 @@ https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="" group-title="Documentary & History",PBS Science
 https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mythbusters.us@UK" group-title="Documentary & History",Mythbusters
-https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 
-#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="Documentary & History" , Mythbusters
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/mythbusters-fast.m3u8
 
 #EXTINF:-1 tvg-id="Timeline.us@SD" group-title="Documentary & History",Timeline
 https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
@@ -1496,8 +1515,6 @@ https://i.mjh.nz/.r/h2-fast.m3u8
 #EXTINF:-1 channel-id="tartalk TV" tvg-id="tartalk TV" group-title="Documentary & History",Startalk TV
 https://linear-770.frequency.stream/dist/tcltv/770/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="Air and Space" tvg-id="Air and Space" group-title="Documentary & History",Air and Space
-https://wingspan-airandspace-1-au.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="Xploration Station" tvg-id="Xploration Station" group-title="Documentary & History",Xploration Station
 https://srpdigital-xplorationstation-1-us.tcl.wurl.tv/playlist.m3u8
@@ -1533,6 +1550,7 @@ https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rmc-fast.m3u8
+
 
 #EXTINF:-1 tvg-id="InWild.it@SD" group-title="Animals & Nature",InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
@@ -1636,8 +1654,14 @@ https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
 #EXTINF:-1 tvg-id=""group-title="Animation & Kids",Inuyasha
 https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8
 
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD"group-title="Animation & Kids",Kartoon Channel!
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f"group-title="Animation & Kids",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" group-title="Animation & Kids",Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" group-title="Animation & Kids",Kartoon Channel
+https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8
 
 #EXTINF:-1 tvg-id="LEGOKidsTV.us@SD"group-title="Animation & Kids",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
@@ -1681,10 +1705,10 @@ https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.us@UK"group-title="Animation & Kids",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVPokemon.us@US"group-title="Animation & Kids",Pokémon
+#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7"group-title="Animation & Kids",Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVPokemon.us@UK"group-title="Animation & Kids",Pokémon
+#EXTINF:-1 tvg-id="6683cd71a1d7ad000866ec6a"group-title="Animation & Kids",Pokémon
 https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Animation & Kids",POP
@@ -1708,10 +1732,10 @@ https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8
 #EXTINF:-1 tvg-id=""group-title="Animation & Kids",The Smurfs
 https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8
 
-#EXTINF:-1 tvg-id="TotallyTurtles.us@US"group-title="Animation & Kids",TOTALLY TURTLES
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" group-title="Animation & Kids",TOTALLY TURTLES
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 
-#EXTINF:-1 tvg-id="TotallyTurtles.us@US"group-title="Animation & Kids",Totally Turtles
+#EXTINF:-1 tvg-id="656ef4af4261ca00083c8f37" group-title="Animation & Kids",Totally Turtles
 https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Animation & Kids",Transformers
@@ -1724,11 +1748,7 @@ https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
 
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD" group-title="Animation & Kids",Kartoon Channel
-https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD" group-title="Animation & Kids",Kartoon Channel
-https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8
 
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="Animation & Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -1828,10 +1848,10 @@ https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 #EXTINF:-1 tvg-id="BarRescue.us@SD"group-title="Reality",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Best of Dr. Phil
+#EXTINF:-1 tvg-id="60f760bbdf090700075d7bfe" group-title="Reality",Best of Dr. Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Best of Dr. Phil
+#EXTINF:-1 tvg-id="65a7b01907e03a0008913e8f" group-title="Reality",Best of Dr. Phil
 https://jmp2.uk/plu-65a7b01907e03a0008913e8f.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Reality",Big Brother
@@ -1855,10 +1875,10 @@ https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8
 #EXTINF:-1 tvg-id=""group-title="Reality",Cheaters
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Confess by Nosey
+#EXTINF:-1 tvg-id="634ee8f95aa9870007248333" group-title="Reality",Confess by Nosey
 https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Confess by Nosey
+#EXTINF:-1 tvg-id="6514346fa76507000887d441" group-title="Reality",Confess by Nosey
 https://jmp2.uk/plu-6514346fa76507000887d441.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Reality",Dating Disasters
@@ -1867,11 +1887,14 @@ https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
 #EXTINF:-1 tvg-id=""group-title="Reality",DCC: Making the Team
 https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 
-#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US"group-title="Reality",Dog the Bounty Hunter
+#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238"group-title="Reality",Dog the Bounty Hunter
 https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 
-#EXTINF:-1 tvg-id="DogtheBountyHunter.us@UK"group-title="Reality",Dog The Bounty Hunter
+#EXTINF:-1 tvg-id="5f6b535a278bfe000799484a"group-title="Reality",Dog The Bounty Hunter
 https://jmp2.uk/plu-5f6b535a278bfe000799484a.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" group-title="Reality",Dog the Bounty Hunter
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK"group-title="Reality",Duck Dynasty
 https://jmp2.uk/plu-5f6b54b9e67cf60007d4cef1.m3u8
@@ -1903,19 +1926,19 @@ https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 #EXTINF:-1 tvg-id=""group-title="Reality",Matched Married Meet by Lifetime
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
 
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@US"group-title="Reality",MTV Pluto TV
+#EXTINF:-1 tvg-id="5ca672f515a62078d2ec0ad2"group-title="Reality",MTV Pluto TV
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVMTV.us@SD"group-title="Reality",MTV Pluto TV
+#EXTINF:-1 tvg-id="624edee2d6394a0007efcac4"group-title="Reality",MTV Pluto TV
 https://jmp2.uk/plu-624edee2d6394a0007efcac4.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Reality;Sports",Ninja Warrior
 https://jmp2.uk/plu-6627623e307fa3000810b66e.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Nosey
+#EXTINF:-1 tvg-id="5aec96ec5126c2157123c657" group-title="Reality",Nosey
 https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Nosey
+#EXTINF:-1 tvg-id="5dc2ba1a9c91420009db4858" group-title="Reality",Nosey
 https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD"group-title="Reality;Animals & Nature",Pluto TV Backcountry
@@ -1925,19 +1948,19 @@ https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 
 
-#EXTINF:-1 tvg-id="PlutoTVLives.us@US"group-title="Reality",Pluto TV Lives
+#EXTINF:-1 tvg-id="PlutoTVLives.us@US" group-title="Reality",Pluto TV Lives
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVReality.us@US"group-title="Reality",Pluto TV Reality
+#EXTINF:-1 tvg-id="5d8bf0b06d2d855ee15115e3" group-title="Reality",Pluto TV Reality
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVReality.us@UK"group-title="Reality",Pluto TV Reality
+#EXTINF:-1 tvg-id="5bd8186d53ed2c6334ea0855" group-title="Reality",Pluto TV Reality
 https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Project Runway
+#EXTINF:-1 tvg-id="68757c60552299d2b080eab6" group-title="Reality",Project Runway
 https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Reality",Project Runway
+#EXTINF:-1 tvg-id="66d82143abec540008bd2b1c" group-title="Reality",Project Runway
 https://jmp2.uk/plu-66d82143abec540008bd2b1c.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Reality",Real Housewives Vault
@@ -2071,10 +2094,7 @@ https://i.mjh.nz/.r/bigbrother-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas25-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="Reality;Auto" , Outback Truckers
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="Reality" , Medical And Rescue
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -2159,8 +2179,13 @@ https://jmp2.uk/plu-620f6f9e36a49b000761f0d5.m3u8
 #EXTINF:-1 tvg-id=""group-title="Lifestyle & Travel",Million Dollar Listing
 https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Lifestyle & Travel",Million Dollar Listing Vault
+#EXTINF:-1 tvg-id="6549322e53fc97000838febc" group-title="Lifestyle & Travel",Million Dollar Listing Vault
 https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="mjh-cas40-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="Lifestyle & Travel" , Million Dollar Listing VAULT
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas40-fast.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD"group-title="Lifestyle & Travel",PBS Antiques Roadshow
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
@@ -2267,10 +2292,7 @@ https://i.mjh.nz/.r/10-hardcorepawn.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-highwaythruhell" tvg-id="mjh-10-highwaythruhell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="Reality;Auto" , Highway Thru Hell
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="Reality" , COPS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -2292,8 +2314,7 @@ https://i.mjh.nz/.r/10-haunt-tv.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-ghost_hunters.m3u8
 
-#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" group-title="Reality",Dog the Bounty Hunter
-https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="DuckDynasty.us@US" group-title="Reality",Duck Dynasty
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
@@ -2309,17 +2330,15 @@ https://jmp2.uk/plu-64c0d6b424ade50008bc8883.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sports",AWSN
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Sports",AWSN
 https://jmp2.uk/plu-66fd37885049580008d295b6.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsHQ.us@SD"group-title="Sports",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sports",DAZN Ringside
+#EXTINF:-1 tvg-id="649b6898f2ec0000081a9460" group-title="Sports",DAZN Ringside
 https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sports",DAZN Ringside
+#EXTINF:-1 tvg-id="65b14aae0cb1a100087a216e "group-title="Sports",DAZN Ringside
 https://jmp2.uk/plu-65b14aae0cb1a100087a216e.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sports",Dominance FC TV
@@ -2367,14 +2386,20 @@ https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 #EXTINF:-1 tvg-id="PBRRidePass.us@SD"group-title="Sports",PBR RidePass
 https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4C6109C1-6E34-4433-96E0-C5CC5C1061E0/3-1x1.png" tvg-id="LN_4C6109C1-6E34-4433-96E0-C5CC5C1061E0" group-title="Sports",The Cowboy Channel
+https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n4=content_name&ads.v4=The%20Cowboy%20Channel&ads.n21=pos&ads.v21=midroll&ads.n22=content_custom_1_param&ads.v22=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n23=content_producer_name&ads.v23=Teton%20Ridge%20LLC&ads.n24=device_type&ads.v24=&ads.n25=channel_corp&ads.v25=Teton%20Ridge%20LLC&ads.n26=url&ads.v26=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=channel_id&ads.v28=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n29=gpp_sid&ads.v29=&ads.n30=content_custom_2_param&ads.v30=AMDB013681&ads.n31=ip&ads.v31=86.48.9.131&ads.n32=channel_genre&ads.v32=Sports&ads.n33=channel_language&ads.v33=en&ads.n34=network_name&ads.v34=the-cowboy-channel&ads.n35=channel_company_id&ads.v35=AMDP500567&ads.n36=channel_name&ads.v36=The%20Cowboy%20Channel&ads.n37=content_livestream&ads.v37=1&ads.n38=ifa_type&ads.v38=&ads.n39=channel_brand_id&ads.v39=AMDB013681&ads.n40=dnt&ads.v40=&ads.n41=app_version&ads.v41=0.0.0&ads.n42=content_provider&ads.v42=the-cowboy-channel&ads.n43=app_store_url&ads.v43=&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_title&ads.v45=The%20Cowboy%20Channel&ads.n46=channel_rating&ads.v46=TV-PG&ads.n47=gpp&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=app_name&ads.v49=&ads.n50=content_type&ads.v50=channel&ads.n51=app_bundle&ads.v51=&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=did&ads.v53=&ads.n54=h&ads.v54=1080&ads.n55=device_make&ads.v55=&ads.n56=device_model&ads.v56=&ads.n57=channel_ext_id&ads.v57=&ads.n58=content_custom_3_param&ads.v58=channel
+
 #EXTINF:-1 tvg-id="PFLMMA.pl@SD"group-title="Sports",PFL MMA
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 
-#EXTINF:-1 tvg-id="PGATour.us@SD"group-title="Sports",PGA TOUR
+#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a"group-title="Sports",PGA TOUR
 https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
 
-#EXTINF:-1 tvg-id="PGATour.us@SD"group-title="Sports",PGA TOUR
+#EXTINF:-1 tvg-id="66d885aef0f17500084b6750"group-title="Sports",PGA TOUR
 https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8
+
+#EXTINF:-1 tvg-id="PGATour.us@SD" group-title="Sports",PGA Tour
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sports",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
@@ -2388,10 +2413,10 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us@SD"group-title="Sports",Swerve Sports
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us@SD"group-title="Sports",Tennis Channel
+#EXTINF:-1 tvg-id="6627621d56fc840008e47c90" group-title="Sports",Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us@Plus2"group-title="Sports",Tennis Channel
+#EXTINF:-1 tvg-id="681109b688b9d85d0938c6ba" group-title="Sports",Tennis Channel
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sports",The NBA Channel
@@ -2403,13 +2428,13 @@ https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 #EXTINF:-1 tvg-id=""group-title="Sports",Triton Poker
 https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
 
-#EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD"group-title="Sports",Women's Sports Network
+#EXTINF:-1 tvg-id="686d8dd294a028da3ac59566"group-title="Sports",Women's Sports Network
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
 
-#EXTINF:-1 tvg-id="WorldPokerTour.us@US"group-title="Sports",World Poker Tour
+#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091"group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
 
-#EXTINF:-1 tvg-id="WorldPokerTour.us@UK"group-title="Sports",World Poker Tour
+#EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a"group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Sports",Wrestling Central
@@ -2447,8 +2472,7 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" group-title="Sports",Sports Grid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PGATour.us@SD" group-title="Sports",PGA Tour
-https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports",PLL Network
 https://aegis-cloudfront-1.tubi.video/185b9f38-635d-4cd8-b744-0ffca8ed48ba/pllne.m3u8
@@ -2471,8 +2495,7 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4C6109C1-6E34-4433-96E0-C5CC5C1061E0/3-1x1.png" tvg-id="LN_4C6109C1-6E34-4433-96E0-C5CC5C1061E0" group-title="Sports",The Cowboy Channel
-https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n4=content_name&ads.v4=The%20Cowboy%20Channel&ads.n21=pos&ads.v21=midroll&ads.n22=content_custom_1_param&ads.v22=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n23=content_producer_name&ads.v23=Teton%20Ridge%20LLC&ads.n24=device_type&ads.v24=&ads.n25=channel_corp&ads.v25=Teton%20Ridge%20LLC&ads.n26=url&ads.v26=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=channel_id&ads.v28=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n29=gpp_sid&ads.v29=&ads.n30=content_custom_2_param&ads.v30=AMDB013681&ads.n31=ip&ads.v31=86.48.9.131&ads.n32=channel_genre&ads.v32=Sports&ads.n33=channel_language&ads.v33=en&ads.n34=network_name&ads.v34=the-cowboy-channel&ads.n35=channel_company_id&ads.v35=AMDP500567&ads.n36=channel_name&ads.v36=The%20Cowboy%20Channel&ads.n37=content_livestream&ads.v37=1&ads.n38=ifa_type&ads.v38=&ads.n39=channel_brand_id&ads.v39=AMDB013681&ads.n40=dnt&ads.v40=&ads.n41=app_version&ads.v41=0.0.0&ads.n42=content_provider&ads.v42=the-cowboy-channel&ads.n43=app_store_url&ads.v43=&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_title&ads.v45=The%20Cowboy%20Channel&ads.n46=channel_rating&ads.v46=TV-PG&ads.n47=gpp&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=app_name&ads.v49=&ads.n50=content_type&ads.v50=channel&ads.n51=app_bundle&ads.v51=&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=did&ads.v53=&ads.n54=h&ads.v54=1080&ads.n55=device_make&ads.v55=&ads.n56=device_model&ads.v56=&ads.n57=channel_ext_id&ads.v57=&ads.n58=content_custom_3_param&ads.v58=channel
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports",Top Rank Classics
 https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playlist.m3u8
@@ -2480,8 +2503,7 @@ https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playl
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports",UFC
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" group-title="Sports",Women's Sports Network
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
@@ -2522,10 +2544,10 @@ https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@US"group-title="Animals & Nature",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 
-#EXTINF:-1 tvg-id="DogWhisperer.us@UK"group-title="Animals & Nature",Dog Whisperer
+#EXTINF:-1 tvg-id="60e453641239a700071f53a1" group-title="Animals & Nature",Dog Whisperer
 https://jmp2.uk/plu-60e453641239a700071f53a1.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Animals & Nature",Dog Whisperer with Cesar Millan
+#EXTINF:-1 tvg-id="664fd48894d5580008e45e7c" group-title="Animals & Nature",Dog Whisperer with Cesar Millan
 https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD"group-title="Animals & Nature",Love Nature
@@ -2533,10 +2555,7 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 
 
 
-#EXTINF:-1 channel-id="mjh-rmc-fast" tvg-id="mjh-rmc-fast" tvg-logo="https://i.mjh.nz/.images/auto-rmc-fast-cd77f2.png" group-title="Sports;Animals & Nature" , River Monsters
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/rmc-fast.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-cricketgold-fast" tvg-id="mjh-cricketgold-fast" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="Sports" , Cricket Gold
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -2583,13 +2602,14 @@ https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
 #EXTINF:-1 tvg-id=""group-title="Sports",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sports",UFC
+#EXTINF:-1 tvg-id="677d9adfa9a51b0008497fa0" group-title="Sports",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Sports",UFC
+#EXTINF:-1 tvg-id="66ed3e9d5e4a6e0008b346e0" group-title="Sports",UFC
 https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="Sports",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -2673,7 +2693,7 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="XITERockxMetal.nl@US" group-title="Music",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Music",XITE Rock x Metal
+#EXTINF:-1 tvg-id="623a1b5188ecdc0007c9ef5a" group-title="Music",XITE Rock x Metal
 https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" group-title="Music",XITE Reggae Vibes
@@ -2694,8 +2714,7 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Auto",Ice Road Truckers
-https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id=""group-title="Auto",5 Trucking Hell
 https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
@@ -2703,11 +2722,19 @@ https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 #EXTINF:-1 tvg-id="FullCustomGarage.us@UK"group-title="Auto",Full Custom Garage
 https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Auto;Reality",Ice Road Truckers
+#EXTINF:-1 tvg-id="68c8201b1e5aaf77c47d9605" group-title="Auto;Reality",Ice Road Truckers
 https://jmp2.uk/plu-68c8201b1e5aaf77c47d9605.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Auto;Reality",Outback Truckers
+#EXTINF:-1 tvg-id="" group-title="Auto",Ice Road Truckers
+https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="667ac79c15f35c00088a2409" group-title="Auto;Reality",Outback Truckers
 https://jmp2.uk/plu-667ac79c15f35c00088a2409.m3u8
+
+#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="Reality;Auto" , Outback Truckers
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCars.us@SD"group-title="Auto",Pluto TV Cars
 https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
@@ -2721,8 +2748,7 @@ https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
 #EXTINF:-1 tvg-id=""group-title="Auto;Reality",Pluto TV Wildest Adventures
 https://jmp2.uk/plu-65f0166566eec80008b96f7e.m3u8
 
-#EXTINF:-1 tvg-id="PowerNationTV.us@SD"group-title="Auto",POWERNATION
-https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
+
 
 #EXTINF:-1 tvg-id="TopGear.uk@SD"group-title="Auto",Top Gear
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
@@ -2749,6 +2775,9 @@ https://i.mjh.nz/.r/10-highwaythruhell.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_99991325" tvg-logo="https://image.xumo.com/v1/channels/channel/99991325/300x300.webp?type=color_onBlack" group-title="Auto",Motorvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?includeAssetTags=true&ads.xumo_channelId=99991325&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Motorvision&ads.csid=xumo_[PLATFORM]_Motorvision_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991325&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="63b48016d9dd51000828fa37"group-title="Auto",POWERNATION
+https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
 
 #EXTINF:-1 tvg-id="PowerNationTV.us@SD" group-title="Auto",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
@@ -2806,11 +2835,20 @@ https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 #EXTINF:-1 tvg-id=""group-title="Food",Delicious Eats by Food Network
 https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 
-#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD"group-title="Food;Reality",Gordon Ramsay's Hell's Kitchen
+#EXTINF:-1 channel-id="mjh-heki-fast" tvg-id="mjh-heki-fast" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="Food" , Hells Kitchen
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/heki-fast.m3u8
+https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5b4e99f4423e067bd6df6903"group-title="Food;Reality",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
 
-#EXTINF:-1 tvg-id="HellsKitchen.us@UK"group-title="Food;Reality",Hell's Kitchen
+#EXTINF:-1 tvg-id="5e6f38792075160007d85823"group-title="Food;Reality",Hell's Kitchen
 https://jmp2.uk/plu-5e6f38792075160007d85823.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" group-title="Food",Gordon Ramsay
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Food",Home Cooking by Food Network
 https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
@@ -2842,19 +2880,14 @@ https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 
 
 
-#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" group-title="Food",Gordon Ramsay
-https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+
 
 #EXTINF:-1 tvg-id="GustoTV.ca@SD" group-title="Food",Gusto
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HellsKitchen.us@UK" group-title="Food",Hell's Kitchen
-https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
 
-#EXTINF:-1 channel-id="mjh-heki-fast" tvg-id="mjh-heki-fast" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="Food" , Hells Kitchen
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/heki-fast.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Tastemade.us@Australia" group-title="Food",Tastemade Australia
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
@@ -2922,9 +2955,6 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy.us@US" group-title="Comedy",FailArmy
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
-
-#EXTINF:-1 tvg-id="FailArmy.us@UK" group-title="Comedy",FailArmy
-https://jmp2.uk/plu-5ad8d883e738977e2c31096b.m3u8
 
 #EXTINF:-1 tvg-id="FunnyAF.us@SD" group-title="Comedy",Funny AF
 https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
@@ -3053,7 +3083,7 @@ https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Lifestyle & Travel",Gardening With Monty Don
 https://aegis-cloudfront-1.tubi.video/b82a751c-18e0-417c-92c1-d476319da423/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Lifestyle & Travel",Homeful
+#EXTINF:-1 tvg-id="homefulworldwide" group-title="Lifestyle & Travel",Homeful
 https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Lifestyle & Travel",Homeful
@@ -3131,10 +3161,7 @@ https://i.mjh.nz/.r/art-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/etc-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="mjh-cas40-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="Lifestyle & Travel" , Million Dollar Listing VAULT
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/cas40-fast.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-bbc-antiques-roadshow-247-fast" tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="Lifestyle & Travel" , BBC Antiques Roadshow
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
