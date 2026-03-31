@@ -5,7 +5,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
