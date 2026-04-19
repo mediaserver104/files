@@ -4186,6 +4186,17 @@ http://nor1live.win:80/livehttpplay?channel_id=23123
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",CBS Sports
 http://nor1live.win:80/livehttpplay?channel_id=23124
 
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV Live
+http://nor1live.win:80/livehttpplay?channel_id=23081
 
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV U
+http://nor1live.win:80/livehttpplay?channel_id=23078
 
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",CMT
+http://nor1live.win:80/livehttpplay?channel_id=23077
 
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",UNKN Movies
+http://nor1live.win:80/livehttpplay?channel_id=23073
+
+#EXTINF:-1 tvg-id="" group-title="CLassic TV" tvg-logo="",Comedy Central
+http://nor1live.win:80/livehttpplay?channel_id=23070
