@@ -4135,14 +4135,6 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="TVPass",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 
-
-#EXTINF:-1 tvg-id="MeTVWBBZ.us" tvg-name="USA: ME TV" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2015/01/Me-TV-500x157.png" group-title="USA | BASIC",USA: ME TV
-http://hestiahestia.quicksytes.com:2096/cchuckcarr/3019582674/814346
-#EXTINF:-1 tvg-id="METV GREENVILLE SC WYFF" tvg-name="USA: ME TV (CAROLINA)" tvg-logo="https://puddintap.click/ico/USA-Color/metv.png" group-title="USA | BASIC",USA: ME TV (CAROLINA)
-http://hestiahestia.quicksytes.com:2096/cchuckcarr/3019582674/814411
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="USA: METV TOONS" tvg-logo="https://animesuperhero.com/wp-content/uploads/2024/05/MeTV-Toons.png" group-title="USA | BASIC",USA: METV TOONS
-http://hestiahestia.quicksytes.com:2096/cchuckcarr/3019582674/814408
-
 #EXTINF:-1 tvg-id="Charge!" tvg-name="Charge" tvg-logo="" group-title="Live TV",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
