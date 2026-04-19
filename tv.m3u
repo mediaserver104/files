@@ -779,7 +779,7 @@ https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 
 
-#EXTINF:-1 group-title="Sci-Fi & Fantasy",Syfy
+#EXTINF:-1 tvg-id="syfy-eastern-feed" group-title="Sci-Fi & Fantasy",Syfy
 http://nor1live.win:80/livehttpplay?channel_id=23111
 
 
