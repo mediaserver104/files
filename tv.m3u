@@ -4156,39 +4156,36 @@ http://nor1live.win:80/livehttpplay?channel_id=23104
 #EXTINF:-1 tvg-id="hallmark-mystery" group-title="Crime & Mystery" tvg-logo="",Hallmark Mystery
 http://nor1live.win:80/livehttpplay?channel_id=23060
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",UNKN1
+#EXTINF:-1 tvg-id="tv-land" group-title="Classic TV" tvg-logo="",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",UNKN2
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
 http://nor1live.win:80/livehttpplay?channel_id=23064
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",UNKN3
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23058
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",UNKN4
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23057
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23118
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Wrestlemania
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",ESPN
 http://nor1live.win:80/livehttpplay?channel_id=23120
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",ESPNEWS
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",ESPNEWS
 http://nor1live.win:80/livehttpplay?channel_id=23121
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",ESPNU
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",ESPNU
 http://nor1live.win:80/livehttpplay?channel_id=23122
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",ESPN2
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",ESPN2
 http://nor1live.win:80/livehttpplay?channel_id=23123
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",CBS Sports
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",CBS Sports
 http://nor1live.win:80/livehttpplay?channel_id=23124
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",UNKN5
-http://nor1live.win:80/livehttpplay?channel_id=23129
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",UNKN6
-http://nor1live.win:80/livehttpplay?channel_id=23130
+
 
