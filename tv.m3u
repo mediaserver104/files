@@ -4198,5 +4198,5 @@ http://nor1live.win:80/livehttpplay?channel_id=23077
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",UNKN Movies
 http://nor1live.win:80/livehttpplay?channel_id=23073
 
-#EXTINF:-1 tvg-id="" group-title="CLassic TV" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="" group-title="Classic TV" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23070
