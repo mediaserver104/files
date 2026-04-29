@@ -4156,7 +4156,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23104
 #EXTINF:-1 tvg-id="hallmark-mystery" group-title="Crime & Mystery" tvg-logo="",Hallmark Mystery
 http://nor1live.win:80/livehttpplay?channel_id=23060
 
-#EXTINF:-1 tvg-id="TVLandPacific.us" group-title="Classic TV" tvg-logo="",TV LAND
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
