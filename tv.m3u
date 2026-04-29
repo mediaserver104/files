@@ -213,7 +213,7 @@ https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ad
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
 https://linear-1146.frequency.stream/dist/tcltv/1146/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 tvg-id="Alfred Hitchcock Presents" tvg-logo="https://m.media-amazon.com/images/I/41kkoJ4jU7L._UXNaN_FMjpg_QL85_.jpg" group-title="Classic TV",Alfred Hitchcock Presents
+#EXTINF:-1 tvg-id="99951256" tvg-logo="https://m.media-amazon.com/images/I/41kkoJ4jU7L._UXNaN_FMjpg_QL85_.jpg" group-title="Classic TV",Alfred Hitchcock Presents
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 group-title="Classic TV",The Dick Van Dyke Show
@@ -234,10 +234,10 @@ https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ad
 https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 
 
-#EXTINF:-1 tvg-id="XUMO_99991157" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/300x300.webp?type=color_onBlack" group-title="Classic TV",Johnny Carson TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/300x300.webp?type=color_onBlack" group-title="Classic TV",Johnny Carson TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991157/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991157&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheJohnnyCarsonShow&ads.csid=xumo_[PLATFORM]_TheJohnnyCarsonShow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=197&ads.xumo_contentName=ShoutFactory&ads.xumo_providerId=197&ads.xumo_providerName=ShoutFactory&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991157&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
-#EXTINF:-1 tvg-id="XUMO_99951259" tvg-logo="https://image.xumo.com/v1/channels/channel/99951259/300x300.webp?type=color_onBlack" group-title="Classic TV",Lassie
+#EXTINF:-1 tvg-id="99951259" tvg-logo="https://image.xumo.com/v1/channels/channel/99951259/300x300.webp?type=color_onBlack" group-title="Classic TV",Lassie
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951259/hls/master.m3u8?ads.xumo_channelId=99951259&ads.asnw=169843&ads.afid=380744363&ads.sfid=19316505&ads.csid=xumo_[PLATFORM]_NBCULassie_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3946&ads.xumo_contentName=NBCULassie&ads.xumo_providerId=3946&ads.xumo_providerName=NBCULassie&ads.channelId=99951259&ads._fw_ifa_type=[IFA_TYPE]
 
@@ -258,7 +258,7 @@ https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/3-1x1.png" tvg-id="LN_E817E82A-A322-4FA4-8F55-0E17116F726B" group-title="Classic TV",The Carol Burnett Show
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/3-1x1.png" tvg-id="e3cd976116d5578ab9be32baa738ade2" group-title="Classic TV",The Carol Burnett Show
 https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n4=content_name&ads.v4=The%20Carol%20Burnett%20Show&ads.n21=content_custom_1_param&ads.v21=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n22=channel_corp&ads.v22=Shout%21%20Factory%20LLC&ads.n23=channel_language&ads.v23=en&ads.n24=content_type&ads.v24=channel&ads.n25=h&ads.v25=1080&ads.n26=channel_genre&ads.v26=Comedy&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=ifa_type&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=gpp&ads.v30=&ads.n31=channel_id&ads.v31=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n32=device_model&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=content_custom_2_param&ads.v34=AMDB013522&ads.n35=url&ads.v35=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n36=device_type&ads.v36=&ads.n37=channel_title&ads.v37=The%20Carol%20Burnett%20Show&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=did&ads.v39=&ads.n40=device_make&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=app_bundle&ads.v42=&ads.n43=content_producer_name&ads.v43=Shout%21%20Factory%20LLC&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=dnt&ads.v45=&ads.n46=channel_ext_id&ads.v46=&ads.n47=w&ads.v47=1920&ads.n48=app_version&ads.v48=0.0.0&ads.n49=channel_company_id&ads.v49=AMDP500152&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_brand_id&ads.v51=AMDB013522&ads.n52=app_store_url&ads.v52=&ads.n53=ua&ads.v53=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n54=content_provider&ads.v54=carol-burnett&ads.n55=network_name&ads.v55=carol-burnett&ads.n56=channel_name&ads.v56=The%20Carol%20Burnett%20Show&ads.n57=app_name&ads.v57=&ads.n58=gpp_sid&ads.v58=
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk5MzgwMDU5M30
 
@@ -356,7 +356,7 @@ https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
 #EXTINF:-1 tvg-id=""group-title="Classic TV",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Pluto TV Action+
+#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" group-title="Classic TV",Pluto TV Action+
 https://jmp2.uk/stvp-GBAK3504503A?.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVClassicTV.us@UK"group-title="Classic TV",Pluto TV Classic TV
@@ -388,7 +388,7 @@ https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="XUMO_99951146" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/300x300.webp?type=color_onBlack" group-title="Classic TV",Family Affair Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951146/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951146&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=MPIMediaFamilyAffair&ads.csid=xumo_[PLATFORM]_MPIMediaFamilyAffair_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3769&ads.xumo_contentName=MPIMediaFamilyAffair&ads.xumo_providerId=3769&ads.xumo_providerName=MPIMediaFamilyAffair&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951146&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic TV",FilmRise Classic TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic TV",FilmRise Classic TV
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 
 #EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="Classic TV",Grit Xtra
@@ -419,7 +419,7 @@ https://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/3-1x1.png" tvg-id="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E" group-title="Classic TV",Shout! TV
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/3-1x1.png" tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" group-title="Classic TV",Shout! TV
 https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n4=content_name&ads.v4=EPG%20%7C%20Shout%21%20TV&ads.n21=app_version&ads.v21=0.0.0&ads.n22=device_type&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=did&ads.v25=&ads.n26=content_custom_3_param&ads.v26=channel&ads.n27=content_livestream&ads.v27=1&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=shout-factory-tv&ads.n30=content_custom_2_param&ads.v30=AMDB012112&ads.n31=ifa_type&ads.v31=&ads.n32=channel_genre&ads.v32=Entertainment&ads.n33=channel_language&ads.v33=en&ads.n34=dnt&ads.v34=&ads.n35=channel_corp&ads.v35=Shout%21%20Factory%20LLC&ads.n36=content_provider&ads.v36=shout-factory-tv&ads.n37=channel_ext_id&ads.v37=5f9ac4b628511a3eee5293a2&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=gpp&ads.v40=&ads.n41=gpp_sid&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500152&ads.n43=app_bundle&ads.v43=&ads.n44=content_custom_1_param&ads.v44=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=pos&ads.v46=midroll&ads.n47=channel_name&ads.v47=EPG%20%20Shout%21%20TV&ads.n48=channel_id&ads.v48=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n49=device_make&ads.v49=&ads.n50=app_store_url&ads.v50=&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=w&ads.v52=1920&ads.n53=channel_title&ads.v53=EPG%20%20Shout%21%20TV&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=app_name&ads.v55=&ads.n56=content_producer_name&ads.v56=Shout%21%20Factory%20LLC&ads.n57=device_model&ads.v57=&ads.n58=channel_brand_id&ads.v58=AMDB012112
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/the-family-tv-channel/logo_20250102_220756_70.png" group-title="Classic TV",The Family TV Channel
@@ -555,12 +555,12 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 channel-id="465041" tvg-id="465041" group-title="Movies",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 channel-id="465332" tvg-id="paramount-with-showtime-eastern-feed" group-title="Movies",Showtime
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" group-title="Movies",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies",MGM Presents
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" group-title="Movies",MGM Presents
 https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 group-title="Movies",MGM Presents Action
@@ -574,14 +574,12 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991106/hls/master.m3u8?includeAsset
 
 #EXTINF:-1 group-title="Movies" tvg-id="65a9b20f0c7ff50008d3a3b6",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
-#EXTINF:-1 tvg-id="691729bdda5b5095ab1818fd" group-title="Movies",The Pink Panther
-https://jmp2.uk/plu-691729bdda5b5095ab1818fd.m3u8
 
 
-#EXTINF:-1 channel-id="National Lampoon" tvg-id="National Lampoon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/National_Lampoon_-_1970.png/revision/latest/scale-to-width-down/1200?cb=20250701082252" group-title="Movies",National Lampoon
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/National_Lampoon_-_1970.png/revision/latest/scale-to-width-down/1200?cb=20250701082252" group-title="Movies",National Lampoon
 https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="US18000163F" tvg-id="US18000163F" tvg-chno="1237" tvg-name="Miramax Movie Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Miramax-Films-Logo-2008.png" group-title="Movies",Miramax Movie Channel
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" tvg-chno="1237" tvg-name="Miramax Movie Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Miramax-Films-Logo-2008.png" group-title="Movies",Miramax Movie Channel
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E2B93420-EB36-4052-B789-2AD8286E402B/3-1x1.png" tvg-id="LN_E2B93420-EB36-4052-B789-2AD8286E402B" group-title="Movies",Non-Stop '90s
@@ -622,10 +620,10 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAsse
 
 
 
-#EXTINF:-1 tvg-id="Cinevault.us" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",US - Cinevault
+#EXTINF:-1 tvg-id="c490011275a8562b87366dbf80b62af2" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",US - Cinevault
 https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CINEVAULTClassics.us" tvg-logo="https://canvas-lb.tubitv.com/opts/yeukiWgw3Zn-lQ==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",US - CINEVAULT Classics
+#EXTINF:-1 tvg-id="8ca348cf2f985d4b94388c9a455e7f13" tvg-logo="https://canvas-lb.tubitv.com/opts/yeukiWgw3Zn-lQ==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",US - CINEVAULT Classics
 https://live-manifest.production-public.tubi.io/live/29a5146e-2130-4f40-9418-9f66295689ae/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8ca348cf2f985d4b94388c9a455e7f13" tvg-id="CINEVAULT: Classics" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/cinevault_classics_white.png?ch=width&auto=format%2Ccompress" group-title="Movies",CINEVAULT: Classics
@@ -662,7 +660,7 @@ https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playl
 
 
 
-#EXTINF:-1 tvg-id="IconFilmClassics" tvg-logo="https://www.iconfilm.com.au/img/icon-logo.png" tvg-name="Icon Film Classics" group-title="Movies",Icon Film Classics
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-656fabcfdbcce28c3a417417" tvg-logo="https://www.iconfilm.com.au/img/icon-logo.png" tvg-name="Icon Film Classics" group-title="Movies",Icon Film Classics
 https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/kung-fu-movies/logo_20250102_215727_70.png" tvg-id="LN_7DB404D9-5CF0-414C-9A60-A05839756563" tvg-id="LN_7DB404D9-5CF0-414C-9A60-A05839756563" group-title="Movies",Kung Fu Movies
@@ -674,16 +672,16 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/FS63B7JS4WE77IAF6J1J/hls3/now
 #EXTINF:-1 tvg-id="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE" tvg-id="ScreamBox" tvg-name="Screambox TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/3-1x1.png" group-title="Movies",Screambox TV
 https://wurlcineverse.global.transmit.live/hls/678864b20b2848c81efe74be/v1/cinedigm_entertainment_corp_screamboxtv_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1845&wurl_name=ScreamboxTV&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDQyNjk2MDA1MX0
 
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" group-title="Movies",Maverick Black Cinema
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" group-title="Movies",Maverick Black Cinema
 https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Movies4Free" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png" tvg-name="wedotvMovies" group-title="Movies",wedotv Movies
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-642d67a42476824150b0a6e9" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png" tvg-name="wedotvMovies" group-title="Movies",wedotv Movies
 https://movies4free-lg.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7hY9D1vU-XQVvNwFTQgRNRKVOPjpXlB5Ug&s" group-title="Movies",MyTime Movie Network
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644875d7af92c31f4a190bc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7hY9D1vU-XQVvNwFTQgRNRKVOPjpXlB5Ug&s" group-title="Movies",MyTime Movie Network
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7hY9D1vU-XQVvNwFTQgRNRKVOPjpXlB5Ug&s" group-title="Movies",MyTime Movie Network 2
@@ -701,16 +699,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="SamuelGoldwynClassics.us@SD" group-title="Movies",Samuel Goldwyn Classics
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6920b06c-e77a-4611-93bc-2a60a8e5bf1e/dlaklvk-4f25f02c-efb7-464b-88c1-55e9b4528a9c.png/v1/fill/w_1280,h_720/samuel_goldwyn_films_logo__2027__by_sciencekidjames_dlaklvk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzY5MjBiMDZjLWU3N2EtNDYxMS05M2JjLTJhNjBhOGU1YmYxZS9kbGFrbHZrLTRmMjVmMDJjLWVmYjctNDY0Yi04OGMxLTU1ZTliNDUyOGE5Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.HMvlth5ZdvLi6zB3VORaWdawO4FpLas0LzFQMJF_5hc" group-title="Movies",Samuel Goldwyn Films
+#EXTINF:-1 tvg-id="3be83a06a3ea50b3af4849fb2e527ddc" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6920b06c-e77a-4611-93bc-2a60a8e5bf1e/dlaklvk-4f25f02c-efb7-464b-88c1-55e9b4528a9c.png/v1/fill/w_1280,h_720/samuel_goldwyn_films_logo__2027__by_sciencekidjames_dlaklvk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzY5MjBiMDZjLWU3N2EtNDYxMS05M2JjLTJhNjBhOGU1YmYxZS9kbGFrbHZrLTRmMjVmMDJjLWVmYjctNDY0Yi04OGMxLTU1ZTliNDUyOGE5Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.HMvlth5ZdvLi6zB3VORaWdawO4FpLas0LzFQMJF_5hc" group-title="Movies",Samuel Goldwyn Films
 https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ScaresByShudder" tvg-name="Scares By Shudder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8TeE7ydxKXNssKB8e4AoHtVMUO5fa7dGag&s" group-title="Movies",Scares By Shudder
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" tvg-name="Scares By Shudder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8TeE7ydxKXNssKB8e4AoHtVMUO5fa7dGag&s" group-title="Movies",Scares By Shudder
 https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8?ads.wurl_channel=1566&ads.wurl_name=ScaresbyShudder&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDEyMTAwNzU5MH0
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/scream-tv/logo_20241010_200627_70.png" group-title="Movies",Scream TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/scream-tv/manifest.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=103416&ads.show_id=3645&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CHorror%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Scream%20TV&ads.episodetitle=Scream%20TV&ads.keywords=Scream%2CHorror%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=JqxUVI6mOPq
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/55/2/spark-tv-uganda-logo-png_seeklogo-550276.png" group-title="Movies",Spark TV
+#EXTINF:-1 tvg-id="99951528" tvg-logo="https://images.seeklogo.com/logo-png/55/2/spark-tv-uganda-logo-png_seeklogo-550276.png" group-title="Movies",Spark TV
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_99991300" tvg-logo="https://image.xumo.com/v1/channels/channel/99991300/300x300.webp?type=color_onBlack" group-title="Movies",Stash TV
@@ -2826,16 +2824,16 @@ https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
+#EXTINF:-1 tvg-id="GB300032DX" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
+#EXTINF:-1 tvg-id="GBBC900003B2" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="that-s-90s00s" tvg-id="660c209e19ca71000846cf38" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/NOW_90s_%26_00s.png" group-title="Music",NOW 90s00s
 https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
 
-#EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",Now Rock
+#EXTINF:-1 tvg-id="that-s-rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",Now Rock
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -3153,7 +3151,7 @@ https://i.mjh.nz/.r/sbs-sb01.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884585/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884585&ads.xumo_streamId=88884585&declaredCC1Language=en&ads.caid=FilmRise&ads.csid=tcl2_us_kimsconvenience_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=FilmRise&ads.xumo_providerId=5&ads.xumo_providerName=FilmRise&ads.xumo_channelName=FilmRise&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 
-#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" group-title="Comedy",Comedy Dynamics
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" group-title="Comedy",Comedy Dynamics
 https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
 
 #EXTINF:-1 tvg-id="691cf0410a78a9ce61ad2121"group-title="Comedy",America's Funniest Home Videos
@@ -3177,7 +3175,7 @@ https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 #EXTINF:-1 tvg-id="GirlfriendsFilms.us@SD" group-title="Comedy",Girlfriends
 https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Comedy",Moesha
+#EXTINF:-1 tvg-id="515d785b0a5ea55f15f7e4c773990009" group-title="Comedy",Moesha
 https://jmp2.uk/plu-620f6c60b994540007ddd74b.m3u8
 
 #EXTINF:-1 tvg-id="MoreTVSitcoms.us@SD" group-title="Comedy",More TV Sitcoms
@@ -3232,7 +3230,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951247/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="XUMO_99951236" tvg-logo="https://image.xumo.com/v1/channels/channel/99951236/300x300.webp?type=color_onBlack" group-title="Comedy",SNL Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951236/hls/master.m3u8?ads.xumo_channelId=99951236&ads.asnw=169843&ads.afid=380737434&ads.sfid=19208104&ads.csid=xumo_[PLATFORM]_NBCUSNLVault_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3931&ads.xumo_contentName=NBCUSNLVault&ads.xumo_providerId=3931&ads.xumo_providerName=NBCUSNLVault&ads.channelId=99951236&ads._fw_ifa_type=[IFA_TYPE]
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/61FD3E40-54BC-4E1E-9BB1-40B60DDD6662/3-1x1.png" tvg-id="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662" group-title="Comedy",The Red Green Show
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/61FD3E40-54BC-4E1E-9BB1-40B60DDD6662/3-1x1.png" tvg-id="4b236d75ad3e5831a1707f53e41beede" group-title="Comedy",The Red Green Show
 https://3fb9588b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TG9jYWxOb3dfVGhlUmVkR3JlZW5DaGFubmVsX0hMUw/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.cust_devicename=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.wurl_name=TheRedGreenChannel&ads.app_name=&ads.channel_company_id=AMDP500286&ads.device_model=&ads.content_id=61FD3E40-54BC-4E1E-9BB1-40B60DDD6662&ads.channel_ext_id=6206d436f3bf9076a33ce426&ads.dnt=&ads.ifa_type=&ads.channel_corp=Spacemob%20Studio&ads.coppa=0&ads.cust_channeltype=channel&ads.wurl_channel=949&ads.content_title=EPG%20%20The%20Red%20Green%20Show&ads.channel_brand_id=AMDB012628&ads.content_genre=Comedy&ads.content_provider=the-red-green-show&ads.device_make=&ads.device_type=&ads.us_privacy=1YNY&ads.did=&ads.ip=86.48.9.131&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D69A4E6E-AF54-4F38-BA4C-AD7246522B51/3-1x1.png" tvg-id="LN_D69A4E6E-AF54-4F38-BA4C-AD7246522B51" group-title="Comedy",Trailer Park Boys
@@ -4058,7 +4056,7 @@ https://tvpass.org/live/IFCEast/hd
 https://tvpass.org/live/MoreMaxEast/hd
 #EXTINF:-1 tvg-id="reelzchannel" group-title="TVPass",Reelz Channel
 https://tvpass.org/live/Reelz/hd
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="TVPass",Showtime
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" group-title="TVPass",Showtime
 https://tvpass.org/live/ShowtimeEast/hd
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" group-title="TVPass",Showtime 2
 https://tvpass.org/live/Showtime2East/hd
