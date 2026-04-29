@@ -549,13 +549,13 @@ https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" group-title="Movies",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 
-#EXTINF:-1 group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 channel-id="465041" tvg-id="465041" group-title="Movies",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 channel-id="465332" tvg-id="465332" group-title="Movies",Showtime
+#EXTINF:-1 channel-id="465332" tvg-id="paramount-with-showtime-eastern-feed" group-title="Movies",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 
