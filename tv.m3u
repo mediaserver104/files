@@ -4147,7 +4147,7 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="5f7794a788d29000079d2f07" group-title="Classic TV" tvg-logo="",The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
-#EXTINF:-1 tvg-id="rew-tv" group-title="Classic TV" tvg-logo="",Rew TV
+#EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rew TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
 
 #EXTINF:-1 tvg-id="ae" group-title="New" tvg-logo="",A&E
