@@ -4172,6 +4172,14 @@ http://nor1live.win:80/livehttpplay?channel_id=23123
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",CBS Sports
 http://nor1live.win:80/livehttpplay?channel_id=23124
 
+#EXTINF:-1 tvg-id="mgm_action" group-title="Movies" tvg-logo="",MGM Action
+https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mgm_outer_limits" group-title="Classic TV" tvg-logo="",Outer Limits
+https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mgm_westerns" group-title="Movies" tvg-logo="",MGM Westerns
+https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mgm_teen_wolf" group-title="Sci-Fi & Fantasy" tvg-logo="",Teen Wolf
+https://linear-1143.frequency.stream/dist/tcltv/1143/hls/master/playlist.m3u8
