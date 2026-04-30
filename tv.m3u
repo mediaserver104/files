@@ -401,7 +401,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951152/hls/playlist.m3u8?ads.xumo_c
 
 
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
+#EXTINF:-1 tvg-id="901011e7-9149-48cb-aabc-9218760e54fe" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
 https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&url=__PAGEURL_ESC__&genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ic=IAB1&us_privacy=__IS_GDPR__&gdpr=0&gdpr_consent=0&did=__DEVICE_ID__&dnt=__LIMIT_AD_TRACKING__&coppa=0&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=-SPJecyFm2K
 
 #EXTINF:-1 tvg-id="lone-star-new" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
@@ -4175,11 +4175,29 @@ http://nor1live.win:80/livehttpplay?channel_id=23124
 #EXTINF:-1 tvg-id="mgm_action" group-title="Movies" tvg-logo="",MGM Action
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mgm_outer_limits" group-title="Classic TV" tvg-logo="",Outer Limits
-https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mgm_westerns" group-title="Movies" tvg-logo="",MGM Westerns
 https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mgm_teen_wolf" group-title="Sci-Fi & Fantasy" tvg-logo="",Teen Wolf
 https://linear-1143.frequency.stream/dist/tcltv/1143/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",WHSV-DT4
+http://104.255.88.155/metv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",KMBC-DT2_(720p)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",KMIZ-DT2_(720p)
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",METV_HD_(1080p)
+http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Classic TV",V_Classic_TV_(720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Artflix_Movie_Classics_(720p)
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
