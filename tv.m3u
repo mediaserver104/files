@@ -566,6 +566,9 @@ https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ad
 #EXTINF:-1 group-title="Movies",MGM Presents Action
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
+#EXTINF:-1 tvg-id="mgm_westerns" group-title="Movies" tvg-logo="",MGM Presents Westerns
+https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-id="58d947b9e420d8656ee101ab",RiffTrax
 https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 
@@ -3440,6 +3443,18 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 #EXTINF:-1 tvg-id="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1280px-Comet_logo.svg.png" group-title="Live TV",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
+#EXTINF:-1 tvg-id="Charge!" tvg-name="Charge" tvg-logo="" group-title="Live TV",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-id="ae" group-title="Live TV" tvg-logo="",A&E
+http://nor1live.win:80/livehttpplay?channel_id=23104
+
+#EXTINF:-1 tvg-id="" group-title="Live TV" tvg-logo="",Paramount Network
+http://nor1live.win:80/livehttpplay?channel_id=23118
+
+#EXTINF:-1 tvg-id="" group-title="Live TV" tvg-logo="",BET
+http://nor1live.win:80/livehttpplay?channel_id=23064
+
 #EXTINF:-1 tvg-id="Bravo.nz@Plus1" tvg-logo="https://e7.pngegg.com/pngimages/1009/1008/png-clipart-bravo-logo-transparent-icons-logos-emojis-iconic-brands.png" group-title="Live TV",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 
@@ -4121,8 +4136,7 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="TVPass",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 
-#EXTINF:-1 tvg-id="Charge!" tvg-name="Charge" tvg-logo="" group-title="Live TV",Charge!
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Movies!" tvg-name="Movies!" tvg-logo="" group-title="Movies",Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -4136,26 +4150,25 @@ https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rew TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
 
-#EXTINF:-1 tvg-id="ae" group-title="New" tvg-logo="",A&E
-http://nor1live.win:80/livehttpplay?channel_id=23104
+
 
 #EXTINF:-1 tvg-id="hallmark-mystery" group-title="Crime & Mystery" tvg-logo="",Hallmark Mystery
 http://nor1live.win:80/livehttpplay?channel_id=23060
 
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV" tvg-logo="",TV LAND
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+
+#EXTINF:-1 tvg-id="61bd0b57872c650008ed2e38" group-title="Classic TV" tvg-logo="",TV LAND
+https://jmp2.uk/plu-61bd0b57872c650008ed2e38.m3u8
+
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
-http://nor1live.win:80/livehttpplay?channel_id=23064
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23058
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23057
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount Network
-http://nor1live.win:80/livehttpplay?channel_id=23118
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",ESPN
 http://nor1live.win:80/livehttpplay?channel_id=23120
@@ -4172,23 +4185,13 @@ http://nor1live.win:80/livehttpplay?channel_id=23123
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",CBS Sports
 http://nor1live.win:80/livehttpplay?channel_id=23124
 
-#EXTINF:-1 tvg-id="mgm_action" group-title="Movies" tvg-logo="",MGM Action
-https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="mgm_westerns" group-title="Movies" tvg-logo="",MGM Westerns
-https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="mgm_teen_wolf" group-title="Sci-Fi & Fantasy" tvg-logo="",Teen Wolf
 https://linear-1143.frequency.stream/dist/tcltv/1143/hls/master/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" group-title="Music",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Artflix_Movie_Classics_(720p)
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Artflix Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Midnight Pulp
@@ -4203,11 +4206,11 @@ https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV",GEM Classic
-https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Classic Cinema Online
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movies",Drive In Movie Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
 
 
 
@@ -4227,6 +4230,5 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/98
 #EXTINF:-1 tvg-id="" group-title="New",Best Thriller TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Drive In Movie Channel (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+
 
