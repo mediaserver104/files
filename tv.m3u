@@ -208,7 +208,7 @@ https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 https://tvpass.org/live/metv-toons/sd
 https://tvpass.org/live/metv-toons/hd
 
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="TVPass;Classic TV",MeTV
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="TVPass;Classic TV",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
@@ -227,9 +227,6 @@ http://nor1live.win:80/livehttpplay?channel_id=23083
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23070
 
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" group-title="Classic TV;New" tvg-logo="",MTV
-http://nor1live.win:80/livehttpplay?channel_id=23018
-
 #EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;New" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23077
 
@@ -239,7 +236,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 tvg-id="tv-land-classic" group-title="New" tvg-logo="",TV LAND Classic
+#EXTINF:-1 tvg-id="tv-land-classic" group-title="Classic TV" tvg-logo="",TV LAND Classic
 http://nor1live.win:80/livehttpplay?channel_id=23096
 
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
@@ -4306,7 +4303,8 @@ http://nor1live.win:80/livehttpplay?channel_id=23001
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23000
 
-
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" group-title="Movies;New" tvg-logo="",MTV
+http://nor1live.win:80/livehttpplay?channel_id=23018
 
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Live TV;Classic TV;New" tvg-logo="",USA
 http://nor1live.win:80/livehttpplay?channel_id=23069
