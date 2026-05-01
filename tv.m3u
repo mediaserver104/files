@@ -4160,9 +4160,6 @@ http://nor1live.win:80/livehttpplay?channel_id=23096
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 tvg-id="61bd0b57872c650008ed2e38" group-title="Classic TV" tvg-logo="",TV LAND
-https://jmp2.uk/plu-61bd0b57872c650008ed2e38.m3u8
-
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
@@ -4238,10 +4235,10 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce
 #EXTINF:-1 tvg-id="tv-land-classic" group-title="New" tvg-logo="",TV LAND Classic
 http://nor1live.win:80/livehttpplay?channel_id=23096
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23083
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23070
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
@@ -4253,13 +4250,13 @@ http://nor1live.win:80/livehttpplay?channel_id=23059
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23057
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV
+#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",MTV
 http://nor1live.win:80/livehttpplay?channel_id=23018
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Classic
+#EXTINF:-1 tvg-id="" group-title="Music;New" tvg-logo="",MTV Classic
 http://nor1live.win:80/livehttpplay?channel_id=23086
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Classic
+#EXTINF:-1 tvg-id="" group-title="Music;New" tvg-logo="",MTV Classic
 http://nor1live.win:80/livehttpplay?channel_id=23087
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Live
@@ -4271,10 +4268,10 @@ http://nor1live.win:80/livehttpplay?channel_id=23078
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Vice
 http://nor1live.win:80/livehttpplay?channel_id=23085
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Military History
+#EXTINF:-1 tvg-id="" group-title="Documentary & History;New" tvg-logo="",Military History
 http://nor1live.win:80/livehttpplay?channel_id=23084
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="" group-title="Classic TV;Live TV;New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23082
 
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
@@ -4289,7 +4286,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23000
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23077
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",USA
+#EXTINF:-1 tvg-id="" group-title="Live TV;Classic TV;New" tvg-logo="",USA
 http://nor1live.win:80/livehttpplay?channel_id=23069
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Oxygen True Crime
@@ -4301,23 +4298,23 @@ http://nor1live.win:80/livehttpplay?channel_id=23068
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
 http://nor1live.win:80/livehttpplay?channel_id=23066
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount+
+#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",Paramount+
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="" group-title="Movies;New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23012
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Nick@Nite
+#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",Nick@Nite
 http://nor1live.win:80/livehttpplay?channel_id=23019
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",E!
+#EXTINF:-1 tvg-id="" group-title="Movies;New" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",TV ONE
+#EXTINF:-1 tvg-id="TV ONE Represent" group-title="New" tvg-logo="",TV ONE Represent
 http://nor1live.win:80/livehttpplay?channel_id=23007
 
-#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="New" tvg-logo="",Pluto TV Retro Toons
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="Classic TV;New" tvg-logo="",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 
-#EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="New" tvg-logo="",More TV Sitcoms
+#EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="Classic TV;New" tvg-logo="",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
