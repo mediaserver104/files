@@ -4235,10 +4235,10 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce
 #EXTINF:-1 tvg-id="tv-land-classic" group-title="New" tvg-logo="",TV LAND Classic
 http://nor1live.win:80/livehttpplay?channel_id=23096
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23083
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23070
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
@@ -4271,9 +4271,6 @@ http://nor1live.win:80/livehttpplay?channel_id=23085
 #EXTINF:-1 tvg-id="" group-title="Documentary & History;New" tvg-logo="",Military History
 http://nor1live.win:80/livehttpplay?channel_id=23084
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;Live TV;New" tvg-logo="",Paramount Network
-http://nor1live.win:80/livehttpplay?channel_id=23082
-
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23080
 
@@ -4283,7 +4280,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23001
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23000
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",CMT
+#EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;New" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23077
 
 #EXTINF:-1 tvg-id="" group-title="Live TV;Classic TV;New" tvg-logo="",USA
@@ -4298,16 +4295,19 @@ http://nor1live.win:80/livehttpplay?channel_id=23068
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
 http://nor1live.win:80/livehttpplay?channel_id=23066
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",Paramount+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Classic TV;New" tvg-logo="",Paramount+
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
-#EXTINF:-1 tvg-id="" group-title="Movies;New" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Classic TV;Live TV;New" tvg-logo="",Paramount Network
+http://nor1live.win:80/livehttpplay?channel_id=23082
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23012
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV;New" tvg-logo="",Nick@Nite
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV;New" tvg-logo="",Nickelodeon
 http://nor1live.win:80/livehttpplay?channel_id=23019
 
-#EXTINF:-1 tvg-id="" group-title="Movies;New" tvg-logo="",E!
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies;New" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
 #EXTINF:-1 tvg-id="TV ONE Represent" group-title="New" tvg-logo="",TV ONE Represent
