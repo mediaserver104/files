@@ -60,14 +60,14 @@ http://192.168.1.200:8409/iptv/channel/246.m3u8
 http://192.168.1.200:8409/iptv/channel/247.m3u8
 #EXTINF:0 tvg-id="C248.254.ersatztv.org" channel-id="31w2MWHypUu6li12MbTdoQ" channel-number="248" CUID="31w2MWHypUu6li12MbTdoQ" tvg-chno="248" tvg-name="Midnight Movies" tvg-logo="http://192.168.1.200:8409/iptv/logos/458AF8EFA0B56319B5A5B18CC535DEFF.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Midnight Movies
 http://192.168.1.200:8409/iptv/channel/248.m3u8
+#EXTINF:0 tvg-id="C249.255.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="249" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="249" tvg-name="Movie Favourites" tvg-logo="http://192.168.1.200:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
+http://192.168.1.200:8409/iptv/channel/249.m3u8
 #EXTINF:0 tvg-id="C250.247.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="250" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="250" tvg-name="Countdown" tvg-logo="http://192.168.1.200:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
 http://192.168.1.200:8409/iptv/channel/250.m3u8
 #EXTINF:0 tvg-id="C260.248.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="260" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="260" tvg-name="MTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/4F0CDB4845FBAA1C76FE715999D3F610.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV
 http://192.168.1.200:8409/iptv/channel/260.ts
 #EXTINF:0 tvg-id="C270.249.ersatztv.org" channel-id="F7WAeNHcKkGx85pZp5kC_g" channel-number="270" CUID="F7WAeNHcKkGx85pZp5kC_g" tvg-chno="270" tvg-name="MTV Punk" tvg-logo="http://192.168.1.200:8409/iptv/logos/63FA7FFEACD77161652D4B3691425B61.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV Punk
 http://192.168.1.200:8409/iptv/channel/270.ts
-#EXTINF:0 tvg-id="C280.250.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="280" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="280" tvg-name="Movie Favourites" tvg-logo="http://192.168.1.200:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
-http://192.168.1.200:8409/iptv/channel/280.m3u8
 #EXTINF:0 tvg-id="C295.256.ersatztv.org" channel-id="WYdO5u6qKEu2mGPEYvi8yQ" channel-number="295" CUID="WYdO5u6qKEu2mGPEYvi8yQ" tvg-chno="295" tvg-name="The Simpsons" tvg-logo="http://192.168.1.200:8409/iptv/logos/400C0788CD253427947C866250CF84B7.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Simpsons
 http://192.168.1.200:8409/iptv/channel/295.m3u8
 #EXTINF:0 tvg-id="C300.243.ersatztv.org" channel-id="Pqse9maYb0mhDsRiFA-O8g" channel-number="300" CUID="Pqse9maYb0mhDsRiFA-O8g" tvg-chno="300" tvg-name="Big Bang Theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Big Bang Theory
@@ -162,14 +162,14 @@ http://100.74.98.51:8409/iptv/channel/246.m3u8
 http://100.74.98.51:8409/iptv/channel/247.m3u8
 #EXTINF:0 tvg-id="C248.254.ersatztv.org" channel-id="31w2MWHypUu6li12MbTdoQ" channel-number="248" CUID="31w2MWHypUu6li12MbTdoQ" tvg-chno="248" tvg-name="Midnight Movies" tvg-logo="http://100.74.98.51:8409/iptv/logos/458AF8EFA0B56319B5A5B18CC535DEFF.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Midnight Movies
 http://100.74.98.51:8409/iptv/channel/248.m3u8
+#EXTINF:0 tvg-id="C249.255.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="249" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="249" tvg-name="Movie Favourites" tvg-logo="http://100.74.98.51:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
+http://100.74.98.51:8409/iptv/channel/249.m3u8
 #EXTINF:0 tvg-id="C250.247.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="250" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="250" tvg-name="Countdown" tvg-logo="http://100.74.98.51:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
 http://100.74.98.51:8409/iptv/channel/250.m3u8
 #EXTINF:0 tvg-id="C260.248.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="260" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="260" tvg-name="MTV" tvg-logo="http://100.74.98.51:8409/iptv/logos/4F0CDB4845FBAA1C76FE715999D3F610.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV
 http://100.74.98.51:8409/iptv/channel/260.ts
 #EXTINF:0 tvg-id="C270.249.ersatztv.org" channel-id="F7WAeNHcKkGx85pZp5kC_g" channel-number="270" CUID="F7WAeNHcKkGx85pZp5kC_g" tvg-chno="270" tvg-name="MTV Punk" tvg-logo="http://100.74.98.51:8409/iptv/logos/63FA7FFEACD77161652D4B3691425B61.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV Punk
 http://100.74.98.51:8409/iptv/channel/270.ts
-#EXTINF:0 tvg-id="C280.250.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="280" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="280" tvg-name="Movie Favourites" tvg-logo="http://100.74.98.51:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
-http://100.74.98.51:8409/iptv/channel/280.m3u8
 #EXTINF:0 tvg-id="C295.256.ersatztv.org" channel-id="WYdO5u6qKEu2mGPEYvi8yQ" channel-number="295" CUID="WYdO5u6qKEu2mGPEYvi8yQ" tvg-chno="295" tvg-name="The Simpsons" tvg-logo="http://100.74.98.51:8409/iptv/logos/400C0788CD253427947C866250CF84B7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Simpsons
 http://100.74.98.51:8409/iptv/channel/295.m3u8
 #EXTINF:0 tvg-id="C300.243.ersatztv.org" channel-id="Pqse9maYb0mhDsRiFA-O8g" channel-number="300" CUID="Pqse9maYb0mhDsRiFA-O8g" tvg-chno="300" tvg-name="Big Bang Theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Big Bang Theory
