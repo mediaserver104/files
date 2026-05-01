@@ -4304,7 +4304,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23015
 #EXTINF:-1 tvg-id="" group-title="Movies;New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23012
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",Nick@Nite
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV;New" tvg-logo="",Nick@Nite
 http://nor1live.win:80/livehttpplay?channel_id=23019
 
 #EXTINF:-1 tvg-id="" group-title="Movies;New" tvg-logo="",E!
