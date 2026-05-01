@@ -4233,19 +4233,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce
 
 
 #EXTINF:-1 tvg-id="tv-land-classic" group-title="New" tvg-logo="",TV LAND Classic
-http://nor1live.win:80/livehttpplay?channel_id=23097
-
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Classic
-http://nor1live.win:80/livehttpplay?channel_id=23087
+http://nor1live.win:80/livehttpplay?channel_id=23096
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23083
 
-
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23070
-
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
 http://nor1live.win:80/livehttpplay?channel_id=23064
@@ -4256,8 +4250,14 @@ http://nor1live.win:80/livehttpplay?channel_id=23059
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23057
 
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV
+http://nor1live.win:80/livehttpplay?channel_id=23018
+
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Classic
 http://nor1live.win:80/livehttpplay?channel_id=23086
+
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Classic
+http://nor1live.win:80/livehttpplay?channel_id=23087
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Live
 http://nor1live.win:80/livehttpplay?channel_id=23081
@@ -4277,6 +4277,12 @@ http://nor1live.win:80/livehttpplay?channel_id=23082
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23080
 
+#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
+http://nor1live.win:80/livehttpplay?channel_id=23001
+
+#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
+http://nor1live.win:80/livehttpplay?channel_id=23000
+
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23077
 
@@ -4292,5 +4298,20 @@ http://nor1live.win:80/livehttpplay?channel_id=23068
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
 http://nor1live.win:80/livehttpplay?channel_id=23066
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",HBO Family (ESP)
-http://nor1live.win:80/livehttpplay?channel_id=23049
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount+
+http://nor1live.win:80/livehttpplay?channel_id=23015
+
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Paramount Network
+http://nor1live.win:80/livehttpplay?channel_id=23012
+
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Nick@Nite
+http://nor1live.win:80/livehttpplay?channel_id=23019
+
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",E!
+http://nor1live.win:80/livehttpplay?channel_id=23008
+
+#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",TV ONE
+http://nor1live.win:80/livehttpplay?channel_id=23007
+
+
+
