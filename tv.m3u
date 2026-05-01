@@ -4333,6 +4333,6 @@ http://nor1live.win:80/livehttpplay?channel_id=23012
 #EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies;New" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
-#EXTINF:-1 tvg-id="TV ONE Represent" group-title="New" tvg-logo="",TV ONE Represent
+#EXTINF:-1 tvg-id="tv-one" group-title="New" tvg-logo="",TV ONE
 http://nor1live.win:80/livehttpplay?channel_id=23007
 
