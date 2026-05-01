@@ -201,7 +201,49 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="Classic TV;New" tvg-logo="",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="TVPass;Classic TV",MeTV Toons
+https://tvpass.org/live/metv-toons/sd
+https://tvpass.org/live/metv-toons/hd
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="TVPass;Classic TV",MeTV
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
+#EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
+http://nor1live.win:80/livehttpplay?channel_id=23095
+
+#EXTINF:-1 tvg-id="1da659db3ce914b59c2823fbe6529d76" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png" group-title="Classic TV",GET Comedy
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="Classic TV;New" tvg-logo="",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+
+#EXTINF:-1 tvg=id="Comedy.Central.HD.(Pacific).us2" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
+http://nor1live.win:80/livehttpplay?channel_id=23083
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
+http://nor1live.win:80/livehttpplay?channel_id=23070
+
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" group-title="Classic TV;New" tvg-logo="",MTV
+http://nor1live.win:80/livehttpplay?channel_id=23018
+
+#EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;New" tvg-logo="",CMT
+http://nor1live.win:80/livehttpplay?channel_id=23077
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV;New" tvg-logo="",Nickelodeon
+http://nor1live.win:80/livehttpplay?channel_id=23019
+
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+
+#EXTINF:-1 tvg-id="tv-land-classic" group-title="New" tvg-logo="",TV LAND Classic
+http://nor1live.win:80/livehttpplay?channel_id=23096
+
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
+http://nor1live.win:80/livehttpplay?channel_id=23097
 
 
 
@@ -377,8 +419,7 @@ https://jmp2.uk/plu-68e3b6112baff9f069d02540.m3u8
 #EXTINF:-1 tvg-id="SabrinaTeenageWitch.us@UK"group-title="Classic TV",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 
-#EXTINF:-1 tvg-id="1da659db3ce914b59c2823fbe6529d76" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png" group-title="Classic TV",GET Comedy
-https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ComedyClassics.sxm" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png" group-title="Classic TV",Comedy Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.channel_name=Comedy+Classics&ads.content_id=STA108&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136901&ads.show_id=5245&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CComedy%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Comedy%20Classics&ads.episodetitle=Comedy%20Classics&ads.keywords=Classic%2CComedy&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=6X7yzRAm3Mq
@@ -4022,12 +4063,7 @@ https://c.mjh.nz/abc-tas.m3u8
 
 
 
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="TVPass;Classic TV",MeTV Toons
-https://tvpass.org/live/metv-toons/sd
-https://tvpass.org/live/metv-toons/hd
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" group-title="TVPass;Classic TV",MeTV
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" group-title="TVPass",Cinemax
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="AMC.HD.us2" group-title="TVPass",AMC
@@ -4151,17 +4187,13 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="5f7794a788d29000079d2f07" group-title="Classic TV" tvg-logo="",The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
-#EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
-http://nor1live.win:80/livehttpplay?channel_id=23095
 
-#EXTINF:-1 tvg-id="tv-land-classic" group-title="Classic TV" tvg-logo="",TV LAND Classic
-http://nor1live.win:80/livehttpplay?channel_id=23096
 
-#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
-https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
-http://nor1live.win:80/livehttpplay?channel_id=23097
+
+
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23058
@@ -4232,14 +4264,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce
 
 
 
-#EXTINF:-1 tvg-id="tv-land-classic" group-title="New" tvg-logo="",TV LAND Classic
-http://nor1live.win:80/livehttpplay?channel_id=23096
 
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
-http://nor1live.win:80/livehttpplay?channel_id=23083
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" group-title="Classic TV;Comedy;New" tvg-logo="",Comedy Central
-http://nor1live.win:80/livehttpplay?channel_id=23070
+
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
 http://nor1live.win:80/livehttpplay?channel_id=23064
@@ -4250,8 +4277,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23059
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
 http://nor1live.win:80/livehttpplay?channel_id=23057
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",MTV
-http://nor1live.win:80/livehttpplay?channel_id=23018
+
 
 #EXTINF:-1 tvg-id="" group-title="Music;New" tvg-logo="",MTV Classic
 http://nor1live.win:80/livehttpplay?channel_id=23086
@@ -4271,7 +4297,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23085
 #EXTINF:-1 tvg-id="" group-title="Documentary & History;New" tvg-logo="",Military History
 http://nor1live.win:80/livehttpplay?channel_id=23084
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
+#EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Movies;New" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23080
 
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
@@ -4280,10 +4306,9 @@ http://nor1live.win:80/livehttpplay?channel_id=23001
 #EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23000
 
-#EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;New" tvg-logo="",CMT
-http://nor1live.win:80/livehttpplay?channel_id=23077
 
-#EXTINF:-1 tvg-id="" group-title="Live TV;Classic TV;New" tvg-logo="",USA
+
+#EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Live TV;Classic TV;New" tvg-logo="",USA
 http://nor1live.win:80/livehttpplay?channel_id=23069
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Oxygen True Crime
@@ -4298,14 +4323,11 @@ http://nor1live.win:80/livehttpplay?channel_id=23066
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Classic TV;New" tvg-logo="",Paramount+
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Classic TV;Live TV;New" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="Classic TV;Live TV;New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23082
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;New" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23012
-
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV;New" tvg-logo="",Nickelodeon
-http://nor1live.win:80/livehttpplay?channel_id=23019
 
 #EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies;New" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
@@ -4313,8 +4335,3 @@ http://nor1live.win:80/livehttpplay?channel_id=23008
 #EXTINF:-1 tvg-id="TV ONE Represent" group-title="New" tvg-logo="",TV ONE Represent
 http://nor1live.win:80/livehttpplay?channel_id=23007
 
-#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="Classic TV;New" tvg-logo="",Pluto TV Retro Toons
-https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
-
-#EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="Classic TV;New" tvg-logo="",More TV Sitcoms
-https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
