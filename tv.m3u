@@ -914,19 +914,19 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.us@UK"group-title="Action & Drama",Pluto TV Drama
 https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama;Classic TV",Scorpion
+#EXTINF:-1 tvg-id="" group-title="Action & Drama;Classic TV",Scorpion
 https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 
-#EXTINF:-1 tvg-id="StoriesbyAMC.us@SD"group-title="Action & Drama",Stories by AMC
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@SD" group-title="Action & Drama",Stories by AMC
 https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama",Supernatural Drama
+#EXTINF:-1 tvg-id="" group-title="Action & Drama",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="Action & Drama",Touched by an Angel
+#EXTINF:-1 tvg-id="" group-title="Action & Drama",Touched by an Angel
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 
-#EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e"group-title="Action & Drama",TV Land Drama
+#EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e" group-title="Action & Drama",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 https://jmp2.uk/plu-612fea0e970e6f00083be56b.m3u8
 
@@ -4136,7 +4136,8 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="TVPass",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 
-
+#EXTINF:-1 tvg-id="hallmark-mystery" group-title="Crime & Mystery" tvg-logo="",Hallmark Mystery
+http://nor1live.win:80/livehttpplay?channel_id=23060
 
 #EXTINF:-1 tvg-id="Movies!" tvg-name="Movies!" tvg-logo="" group-title="Movies",Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -4150,10 +4151,8 @@ https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rew TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
 
-
-
-#EXTINF:-1 tvg-id="hallmark-mystery" group-title="Crime & Mystery" tvg-logo="",Hallmark Mystery
-http://nor1live.win:80/livehttpplay?channel_id=23060
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV" tvg-logo="",TV LAND
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
