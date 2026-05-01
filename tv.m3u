@@ -359,11 +359,14 @@ https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" group-title="Classic TV",Pluto TV Action+
 https://jmp2.uk/stvp-GBAK3504503A?.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVClassicTV.us@UK"group-title="Classic TV",Pluto TV Classic TV
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.us@UK" group-title="Classic TV",Pluto TV Classic TV
 https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany"group-title="Classic TV",Pluto TV Sitcoms
+#EXTINF:-1 tvg-id="62f53dc6ee9a0400071dc22b" group-title="Classic TV",Pluto TV Sitcoms
 https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+
+#EXTINF:-1 tvg-id="5d767ab2b456c8cf265ce921" group-title="Classic TV",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Classic TV",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
@@ -4313,5 +4316,8 @@ http://nor1live.win:80/livehttpplay?channel_id=23008
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",TV ONE
 http://nor1live.win:80/livehttpplay?channel_id=23007
 
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="New" tvg-logo="",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 
-
+#EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="New" tvg-logo="",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
