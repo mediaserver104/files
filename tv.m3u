@@ -212,6 +212,9 @@ https://tvpass.org/live/metv-toons/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="TVPass",TV Land
+https://tvpass.org/live/tv-land-eastern/hd
+
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
 
