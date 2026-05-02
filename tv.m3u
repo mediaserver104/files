@@ -668,10 +668,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAsse
 
 
 #EXTINF:-1 tvg-id="c490011275a8562b87366dbf80b62af2" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",US - Cinevault
-https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8ca348cf2f985d4b94388c9a455e7f13" tvg-logo="https://canvas-lb.tubitv.com/opts/yeukiWgw3Zn-lQ==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",US - CINEVAULT Classics
-https://live-manifest.production-public.tubi.io/live/29a5146e-2130-4f40-9418-9f66295689ae/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8ca348cf2f985d4b94388c9a455e7f13" tvg-id="CINEVAULT: Classics" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/cinevault_classics_white.png?ch=width&auto=format%2Ccompress" group-title="Movies",CINEVAULT: Classics
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
@@ -4253,134 +4251,101 @@ https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies",Drive In Movie Channel
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" group-title="New",MeTV
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",MeTV
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",MeTV
-http://104.255.88.155/metv/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",Best Action TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",Best Drama TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",Best Thriller TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
-http://nor1live.win:80/livehttpplay?channel_id=23064
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark Mystery
-http://nor1live.win:80/livehttpplay?channel_id=23059
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Hallmark
-http://nor1live.win:80/livehttpplay?channel_id=23057
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Music;New" tvg-logo="",MTV Classic
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV Classic
 http://nor1live.win:80/livehttpplay?channel_id=23086
 
-#EXTINF:-1 tvg-id="" group-title="Music;New" tvg-logo="",MTV Classic
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV Classic
 http://nor1live.win:80/livehttpplay?channel_id=23087
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV Live
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV Live
 http://nor1live.win:80/livehttpplay?channel_id=23081
 
 #EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV U
 http://nor1live.win:80/livehttpplay?channel_id=23078
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Vice
+#EXTINF:-1 tvg-id="" group-title="Movies",Best Drama TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movies",Best Thriller TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Classic TV" tvg-logo="",Hallmark Mystery
+http://nor1live.win:80/livehttpplay?channel_id=23059
+
+#EXTINF:-1 tvg-id="" group-title="Classic TV" tvg-logo="",Hallmark
+http://nor1live.win:80/livehttpplay?channel_id=23057
+
+#EXTINF:-1 tvg-id="" group-title="Crime & Mystery" tvg-logo="",Vice
 http://nor1live.win:80/livehttpplay?channel_id=23085
 
-#EXTINF:-1 tvg-id="" group-title="Documentary & History;New" tvg-logo="",Military History
+#EXTINF:-1 tvg-id="" group-title="Documentary & History" tvg-logo="",Military History
 http://nor1live.win:80/livehttpplay?channel_id=23084
 
-#EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Movies;New" tvg-logo="",VH1
+#EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Movies" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23080
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
+#EXTINF:-1 tvg-id="vh1-pacific-feed" group-title="Movies" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23001
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV;New" tvg-logo="",VH1
-http://nor1live.win:80/livehttpplay?channel_id=23000
-
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" group-title="Movies;New" tvg-logo="",MTV
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" group-title="Movies" tvg-logo="",MTV
 http://nor1live.win:80/livehttpplay?channel_id=23018
-
-#EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Live TV;Classic TV;New" tvg-logo="",USA
-http://nor1live.win:80/livehttpplay?channel_id=23069
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Oxygen True Crime
-http://nor1live.win:80/livehttpplay?channel_id=23067
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",Oxygen True Crime
-http://nor1live.win:80/livehttpplay?channel_id=23068
-
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",BET
-http://nor1live.win:80/livehttpplay?channel_id=23066
-
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Classic TV;New" tvg-logo="",Paramount+
-http://nor1live.win:80/livehttpplay?channel_id=23015
-
-#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="Classic TV;Live TV;New" tvg-logo="",Paramount Network
-http://nor1live.win:80/livehttpplay?channel_id=23082
-
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;New" tvg-logo="",Paramount Network
-http://nor1live.win:80/livehttpplay?channel_id=23012
 
 #EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies;New" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
-#EXTINF:-1 tvg-id="tv-one" group-title="New" tvg-logo="",TV ONE
+#EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Live TV;Classic TV" tvg-logo="",USA
+http://nor1live.win:80/livehttpplay?channel_id=23069
+
+#EXTINF:-1 tvg-id="" group-title="Crime & Mystery" tvg-logo="",Oxygen True Crime
+http://nor1live.win:80/livehttpplay?channel_id=23067
+http://nor1live.win:80/livehttpplay?channel_id=23068
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="Classic TV;Live TV;Movies" tvg-logo="",Paramount Network
+http://nor1live.win:80/livehttpplay?channel_id=23082
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;Live TV" tvg-logo="",Paramount Network
+http://nor1live.win:80/livehttpplay?channel_id=23012
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Classic TV;New" tvg-logo="",Paramount+
+http://nor1live.win:80/livehttpplay?channel_id=23015
+
+#EXTINF:-1 tvg-id="tv-one" group-title="Classic TV" tvg-logo="",TV ONE
 http://nor1live.win:80/livehttpplay?channel_id=23007
 
-#EXTINF:-1 tvg-id="" group-title="New",Classic Cinema
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="gusa-classiccinema" group-title="Movies",Classic Cinema
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="New",Talkin Live Classics TV
+#EXTINF:-1 tvg-id="" group-title="Classic TV",Talkin Live Classics TV
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="New",Cinevault 80's
-https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="New",Classic Movies Channel
+#EXTINF:-1 tvg-id="" group-title="Movies",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="New",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" group-title="Comedy;Movies",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="New",ESPN8: The Ocho
+#EXTINF:-1 tvg-id="" group-title="Sports",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="New",ION Plus
+#EXTINF:-1 tvg-id="" group-title="Classic TV",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Roar
+#EXTINF:-1 tvg-id="" group-title="Comedy;Classic TV",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",MyTV
-https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Reality" tvg-logo="",VH1
+http://nor1live.win:80/livehttpplay?channel_id=23000
