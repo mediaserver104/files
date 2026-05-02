@@ -212,7 +212,7 @@ https://tvpass.org/live/metv-toons/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" ,TV Land
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest?cb=20150702234449" group-title="Classic TV" ,TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
@@ -962,6 +962,7 @@ https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 
 #EXTINF:-1 tvg-id="StoriesbyAMC.us@SD" group-title="Action & Drama",Stories by AMC
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Action & Drama",Supernatural Drama
@@ -1015,7 +1016,7 @@ https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 https://i.mjh.nz/.r/cas26-fast.m3u8
 
 
-#EXTINF:-1 tvg-id="XUMO_9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Action & Drama",ION Plus
+#EXTINF:-1 tvg-id="XUMO_9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Live TV;Action & Drama",ION Plus
 https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
@@ -4261,6 +4262,9 @@ https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="New",MeTV
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="New",MeTV
+http://104.255.88.155/metv/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="New",Best Action TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
 
@@ -4345,3 +4349,38 @@ http://nor1live.win:80/livehttpplay?channel_id=23008
 #EXTINF:-1 tvg-id="tv-one" group-title="New" tvg-logo="",TV ONE
 http://nor1live.win:80/livehttpplay?channel_id=23007
 
+#EXTINF:-1 tvg-id="" group-title="New",Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="New",Talkin Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="New",Cinevault 80's
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="New",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="New",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="New",ESPN8: The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="New",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Roar
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",MyTV
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
