@@ -4332,7 +4332,7 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" group-title="Comedy;Movies",Comedy Central
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Comedy;Movies",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 
