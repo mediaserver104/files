@@ -239,9 +239,6 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 tvg-id="tv-land-classic" group-title="Classic TV" tvg-logo="",TV LAND Classic
-http://nor1live.win:80/livehttpplay?channel_id=23096
-
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
@@ -596,13 +593,17 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
+#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="Movies",HBO
+http://nor1live.win:80/livehttpplay?channel_id=23152
+
 #EXTINF:-1 channel-id="465041" tvg-id="465041" group-title="Movies",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" group-title="Movies",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-
+#EXTINF:-1 tvg-id="tnt-eastern-feed" group-title="Movies",TNT
+http://nor1live.win:80/livehttpplay?channel_id=23133
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" group-title="Movies",MGM Presents
 https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
@@ -633,7 +634,8 @@ https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/744/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n4=content_name&ads.v4=Non-Stop%2090s&ads.n21=app_version&ads.v21=0.0.0&ads.n22=content_custom_1_param&ads.v22=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n23=gpp_sid&ads.v23=&ads.n24=app_bundle&ads.v24=&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013526&ads.n27=gpp&ads.v27=&ads.n28=url&ads.v28=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n29=channel_id&ads.v29=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n30=channel_brand_id&ads.v30=AMDB013526&ads.n31=device_model&ads.v31=&ads.n32=w&ads.v32=1920&ads.n33=channel_language&ads.v33=en&ads.n34=content_provider&ads.v34=nonstop-90s&ads.n35=channel_title&ads.v35=Non-Stop%2090s&ads.n36=channel_ext_id&ads.v36=&ads.n37=ifa_type&ads.v37=&ads.n38=channel_company_id&ads.v38=AMDP500152&ads.n39=content_type&ads.v39=channel&ads.n40=content_producer_name&ads.v40=Shout%21%20Factory%20LLC&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=ip&ads.v42=86.48.9.131&ads.n43=ua&ads.v43=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n44=pos&ads.v44=midroll&ads.n45=app_name&ads.v45=&ads.n46=channel_genre&ads.v46=Movies%20and%20TV&ads.n47=h&ads.v47=1080&ads.n48=device_make&ads.v48=&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=did&ads.v50=&ads.n51=network_name&ads.v51=nonstop-90s&ads.n52=dnt&ads.v52=&ads.n53=content_livestream&ads.v53=1&ads.n54=channel_corp&ads.v54=Shout%21%20Factory%20LLC&ads.n55=app_store_url&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=channel_name&ads.v58=Non-Stop%2090s
 
 
-
+#EXTINF:-1 group-title="Movies" tvg-id="MGM+.HD.us2",MGM+
+http://nor1live.win:80/livehttpplay?channel_id=23072
 
 
 
@@ -775,6 +777,8 @@ https://i.mjh.nz/.r/all-starcinema-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/lmn-fast.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Movies",LMN
+http://nor1live.win:80/livehttpplay?channel_id=23107
 
 
 #EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="Movies" ,Romance Movies
@@ -1598,7 +1602,8 @@ https://i.mjh.nz/.r/dw-news.m3u8
 https://wingspan-airandspace-1-au.tcl.wurl.tv/playlist.m3u8
 https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8?ads.wurl_channel=1684&ads.wurl_name=AIRandSPACE&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 
-
+#EXTINF:-1 tvg-id="" group-title="Documentary & History",History Channel
+http://nor1live.win:80/livehttpplay?channel_id=23105
 
 #EXTINF:-1 tvg-id="" group-title="Documentary & History",Cosmic Frontiers
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
@@ -4335,6 +4340,8 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Comedy;Movies",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Comedy;Movies",Comedy Central
+http://nor1live.win:80/livehttpplay?channel_id=23119
 
 #EXTINF:-1 tvg-id="" group-title="Sports",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
@@ -4349,3 +4356,37 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Reality" tvg-logo="",VH1
 http://nor1live.win:80/livehttpplay?channel_id=23000
+
+
+#EXTINF:-1 tvg-id=""group-title="Sports",ESPN 2
+http://nor1live.win:80/livehttpplay?channel_id=23123
+
+#EXTINF:-1 tvg-id=""group-title="Sports",NFL
+http://nor1live.win:80/livehttpplay?channel_id=23123
+
+#EXTINF:-1 tvg-id=""group-title="Sports",MLB
+http://nor1live.win:80/livehttpplay?channel_id=23125
+
+#EXTINF:-1 tvg-id=""group-title="Sports",NHL
+http://nor1live.win:80/livehttpplay?channel_id=23127
+
+#EXTINF:-1 tvg-id=""group-title="Sports",NBA TV
+http://nor1live.win:80/livehttpplay?channel_id=23128
+
+#EXTINF:-1 tvg-id=""group-title="Sports",Tennis
+http://nor1live.win:80/livehttpplay?channel_id=23129
+
+#EXTINF:-1 tvg-id=""group-title="Sports",Golf
+http://nor1live.win:80/livehttpplay?channel_id=23130
+
+#EXTINF:-1 tvg-id=""group-title="Sports",FS2
+http://nor1live.win:80/livehttpplay?channel_id=23142
+
+#EXTINF:-1 tvg-id=""group-title="Sports",NBC Sports
+http://nor1live.win:80/livehttpplay?channel_id=23103
+
+#EXTINF:-1 tvg-id="logo-east" group-title="Live TV",Lifetime
+http://nor1live.win:80/livehttpplay?channel_id=23106
+
+#EXTINF:-1 tvg-id="logo-east" group-title="Live TV",fyi
+http://nor1live.win:80/livehttpplay?channel_id=23108
