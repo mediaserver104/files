@@ -593,7 +593,7 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://nor1live.win:80/livehttpplay?channel_id=23152
 
 #EXTINF:-1 channel-id="465041" tvg-id="465041" group-title="Movies",HBO 2
@@ -602,7 +602,10 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" group-title="Movies",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt-eastern-feed" group-title="Movies",TNT
+#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="Movies",TNT
+http://nor1live.win:80/livehttpplay?channel_id=23133
+
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" group-title="Movies",TNT
 http://nor1live.win:80/livehttpplay?channel_id=23133
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" group-title="Movies",MGM Presents
