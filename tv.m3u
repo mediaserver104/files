@@ -4260,7 +4260,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23087
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV Live
 http://nor1live.win:80/livehttpplay?channel_id=23081
 
-#EXTINF:-1 tvg-id="" group-title="New" tvg-logo="",MTV U
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV U
 http://nor1live.win:80/livehttpplay?channel_id=23078
 
 #EXTINF:-1 tvg-id="" group-title="Movies",Best Drama TV
@@ -4290,7 +4290,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23001
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" group-title="Movies" tvg-logo="",MTV
 http://nor1live.win:80/livehttpplay?channel_id=23018
 
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies;New" tvg-logo="",E!
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Live TV;Classic TV" tvg-logo="",USA
@@ -4306,7 +4306,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23082
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;Live TV" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23012
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Classic TV;New" tvg-logo="",Paramount+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Classic TV" tvg-logo="",Paramount+
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
 #EXTINF:-1 tvg-id="tv-one" group-title="Classic TV" tvg-logo="",TV ONE
