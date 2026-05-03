@@ -4314,7 +4314,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23082
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;Live TV" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23012
 
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" group-title="Classic TV" tvg-logo="",CMT
+#EXTINF:-1 tvg-id="CMT.HD.us2" group-title="Classic TV" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
 #EXTINF:-1 tvg-id="tv-one" group-title="Classic TV" tvg-logo="",TV ONE
