@@ -230,10 +230,10 @@ http://nor1live.win:80/livehttpplay?channel_id=23083
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23070
 
-#EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV" tvg-logo="",CMT
+#EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;Movies" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23077
 
-#EXTINF:-1 tvg-id="CMTPacific.us" group-title="Classic TV" tvg-logo="",CMT
+#EXTINF:-1 tvg-id="CMTPacific.us" group-title="Classic TV;Movies" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV" tvg-logo="",Nickelodeon
@@ -4311,7 +4311,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23069
 http://nor1live.win:80/livehttpplay?channel_id=23067
 http://nor1live.win:80/livehttpplay?channel_id=23068
 
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-shift="-3" group-title="Classic TV;Live TV;Movies" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-shift="-3" group-title="Classic TV;Live TV;Movies" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23082
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Classic TV;Live TV;Movies" tvg-logo="",Paramount Network
