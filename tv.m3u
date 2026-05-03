@@ -4298,7 +4298,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23001
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" group-title="Movies" tvg-logo="",MTV
 http://nor1live.win:80/livehttpplay?channel_id=23018
 
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Movies" tvg-logo="",E!
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" group-title="Movies" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Live TV;Classic TV" tvg-logo="",USA
