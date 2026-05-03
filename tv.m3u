@@ -206,8 +206,9 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons
-https://tvpass.org/live/metv-toons/sd
 https://tvpass.org/live/metv-toons/hd
+https://tvpass.org/live/metv-toons/sd
+
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
@@ -4405,67 +4406,36 @@ http://nor1live.win:80/livehttpplay?channel_id=23108
 
 
 
-#EXTINF:-1 tvg-id="" group-title="New",METV
-http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",METV
-https://cdn.igocast.com/channel3_hls/channel3_profile1.m3u8
 
-#EXTINF:-1 group-title="New" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png",US | MeTV Toons
-http://206.212.244.26/live/vasconeves/1742766045/48753.ts
-
-#EXTINF:-1 tvg-id="" group-title="New",METV
-http://my.streamerstv.com:25461/Bob123/Bob123/109
-
-#EXTINF:-1 tvg-id="" group-title="New",ME TV
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="MeTV | (MOJ) (TizTV)"  group-title="New",MeTV | (MOJ) (TizTV)
-http://fl2.moveonjoy.com/ME_TV/index.m3u8
-
-#EXTINF:-1, tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="Logo N/A" tvg-name="MeTV Toons | 33.2 WJLP2 Middletown NJ | (TVpass) (TizTV)"  group-title="New",MeTV Toons | 33.2 WJLP2 Middletown NJ | (TVpass) (TizTV)
-https://tvpass.org/live/metv-toons/hd?Toons
-
-#EXTINF:-1 tvg-id="" group-title="New",ME TV EAST
-https://16live00.akamaized.net/ME_TV_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",WHSV-DT4
-http://104.255.88.155/metv/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",WJLP-DT1
-https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",KMBC-DT2
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" group-title="New",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="New",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",SyFy
+#EXTINF:-1 tvg-id="Syfy.HD.us2" group-title="New",SyFy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Cinemax
+#EXTINF:-1 tvg-id="CineMAX.us" group-title="New",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="New",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.us2" group-title="New",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",FXX
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="New",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="New",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",HBO2
+#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="New",HBO2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8?takodachi
 
-#EXTINF:-1 tvg-id="" group-title="New",HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="New",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="New",ION
@@ -4474,35 +4444,32 @@ http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="New",REELZ
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Showtime
+#EXTINF:-1 tvg-id="Showtime.HD.us2" group-title="New",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Showtime Family
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" group-title="New",Showtime Family
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Starz
+#EXTINF:-1 tvg-id="Starz.HD.us2" group-title="New",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",We TV
+#EXTINF:-1 tvg-id="WeTV.us" group-title="New",We TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",More MAX
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" group-title="New",More MAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="New",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",TruTV
+#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="New",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Revolt
+#EXTINF:-1 tvg-id="07143b8eb2940144933e5faadb8c19e2" group-title="New",Revolt
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",WGN
+#EXTINF:-1 tvg-id="WGNWGN9.us" group-title="New",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Yes Network
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="New",Fuse
+#EXTINF:-1 tvg-id="Fuse.HD.us2" group-title="New",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
