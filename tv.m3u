@@ -162,7 +162,7 @@ http://100.74.98.51:8409/iptv/channel/246.m3u8
 http://100.74.98.51:8409/iptv/channel/247.m3u8
 #EXTINF:0 tvg-id="C248.254.ersatztv.org" channel-id="31w2MWHypUu6li12MbTdoQ" channel-number="248" CUID="31w2MWHypUu6li12MbTdoQ" tvg-chno="248" tvg-name="Midnight Movies" tvg-logo="http://100.74.98.51:8409/iptv/logos/458AF8EFA0B56319B5A5B18CC535DEFF.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Midnight Movies
 http://100.74.98.51:8409/iptv/channel/248.m3u8
-#EXTINF:0 tvg-id="C249.255.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="249" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="249" tvg-name="Movie Favourites" tvg-logo="http://100.74.98.51:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
+#EXTINF:0 tvg-id="C249.255.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="249" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="249" tvg-name="Movie Favourites" tvg-logo="http://100.74.98.51:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
 http://100.74.98.51:8409/iptv/channel/249.m3u8
 #EXTINF:0 tvg-id="C250.247.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="250" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="250" tvg-name="Countdown" tvg-logo="http://100.74.98.51:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
 http://100.74.98.51:8409/iptv/channel/250.m3u8
