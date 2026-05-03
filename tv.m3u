@@ -614,7 +614,7 @@ https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ad
 #EXTINF:-1 group-title="Movies",MGM Presents Action
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 tvg-id="mgm_westerns" group-title="Movies" tvg-logo="",MGM Presents Westerns
+#EXTINF:-1 tvg-id="MGMPresentsWesterns.us" group-title="Movies" tvg-logo="",MGM Presents Westerns
 https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="58d947b9e420d8656ee101ab",RiffTrax
