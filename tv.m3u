@@ -4404,8 +4404,8 @@ http://nor1live.win:80/livehttpplay?channel_id=23108
 
 
 
-
-
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" group-title="New",WCVB-TV
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" group-title="New",Comedy Central
