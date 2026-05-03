@@ -4432,7 +4432,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="New",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="New",HBO2
+#EXTINF:-1 tvg-id="HBO.Hits.us2" group-title="New",HBO Hits
 http://23.237.104.106:8080/USA_HBO2/index.m3u8?takodachi
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="New",HBO Comedy
@@ -4441,10 +4441,10 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="New",ION
 http://23.237.104.106:8080/USA_ION/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",REELZ
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" group-title="New",REELZ
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.HD.us2" group-title="New",Showtime
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="New",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" group-title="New",Showtime Family
