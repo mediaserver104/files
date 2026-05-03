@@ -212,7 +212,7 @@ https://tvpass.org/live/metv-toons/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://p7.hiclipart.com/preview/1021/637/284/logo-product-design-brand-tv-land-font-design.jpg" group-title="Classic TV" ,TV Land
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
@@ -242,7 +242,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://p7.hiclipart.com/preview/1021/637/284/logo-product-design-brand-tv-land-font-design.jpg",TV LAND
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
 
