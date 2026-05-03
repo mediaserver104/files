@@ -236,6 +236,9 @@ http://nor1live.win:80/livehttpplay?channel_id=23077
 #EXTINF:-1 tvg-id="CMTPacific.us" group-title="Classic TV;Movies" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23015
 
+#EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;Movies" tvg-logo="",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV" tvg-logo="",Nickelodeon
 http://nor1live.win:80/livehttpplay?channel_id=23019
 
@@ -4301,6 +4304,9 @@ http://nor1live.win:80/livehttpplay?channel_id=23001
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" group-title="Movies" tvg-logo="",MTV
 http://nor1live.win:80/livehttpplay?channel_id=23018
 
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" group-title="Movies" tvg-logo="",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" group-title="Movies" tvg-logo="",E!
 http://nor1live.win:80/livehttpplay?channel_id=23008
 
@@ -4393,3 +4399,88 @@ http://nor1live.win:80/livehttpplay?channel_id=23106
 
 #EXTINF:-1 tvg-id="logo-east" group-title="Live TV",fyi
 http://nor1live.win:80/livehttpplay?channel_id=23108
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="New",WHSV-DT4
+http://104.255.88.155/metv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",WJLP-DT1
+https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",KMBC-DT2
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",SyFy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8?takodachi
+
+#EXTINF:-1 tvg-id="" group-title="New",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",ION
+http://23.237.104.106:8080/USA_ION/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",REELZ
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Showtime Family
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",More MAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",TruTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",WGN
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Yes Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
