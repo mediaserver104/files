@@ -4308,7 +4308,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23069
 http://nor1live.win:80/livehttpplay?channel_id=23067
 http://nor1live.win:80/livehttpplay?channel_id=23068
 
-#EXTINF:-1 tvg-id="Paramount+withShowtimePacific.us" group-title="Classic TV;Live TV;Movies" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-shift="-3" group-title="Classic TV;Live TV;Movies" tvg-logo="",Paramount Network
 http://nor1live.win:80/livehttpplay?channel_id=23082
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Movies;Live TV" tvg-logo="",Paramount Network
