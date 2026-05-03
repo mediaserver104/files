@@ -212,7 +212,7 @@ https://tvpass.org/live/metv-toons/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Land_2015.svg/revision/latest?cb=20150702234449" group-title="Classic TV" ,TV Land
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://p7.hiclipart.com/preview/1021/637/284/logo-product-design-brand-tv-land-font-design.jpg" group-title="Classic TV" ,TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
@@ -242,7 +242,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="",TV LAND
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://p7.hiclipart.com/preview/1021/637/284/logo-product-design-brand-tv-land-font-design.jpg",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
 
 
@@ -435,7 +435,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951146/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic TV",FilmRise Classic TV
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 
-#EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="Classic TV",Grit Xtra
+#EXTINF:-1 tvg-id="99951152" group-title="Classic TV",Grit Xtra
 https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951152/hls/playlist.m3u8?ads.xumo_channelId=99951152&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsGritXtra&ads.csid=xumo_[PLATFORM]_ScrippsGritXtra_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3807&ads.xumo_contentName=ScrippsGritXtra&ads.xumo_providerId=3807&ads.xumo_providerName=ScrippsGritXtra&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951152&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
@@ -1024,7 +1024,7 @@ https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 https://i.mjh.nz/.r/cas26-fast.m3u8
 
 
-#EXTINF:-1 tvg-id="XUMO_9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Live TV;Action & Drama",ION Plus
+#EXTINF:-1 tvg-id="9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Live TV;Action & Drama",ION Plus
 https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
@@ -4354,7 +4354,7 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Comedy;Classic TV",Roar
+#EXTINF:-1 channel-id="Roar.us" tvg-id="ROAR.TV.us2" group-title="Comedy;Classic TV",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Reality" tvg-logo="",VH1
