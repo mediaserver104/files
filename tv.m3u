@@ -199,7 +199,8 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" group-title="Classic TV",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="Classic TV" tvg-logo="",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
@@ -4404,6 +4405,30 @@ http://nor1live.win:80/livehttpplay?channel_id=23108
 
 
 
+#EXTINF:-1 tvg-id="" group-title="New",METV
+http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="New",METV
+https://cdn.igocast.com/channel3_hls/channel3_profile1.m3u8
+
+#EXTINF:-1 group-title="New" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png",US | MeTV Toons
+http://206.212.244.26/live/vasconeves/1742766045/48753.ts
+
+#EXTINF:-1 tvg-id="" group-title="New",METV
+http://my.streamerstv.com:25461/Bob123/Bob123/109
+
+#EXTINF:-1 tvg-id="" group-title="New",ME TV
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="MeTV | (MOJ) (TizTV)"  group-title="New",MeTV | (MOJ) (TizTV)
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+
+#EXTINF:-1, tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="Logo N/A" tvg-name="MeTV Toons | 33.2 WJLP2 Middletown NJ | (TVpass) (TizTV)"  group-title="New",MeTV Toons | 33.2 WJLP2 Middletown NJ | (TVpass) (TizTV)
+https://tvpass.org/live/metv-toons/hd?Toons
+
+#EXTINF:-1 tvg-id="" group-title="New",ME TV EAST
+https://16live00.akamaized.net/ME_TV_EAST/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="New",WHSV-DT4
 http://104.255.88.155/metv/index.m3u8
 
@@ -4422,16 +4447,13 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="New",SyFy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="New",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="New",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="New",FX
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="New",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="New",FXX
