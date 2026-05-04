@@ -299,6 +299,257 @@ https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 MISTER ED (L)" tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="Classic TV",Mister Ed
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99879
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Classic TV",The Outer Limits
+https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 tvg-id="60f75178e7f8aa0007e9c259" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG.png" group-title="Classic TV",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
+#EXTINF:-1 tvg-id="99951259" tvg-logo="https://image.xumo.com/v1/channels/channel/99951259/300x300.webp?type=color_onBlack" group-title="Classic TV",Lassie
+https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951259/hls/master.m3u8?ads.xumo_channelId=99951259&ads.asnw=169843&ads.afid=380744363&ads.sfid=19316505&ads.csid=xumo_[PLATFORM]_NBCULassie_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3946&ads.xumo_contentName=NBCULassie&ads.xumo_providerId=3946&ads.xumo_providerName=NBCULassie&ads.channelId=99951259&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id="XUMO_99951257" tvg-logo="https://image.xumo.com/v1/channels/channel/99951257/300x300.webp?type=color_onBlack" group-title="Classic TV",Leave It to Beaver
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951257/hls/master.m3u8?ads.xumo_channelId=99951257&ads.asnw=169843&ads.afid=380749485&ads.sfid=19301294&ads.csid=xumo_[PLATFORM]_NBCUMadeinChelsea_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3943&ads.xumo_contentName=NBCUMadeinChelsea&ads.xumo_providerId=3943&ads.xumo_providerName=NBCUMadeinChelsea&ads.channelId=99951257&ads._fw_ifa_type=[IFA_TYPE]
+https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master_6.m3u8
+
+#EXTINF:-1 tvg-id="99951258" tvg-id="Lone Ranger" tvg-logo="https://image.tmdb.org/t/p/original/25TBzOciREK3l9H9w1TF5Ou1d7S.png" group-title="Classic TV",Lone Ranger
+https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master_6.m3u8
+
+#EXTINF:-1 tvg-id="TheBeverlyHillbillies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/The_Beverly_Hillbillies.svg/revision/latest/scale-to-width-down/250?cb=20210629160139" tvg-name="The Beverly Hillbillies" group-title="Classic TV",The Beverly Hillbillies
+https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG.png" group-title="Classic TV",Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+
+#EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+
+#EXTINF:-1 tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Classic TV",Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+#EXTINF:-1 tvg-id="68503d1736c9361b191e7d89" tvg-logo="https://images.pluto.tv/channels/68503d1736c9361b191e7d89/colorLogoPNG.png" group-title="Classic TV",Gunsmoke
+https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
+
+#EXTINF:-1 tvg-id="6197086891ddd4000739941a" group-title="Classic TV",Perry Mason
+https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Ironside
+https://jmp2.uk/plu-6900997e043e3df1897d017f.m3u8
+
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/300x300.webp?type=color_onBlack" group-title="Classic TV",Johnny Carson TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991157/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991157&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheJohnnyCarsonShow&ads.csid=xumo_[PLATFORM]_TheJohnnyCarsonShow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=197&ads.xumo_contentName=ShoutFactory&ads.xumo_providerId=197&ads.xumo_providerName=ShoutFactory&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991157&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/3-1x1.png" tvg-id="e3cd976116d5578ab9be32baa738ade2" group-title="Classic TV",The Carol Burnett Show
+https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n4=content_name&ads.v4=The%20Carol%20Burnett%20Show&ads.n21=content_custom_1_param&ads.v21=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n22=channel_corp&ads.v22=Shout%21%20Factory%20LLC&ads.n23=channel_language&ads.v23=en&ads.n24=content_type&ads.v24=channel&ads.n25=h&ads.v25=1080&ads.n26=channel_genre&ads.v26=Comedy&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=ifa_type&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=gpp&ads.v30=&ads.n31=channel_id&ads.v31=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n32=device_model&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=content_custom_2_param&ads.v34=AMDB013522&ads.n35=url&ads.v35=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n36=device_type&ads.v36=&ads.n37=channel_title&ads.v37=The%20Carol%20Burnett%20Show&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=did&ads.v39=&ads.n40=device_make&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=app_bundle&ads.v42=&ads.n43=content_producer_name&ads.v43=Shout%21%20Factory%20LLC&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=dnt&ads.v45=&ads.n46=channel_ext_id&ads.v46=&ads.n47=w&ads.v47=1920&ads.n48=app_version&ads.v48=0.0.0&ads.n49=channel_company_id&ads.v49=AMDP500152&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_brand_id&ads.v51=AMDB013522&ads.n52=app_store_url&ads.v52=&ads.n53=ua&ads.v53=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n54=content_provider&ads.v54=carol-burnett&ads.n55=network_name&ads.v55=carol-burnett&ads.n56=channel_name&ads.v56=The%20Carol%20Burnett%20Show&ads.n57=app_name&ads.v57=&ads.n58=gpp_sid&ads.v58=
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk5MzgwMDU5M30
+
+#EXTINF:-1 tvg-id="" group-title="Classic TV",The Ed Sullivan Show
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-640205c68ecb41f2d89d5814/variant.m3u8?x-plex-token=t4WcvauAzowLm1AuP6WN&x-plex-advertising-identifier=&x-plex-client-identifier=7dcc945a-694c-4f86-9d71-87bb0f1ef0a4&x-plex-playback-id=p_1a86009a-64c6-49b9-a97a-522adf7ffb98&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=148.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1774246481&url=eb16cfccb43243d7cbe70acee4e9fd89-2ef1f4dd4c463a109a83b66df18114928b67fbec54c08eccc045b0c8b053ffb987b5382cf1f7c421e2b6c9b6ff6ea5e668347e90720853b7ed66bf8f02cddbf49c13c70877b53fe0f29d871baee85bcb49b1975f72cf86e3ad426bff50d8b2c0fc67b55be880897e068786a3a1ede54804f11737ae92e97578df1fcda4ae9f2e31abf87b7fd359901025210772c776b6713e52dd427731890b1f94755cbef0472637229bfd9a012473a9a2e9fc4e3b3a636967a3e1b3c40683117d965a56e0727e83772518a0fb7ad54f7011d3d1bc7201eb29b408d68eac43b85fee267f2db1
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG.png" group-title="Classic TV",Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+#EXTINF:-1 tvg-id="5ef3977e5d773400077de284" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Classic TV",Three's Company
+https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Classic TV",Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Classic TV",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+
+#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Classic TV",Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+
+#EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Classic TV",Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Hit Sitcoms
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",JAG
+https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
+
+#EXTINF:-1 tvg-id="654933ac986ad20008a1f406" group-title="Classic TV",Little House on the Prairie
+https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
+
+#EXTINF:-1 tvg-id="XUMO_99951240" tvg-logo="https://image.xumo.com/v1/channels/channel/99951240/300x300.webp?type=color_onBlack" group-title="Classic TV",Little House on the Prairie
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951240/hls/master.m3u8?ads.xumo_channelId=99951240&ads.asnw=169843&ads.afid=380744511&ads.sfid=19208008&ads.csid=xumo_[PLATFORM]_NBCULittleHousePrairie_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3938&ads.xumo_contentName=NBCULittleHousePrairie&ads.xumo_providerId=3938&ads.xumo_providerName=NBCULittleHousePrairie&ads.channelId=99951240&ads._fw_ifa_type=[IFA_TYPE]
+
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",MacGyver
+https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
+
+#EXTINF:-1 tvg-id="60f754f98185580007eb0754"group-title="Classic TV",Matlock
+https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+#EXTINF:-1 tvg-id="6850426e53d981d1fdb0d966"group-title="Classic TV",Matlock
+https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
+
+#EXTINF:-1 tvg-id="5cbf6a868a1bce4a3d52a5e9"group-title="Classic TV;Crime & Mystery",Midsomer Murders
+https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
+
+#EXTINF:-1 tvg-id="d1e4e369eda359c897e1fdfd8286b19b" group-title="Classic TV;Crime & Mystery",Midsomer Murders
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="5f77977bd924d80007eee60c"group-title="Classic TV",Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+#EXTINF:-1 tvg-id="62ab579258cb950007811aad"group-title="Classic TV",Mission Impossible
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Mister Rogers' Neighborhood
+https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Murder She Wrote
+https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Northern Exposure
+https://jmp2.uk/plu-677fb0e93a225c2d0d8a45bf.m3u8
+
+
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
+
+#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" group-title="Classic TV",Pluto TV Action+
+https://jmp2.uk/stvp-GBAK3504503A?.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.us@UK" group-title="Classic TV",Pluto TV Classic TV
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+
+#EXTINF:-1 tvg-id="62f53dc6ee9a0400071dc22b" group-title="Classic TV",Pluto TV Sitcoms
+https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+
+#EXTINF:-1 tvg-id="5d767ab2b456c8cf265ce921" group-title="Classic TV",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Rawhide
+https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Relic Hunter
+https://jmp2.uk/plu-68e3b6112baff9f069d02540.m3u8
+
+#EXTINF:-1 tvg-id="SabrinaTeenageWitch.us@UK"group-title="Classic TV",Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ComedyClassics.sxm" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png" group-title="Classic TV",Comedy Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.channel_name=Comedy+Classics&ads.content_id=STA108&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136901&ads.show_id=5245&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CComedy%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Comedy%20Classics&ads.episodetitle=Comedy%20Classics&ads.keywords=Classic%2CComedy&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=6X7yzRAm3Mq
+
+
+#EXTINF:-1 tvg-id="21-jump-street" group-title="Classic TV",21 Jump Street
+https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="XUMO_99951146" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/300x300.webp?type=color_onBlack" group-title="Classic TV",Family Affair Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951146/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951146&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=MPIMediaFamilyAffair&ads.csid=xumo_[PLATFORM]_MPIMediaFamilyAffair_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3769&ads.xumo_contentName=MPIMediaFamilyAffair&ads.xumo_providerId=3769&ads.xumo_providerName=MPIMediaFamilyAffair&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951146&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic TV",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+#EXTINF:-1 tvg-id="99951152" group-title="Classic TV",Grit Xtra
+https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951152/hls/playlist.m3u8?ads.xumo_channelId=99951152&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsGritXtra&ads.csid=xumo_[PLATFORM]_ScrippsGritXtra_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3807&ads.xumo_contentName=ScrippsGritXtra&ads.xumo_providerId=3807&ads.xumo_providerName=ScrippsGritXtra&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951152&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="901011e7-9149-48cb-aabc-9218760e54fe" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
+https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&url=__PAGEURL_ESC__&genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ic=IAB1&us_privacy=__IS_GDPR__&gdpr=0&gdpr_consent=0&did=__DEVICE_ID__&dnt=__LIMIT_AD_TRACKING__&coppa=0&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=-SPJecyFm2K
+
+#EXTINF:-1 tvg-id="lone-star-new" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
+https://lonestar-rakuten.amagi.tv/240p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="NOST.us" tvg-logo="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/logo_20231219_220428_70.png" group-title="Classic TV",NOST - The Nostalgia Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/nost1.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22956&ads.content_duration=18000&ads.episode_id=52253&ads.show_id=1686&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CClassic%20Movies%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=NOST%20-%20The%20Nostalgia%20Network&ads.episodetitle=NOST%20-%20The%20Nostalgia%20Network&ads.keywords=classic%20tv%2Cclassic%20television%2C50s%2C60s%2Cblack%20and%20white&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=S2uDT6RyrR0
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/233F339E-2A7B-4F3B-8087-FE1D4EC8DC06/3-1x1.png" tvg-id="LN_233F339E-2A7B-4F3B-8087-FE1D4EC8DC06" group-title="Classic TV",Old West TV
+https://s3host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.rating=TV14&ads.vast_id=STA114&ads.channel_name=Old%20West%20TV&ads.content_genre=Western%2CMovies&ads.content_series=zorro%27s%20black%20whip%20part%20%20%20%20one&ads.ic=IAB1-5&ads.provider=TrueAmerican&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=86.48.9.131&ads.cdnhost=s3host2.localnow.api.cms.amdvids.com&ads.playbackid=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n4=content_name&ads.v4=EPG%20%7C%20Old%20West%20TV&ads.n21=content_producer_name&ads.v21=SotalCloud%20INC&ads.n22=gpp&ads.v22=&ads.n23=channel_corp&ads.v23=SotalCloud%20INC&ads.n24=channel_company_id&ads.v24=AMDP500264&ads.n25=h&ads.v25=1080&ads.n26=app_name&ads.v26=&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=ifa_type&ads.v28=&ads.n29=channel_genre&ads.v29=Western&ads.n30=app_store_url&ads.v30=&ads.n31=channel_ext_id&ads.v31=61fd71f670c089557402a113&ads.n32=w&ads.v32=1920&ads.n33=app_version&ads.v33=0.0.0&ads.n34=device_model&ads.v34=&ads.n35=channel_title&ads.v35=EPG%20%20Old%20West%20TV&ads.n36=app_bundle&ads.v36=&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=dnt&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=did&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_name&ads.v42=EPG%20%20Old%20West%20TV&ads.n43=channel_language&ads.v43=en&ads.n44=channel_brand_id&ads.v44=AMDB012655&ads.n45=channel_id&ads.v45=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=device_type&ads.v47=&ads.n48=ip&ads.v48=86.48.9.131&ads.n49=device_make&ads.v49=&ads.n50=content_custom_1_param&ads.v50=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=content_livestream&ads.v53=1&ads.n54=network_name&ads.v54=old-west-tv&ads.n55=content_provider&ads.v55=old-west-tv&ads.n56=content_type&ads.v56=channel&ads.n57=channel_rating&ads.v57=TV-PG&ads.n58=content_custom_2_param&ads.v58=AMDB012655
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8?ads.channel_name=Old+West+TV&ads.content_id=STA114&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136903&ads.show_id=5247&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CWestern%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Old%20West%20TV&ads.episodetitle=Old%20West%20TV&ads.keywords=Western%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=qO1KZS6qkwe
+
+#EXTINF:-1 tvg-id="Outlaw" tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png" group-title="Classic TV",Outlaw
+https://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/3-1x1.png" tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" group-title="Classic TV",Shout! TV
+https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n4=content_name&ads.v4=EPG%20%7C%20Shout%21%20TV&ads.n21=app_version&ads.v21=0.0.0&ads.n22=device_type&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=did&ads.v25=&ads.n26=content_custom_3_param&ads.v26=channel&ads.n27=content_livestream&ads.v27=1&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=shout-factory-tv&ads.n30=content_custom_2_param&ads.v30=AMDB012112&ads.n31=ifa_type&ads.v31=&ads.n32=channel_genre&ads.v32=Entertainment&ads.n33=channel_language&ads.v33=en&ads.n34=dnt&ads.v34=&ads.n35=channel_corp&ads.v35=Shout%21%20Factory%20LLC&ads.n36=content_provider&ads.v36=shout-factory-tv&ads.n37=channel_ext_id&ads.v37=5f9ac4b628511a3eee5293a2&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=gpp&ads.v40=&ads.n41=gpp_sid&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500152&ads.n43=app_bundle&ads.v43=&ads.n44=content_custom_1_param&ads.v44=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=pos&ads.v46=midroll&ads.n47=channel_name&ads.v47=EPG%20%20Shout%21%20TV&ads.n48=channel_id&ads.v48=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n49=device_make&ads.v49=&ads.n50=app_store_url&ads.v50=&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=w&ads.v52=1920&ads.n53=channel_title&ads.v53=EPG%20%20Shout%21%20TV&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=app_name&ads.v55=&ads.n56=content_producer_name&ads.v56=Shout%21%20Factory%20LLC&ads.n57=device_model&ads.v57=&ads.n58=channel_brand_id&ads.v58=AMDB012112
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/the-family-tv-channel/logo_20250102_220756_70.png" group-title="Classic TV",The Family TV Channel
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/94N3POFVM3G76E3IZ2WY/hls3/now,-1m/m.m3u8?ads.channel_name=The+Family+TV+Channel&ads.content_id=SGL107&ads.coppa=0&ads.provider=Global+Media&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=138026&ads.show_id=5271&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CFamily%2FChildren%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=The%20Family%20TV%20Channel&ads.episodetitle=The%20Family%20TV%20Channel&ads.keywords=Classic%2CEntertainment%2CFamily%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=mrAzLMiJKay
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/the-holiday-tv-channel/logo_20241127_204328_70.png" group-title="Classic TV",The Holiday TV Channel
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now,-1m/m.m3u8?ads.channel_name=The+Holiday+TV+Channel&ads.content_id=SGL108&ads.coppa=0&ads.provider=Global+Media&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=137114&ads.show_id=5253&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CFamily%2FChildren%2CClassic%20Movies&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=The%20Holiday%20TV%20Channel&ads.episodetitle=The%20Holiday%20TV%20Channel&ads.keywords=Christmas%2CFamily%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=wDcaNOhFP3O
+
+#EXTINF:-1 tvg-id="XUMO_99951216" tvg-logo="https://image.xumo.com/v1/channels/channel/99951216/300x300.webp?type=color_onBlack" group-title="Classic TV",The Rifleman
+https://dbrb49pjoymg4.cloudfront.net/10001/99951216/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951216&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Rifleman&ads.csid=xumo_[PLATFORM]_Rifleman_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951216&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="XUMO_99951525" tvg-logo="https://image.xumo.com/v1/channels/channel/99951525/300x300.webp?type=color_onBlack" group-title="Classic TV",The Virginian
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951525/hls/master.m3u8?ads.xumo_channelId=99951525&ads.xumo_streamId=99951525&ads.channelId=99951525&ads.asnw=169843&ads.afid=454098683&ads.sfid=24189313&ads.csid=xumo_[PLATFORM]_NBCUTheVirginian_ssai_cro&ads._fw_content_genre=Western&ads._fw_coppa=0&ads.xumo_contentId=4358&ads.xumo_contentName=NBCUTheVirginian&ads.xumo_providerId=4358&ads.xumo_providerName=NBCUTheVirginian&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=xumoplay
+
+
+
+#EXTINF:-1 tvg-id="Universal Crime" group-title="Classic TV",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Universal Westerns" group-title="Classic TV",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="WantedDeadorAlive.us@SD" group-title="Classic TV",Wanted: Dead or Alive
+https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-66fd3a76216b603e031725fc" tvg-logo="https://image.xumo.com/v1/channels/channel/99951160/300x300.webp?type=color_onBlack" group-title="Classic TV",Western Bound
+https://dbrb49pjoymg4.cloudfront.net/10001/99951160/hls/cw.m3u8?ads.xumo_channelId=99951160&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ImagicommEntCowboyWay&ads.csid=xumo_[PLATFORM]_ImagicommEntCowboyWay_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3790&ads.xumo_contentName=ImagicommEntCowboyWay&ads.xumo_providerId=3790&ads.xumo_providerName=ImagicommEntCowboyWay&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951160&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-660df9e0e7dcb14697880bfb" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F784c9019-45ca-4a32-a4b2-32dbd060fdd7%2FWildWestTV_TT_1500x1000STACKED_COLOREDRDX.png" group-title="Classic TV",Wild West TV
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_channelId=99951356&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ShoutFactoryWildWestTV&ads.csid=xumo_[PLATFORM]_ShoutFactoryWildWestTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4118&ads.xumo_contentName=ShoutFactoryWildWestTV&ads.xumo_providerId=4118&ads.xumo_providerName=ShoutFactoryWildWestTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951356&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="Classic TV" , Diagnosis Murder
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-diagnosismurder.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 GROWING PAINS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ye1UBc5uL._SY445_.jpg" group-title="Classic TV",24/7 GROWING PAINS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97405
 
@@ -410,239 +661,6 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/85198
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 XENA WARRIOR PRINCESS (L)" tvg-logo="https://cdn-images-1.medium.com/max/665/1*H52MjAxVFKEPwuhpPldaFA.jpeg" group-title="Classic TV",24/7 XENA WARRIOR PRINCESS (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99955
 
-#EXTINF:-1 group-title="Classic TV",The Outer Limits
-https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
-
-#EXTINF:-1 tvg-id="60f75178e7f8aa0007e9c259" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG.png" group-title="Classic TV",The Andy Griffith Show
-https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
-
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/300x300.webp?type=color_onBlack" group-title="Classic TV",Johnny Carson TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991157/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991157&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheJohnnyCarsonShow&ads.csid=xumo_[PLATFORM]_TheJohnnyCarsonShow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=197&ads.xumo_contentName=ShoutFactory&ads.xumo_providerId=197&ads.xumo_providerName=ShoutFactory&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991157&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-#EXTINF:-1 tvg-id="99951259" tvg-logo="https://image.xumo.com/v1/channels/channel/99951259/300x300.webp?type=color_onBlack" group-title="Classic TV",Lassie
-https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951259/hls/master.m3u8?ads.xumo_channelId=99951259&ads.asnw=169843&ads.afid=380744363&ads.sfid=19316505&ads.csid=xumo_[PLATFORM]_NBCULassie_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3946&ads.xumo_contentName=NBCULassie&ads.xumo_providerId=3946&ads.xumo_providerName=NBCULassie&ads.channelId=99951259&ads._fw_ifa_type=[IFA_TYPE]
-
-#EXTINF:-1 tvg-id="XUMO_99951257" tvg-logo="https://image.xumo.com/v1/channels/channel/99951257/300x300.webp?type=color_onBlack" group-title="Classic TV",Leave It to Beaver
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951257/hls/master.m3u8?ads.xumo_channelId=99951257&ads.asnw=169843&ads.afid=380749485&ads.sfid=19301294&ads.csid=xumo_[PLATFORM]_NBCUMadeinChelsea_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3943&ads.xumo_contentName=NBCUMadeinChelsea&ads.xumo_providerId=3943&ads.xumo_providerName=NBCUMadeinChelsea&ads.channelId=99951257&ads._fw_ifa_type=[IFA_TYPE]
-https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master_6.m3u8
-
-#EXTINF:-1 tvg-id="99951258" tvg-id="Lone Ranger" tvg-logo="https://image.tmdb.org/t/p/original/25TBzOciREK3l9H9w1TF5Ou1d7S.png" group-title="Classic TV",Lone Ranger
-https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master_6.m3u8
-
-#EXTINF:-1 tvg-id="TheBeverlyHillbillies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/The_Beverly_Hillbillies.svg/revision/latest/scale-to-width-down/250?cb=20210629160139" tvg-name="The Beverly Hillbillies" group-title="Classic TV",The Beverly Hillbillies
-https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG.png" group-title="Classic TV",Beverly Hillbillies
-https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
-
-#EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
-https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/3-1x1.png" tvg-id="e3cd976116d5578ab9be32baa738ade2" group-title="Classic TV",The Carol Burnett Show
-https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n4=content_name&ads.v4=The%20Carol%20Burnett%20Show&ads.n21=content_custom_1_param&ads.v21=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n22=channel_corp&ads.v22=Shout%21%20Factory%20LLC&ads.n23=channel_language&ads.v23=en&ads.n24=content_type&ads.v24=channel&ads.n25=h&ads.v25=1080&ads.n26=channel_genre&ads.v26=Comedy&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=ifa_type&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=gpp&ads.v30=&ads.n31=channel_id&ads.v31=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n32=device_model&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=content_custom_2_param&ads.v34=AMDB013522&ads.n35=url&ads.v35=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n36=device_type&ads.v36=&ads.n37=channel_title&ads.v37=The%20Carol%20Burnett%20Show&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=did&ads.v39=&ads.n40=device_make&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=app_bundle&ads.v42=&ads.n43=content_producer_name&ads.v43=Shout%21%20Factory%20LLC&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=dnt&ads.v45=&ads.n46=channel_ext_id&ads.v46=&ads.n47=w&ads.v47=1920&ads.n48=app_version&ads.v48=0.0.0&ads.n49=channel_company_id&ads.v49=AMDP500152&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_brand_id&ads.v51=AMDB013522&ads.n52=app_store_url&ads.v52=&ads.n53=ua&ads.v53=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n54=content_provider&ads.v54=carol-burnett&ads.n55=network_name&ads.v55=carol-burnett&ads.n56=channel_name&ads.v56=The%20Carol%20Burnett%20Show&ads.n57=app_name&ads.v57=&ads.n58=gpp_sid&ads.v58=
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk5MzgwMDU5M30
-
-#EXTINF:-1 tvg-id="" group-title="Classic TV",The Ed Sullivan Show
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-640205c68ecb41f2d89d5814/variant.m3u8?x-plex-token=t4WcvauAzowLm1AuP6WN&x-plex-advertising-identifier=&x-plex-client-identifier=7dcc945a-694c-4f86-9d71-87bb0f1ef0a4&x-plex-playback-id=p_1a86009a-64c6-49b9-a97a-522adf7ffb98&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=148.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1774246481&url=eb16cfccb43243d7cbe70acee4e9fd89-2ef1f4dd4c463a109a83b66df18114928b67fbec54c08eccc045b0c8b053ffb987b5382cf1f7c421e2b6c9b6ff6ea5e668347e90720853b7ed66bf8f02cddbf49c13c70877b53fe0f29d871baee85bcb49b1975f72cf86e3ad426bff50d8b2c0fc67b55be880897e068786a3a1ede54804f11737ae92e97578df1fcda4ae9f2e31abf87b7fd359901025210772c776b6713e52dd427731890b1f94755cbef0472637229bfd9a012473a9a2e9fc4e3b3a636967a3e1b3c40683117d965a56e0727e83772518a0fb7ad54f7011d3d1bc7201eb29b408d68eac43b85fee267f2db1
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG.png" group-title="Classic TV",Bonanza
-https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
-
-#EXTINF:-1 tvg-id="5ef3977e5d773400077de284" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Classic TV",Three's Company
-https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Classic TV",Cheers + Frasier
-https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
-
-#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Classic TV",Classic TV Comedy
-https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
-https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
-
-#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
-https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
-
-#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV: Families
-https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
-
-#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Classic TV",Family Ties
-https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
-
-#EXTINF:-1 tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Classic TV",Gunsmoke
-https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
-#EXTINF:-1 tvg-id="68503d1736c9361b191e7d89" tvg-logo="https://images.pluto.tv/channels/68503d1736c9361b191e7d89/colorLogoPNG.png" group-title="Classic TV",Gunsmoke
-https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
-
-#EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Classic TV",Happy Days
-https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Hit Sitcoms
-https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Hogan's Heroes
-https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",I Love Lucy
-https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Ironside
-https://jmp2.uk/plu-6900997e043e3df1897d017f.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",JAG
-https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
-
-#EXTINF:-1 tvg-id="654933ac986ad20008a1f406" group-title="Classic TV",Little House on the Prairie
-https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
-
-#EXTINF:-1 tvg-id="XUMO_99951240" tvg-logo="https://image.xumo.com/v1/channels/channel/99951240/300x300.webp?type=color_onBlack" group-title="Classic TV",Little House on the Prairie
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951240/hls/master.m3u8?ads.xumo_channelId=99951240&ads.asnw=169843&ads.afid=380744511&ads.sfid=19208008&ads.csid=xumo_[PLATFORM]_NBCULittleHousePrairie_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3938&ads.xumo_contentName=NBCULittleHousePrairie&ads.xumo_providerId=3938&ads.xumo_providerName=NBCULittleHousePrairie&ads.channelId=99951240&ads._fw_ifa_type=[IFA_TYPE]
-
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",MacGyver
-https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
-
-#EXTINF:-1 tvg-id="60f754f98185580007eb0754"group-title="Classic TV",Matlock
-https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
-#EXTINF:-1 tvg-id="6850426e53d981d1fdb0d966"group-title="Classic TV",Matlock
-https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
-
-#EXTINF:-1 tvg-id="5cbf6a868a1bce4a3d52a5e9"group-title="Classic TV;Crime & Mystery",Midsomer Murders
-https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
-
-#EXTINF:-1 tvg-id="d1e4e369eda359c897e1fdfd8286b19b" group-title="Classic TV;Crime & Mystery",Midsomer Murders
-https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="5f77977bd924d80007eee60c"group-title="Classic TV",Mission Impossible
-https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-#EXTINF:-1 tvg-id="62ab579258cb950007811aad"group-title="Classic TV",Mission Impossible
-https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Mister Rogers' Neighborhood
-https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Murder She Wrote
-https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Northern Exposure
-https://jmp2.uk/plu-677fb0e93a225c2d0d8a45bf.m3u8
-
-#EXTINF:-1 tvg-id="PerryMason.us@SD"group-title="Classic TV",Perry Mason
-https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Pluto TV 80's Action
-https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
-
-#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" group-title="Classic TV",Pluto TV Action+
-https://jmp2.uk/stvp-GBAK3504503A?.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVClassicTV.us@UK" group-title="Classic TV",Pluto TV Classic TV
-https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
-
-#EXTINF:-1 tvg-id="62f53dc6ee9a0400071dc22b" group-title="Classic TV",Pluto TV Sitcoms
-https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
-
-#EXTINF:-1 tvg-id="5d767ab2b456c8cf265ce921" group-title="Classic TV",Pluto TV Sitcoms
-https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Rawhide
-https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Relic Hunter
-https://jmp2.uk/plu-68e3b6112baff9f069d02540.m3u8
-
-#EXTINF:-1 tvg-id="SabrinaTeenageWitch.us@UK"group-title="Classic TV",Sabrina The Teenage Witch
-https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ComedyClassics.sxm" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png" group-title="Classic TV",Comedy Classics
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.channel_name=Comedy+Classics&ads.content_id=STA108&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136901&ads.show_id=5245&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CComedy%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Comedy%20Classics&ads.episodetitle=Comedy%20Classics&ads.keywords=Classic%2CComedy&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=6X7yzRAm3Mq
-
-
-#EXTINF:-1 tvg-id="21-jump-street" group-title="Classic TV",21 Jump Street
-https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="XUMO_99951146" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/300x300.webp?type=color_onBlack" group-title="Classic TV",Family Affair Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99951146/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951146&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=MPIMediaFamilyAffair&ads.csid=xumo_[PLATFORM]_MPIMediaFamilyAffair_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3769&ads.xumo_contentName=MPIMediaFamilyAffair&ads.xumo_providerId=3769&ads.xumo_providerName=MPIMediaFamilyAffair&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951146&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic TV",FilmRise Classic TV
-https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
-
-#EXTINF:-1 tvg-id="99951152" group-title="Classic TV",Grit Xtra
-https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
-https://dbrb49pjoymg4.cloudfront.net/10001/99951152/hls/playlist.m3u8?ads.xumo_channelId=99951152&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsGritXtra&ads.csid=xumo_[PLATFORM]_ScrippsGritXtra_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3807&ads.xumo_contentName=ScrippsGritXtra&ads.xumo_providerId=3807&ads.xumo_providerName=ScrippsGritXtra&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951152&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="901011e7-9149-48cb-aabc-9218760e54fe" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
-https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&url=__PAGEURL_ESC__&genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ic=IAB1&us_privacy=__IS_GDPR__&gdpr=0&gdpr_consent=0&did=__DEVICE_ID__&dnt=__LIMIT_AD_TRACKING__&coppa=0&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=-SPJecyFm2K
-
-#EXTINF:-1 tvg-id="lone-star-new" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Classic TV",Lone Star
-https://lonestar-rakuten.amagi.tv/240p-cc/index.m3u8
-
-#EXTINF:-1 tvg-id="NOST.us" tvg-logo="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/logo_20231219_220428_70.png" group-title="Classic TV",NOST - The Nostalgia Network
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/nost1.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22956&ads.content_duration=18000&ads.episode_id=52253&ads.show_id=1686&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CClassic%20Movies%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=NOST%20-%20The%20Nostalgia%20Network&ads.episodetitle=NOST%20-%20The%20Nostalgia%20Network&ads.keywords=classic%20tv%2Cclassic%20television%2C50s%2C60s%2Cblack%20and%20white&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=S2uDT6RyrR0
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/233F339E-2A7B-4F3B-8087-FE1D4EC8DC06/3-1x1.png" tvg-id="LN_233F339E-2A7B-4F3B-8087-FE1D4EC8DC06" group-title="Classic TV",Old West TV
-https://s3host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.rating=TV14&ads.vast_id=STA114&ads.channel_name=Old%20West%20TV&ads.content_genre=Western%2CMovies&ads.content_series=zorro%27s%20black%20whip%20part%20%20%20%20one&ads.ic=IAB1-5&ads.provider=TrueAmerican&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=86.48.9.131&ads.cdnhost=s3host2.localnow.api.cms.amdvids.com&ads.playbackid=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n4=content_name&ads.v4=EPG%20%7C%20Old%20West%20TV&ads.n21=content_producer_name&ads.v21=SotalCloud%20INC&ads.n22=gpp&ads.v22=&ads.n23=channel_corp&ads.v23=SotalCloud%20INC&ads.n24=channel_company_id&ads.v24=AMDP500264&ads.n25=h&ads.v25=1080&ads.n26=app_name&ads.v26=&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=ifa_type&ads.v28=&ads.n29=channel_genre&ads.v29=Western&ads.n30=app_store_url&ads.v30=&ads.n31=channel_ext_id&ads.v31=61fd71f670c089557402a113&ads.n32=w&ads.v32=1920&ads.n33=app_version&ads.v33=0.0.0&ads.n34=device_model&ads.v34=&ads.n35=channel_title&ads.v35=EPG%20%20Old%20West%20TV&ads.n36=app_bundle&ads.v36=&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=dnt&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=did&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_name&ads.v42=EPG%20%20Old%20West%20TV&ads.n43=channel_language&ads.v43=en&ads.n44=channel_brand_id&ads.v44=AMDB012655&ads.n45=channel_id&ads.v45=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=device_type&ads.v47=&ads.n48=ip&ads.v48=86.48.9.131&ads.n49=device_make&ads.v49=&ads.n50=content_custom_1_param&ads.v50=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=content_livestream&ads.v53=1&ads.n54=network_name&ads.v54=old-west-tv&ads.n55=content_provider&ads.v55=old-west-tv&ads.n56=content_type&ads.v56=channel&ads.n57=channel_rating&ads.v57=TV-PG&ads.n58=content_custom_2_param&ads.v58=AMDB012655
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8?ads.channel_name=Old+West+TV&ads.content_id=STA114&ads.coppa=0&ads.provider=TrueAmerican&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=136903&ads.show_id=5247&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CWestern%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Old%20West%20TV&ads.episodetitle=Old%20West%20TV&ads.keywords=Western%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=qO1KZS6qkwe
-
-#EXTINF:-1 tvg-id="Outlaw" tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png" group-title="Classic TV",Outlaw
-https://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/3-1x1.png" tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" group-title="Classic TV",Shout! TV
-https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n4=content_name&ads.v4=EPG%20%7C%20Shout%21%20TV&ads.n21=app_version&ads.v21=0.0.0&ads.n22=device_type&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=did&ads.v25=&ads.n26=content_custom_3_param&ads.v26=channel&ads.n27=content_livestream&ads.v27=1&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=shout-factory-tv&ads.n30=content_custom_2_param&ads.v30=AMDB012112&ads.n31=ifa_type&ads.v31=&ads.n32=channel_genre&ads.v32=Entertainment&ads.n33=channel_language&ads.v33=en&ads.n34=dnt&ads.v34=&ads.n35=channel_corp&ads.v35=Shout%21%20Factory%20LLC&ads.n36=content_provider&ads.v36=shout-factory-tv&ads.n37=channel_ext_id&ads.v37=5f9ac4b628511a3eee5293a2&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=gpp&ads.v40=&ads.n41=gpp_sid&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500152&ads.n43=app_bundle&ads.v43=&ads.n44=content_custom_1_param&ads.v44=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=pos&ads.v46=midroll&ads.n47=channel_name&ads.v47=EPG%20%20Shout%21%20TV&ads.n48=channel_id&ads.v48=BB4BC900-1313-4711-8483-9DB687F4AE5E&ads.n49=device_make&ads.v49=&ads.n50=app_store_url&ads.v50=&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=w&ads.v52=1920&ads.n53=channel_title&ads.v53=EPG%20%20Shout%21%20TV&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=app_name&ads.v55=&ads.n56=content_producer_name&ads.v56=Shout%21%20Factory%20LLC&ads.n57=device_model&ads.v57=&ads.n58=channel_brand_id&ads.v58=AMDB012112
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/the-family-tv-channel/logo_20250102_220756_70.png" group-title="Classic TV",The Family TV Channel
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/94N3POFVM3G76E3IZ2WY/hls3/now,-1m/m.m3u8?ads.channel_name=The+Family+TV+Channel&ads.content_id=SGL107&ads.coppa=0&ads.provider=Global+Media&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=138026&ads.show_id=5271&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CClassic%20Movies%2CFamily%2FChildren%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=The%20Family%20TV%20Channel&ads.episodetitle=The%20Family%20TV%20Channel&ads.keywords=Classic%2CEntertainment%2CFamily%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=mrAzLMiJKay
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/the-holiday-tv-channel/logo_20241127_204328_70.png" group-title="Classic TV",The Holiday TV Channel
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now,-1m/m.m3u8?ads.channel_name=The+Holiday+TV+Channel&ads.content_id=SGL108&ads.coppa=0&ads.provider=Global+Media&ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=137114&ads.show_id=5253&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CFamily%2FChildren%2CClassic%20Movies&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=The%20Holiday%20TV%20Channel&ads.episodetitle=The%20Holiday%20TV%20Channel&ads.keywords=Christmas%2CFamily%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=wDcaNOhFP3O
-
-#EXTINF:-1 tvg-id="XUMO_99951216" tvg-logo="https://image.xumo.com/v1/channels/channel/99951216/300x300.webp?type=color_onBlack" group-title="Classic TV",The Rifleman
-https://dbrb49pjoymg4.cloudfront.net/10001/99951216/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951216&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Rifleman&ads.csid=xumo_[PLATFORM]_Rifleman_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951216&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-#EXTINF:-1 tvg-id="XUMO_99951525" tvg-logo="https://image.xumo.com/v1/channels/channel/99951525/300x300.webp?type=color_onBlack" group-title="Classic TV",The Virginian
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951525/hls/master.m3u8?ads.xumo_channelId=99951525&ads.xumo_streamId=99951525&ads.channelId=99951525&ads.asnw=169843&ads.afid=454098683&ads.sfid=24189313&ads.csid=xumo_[PLATFORM]_NBCUTheVirginian_ssai_cro&ads._fw_content_genre=Western&ads._fw_coppa=0&ads.xumo_contentId=4358&ads.xumo_contentName=NBCUTheVirginian&ads.xumo_providerId=4358&ads.xumo_providerName=NBCUTheVirginian&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=xumoplay
-
-
-
-#EXTINF:-1 tvg-id="Universal Crime" group-title="Classic TV",Universal Crime
-https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="Universal Westerns" group-title="Classic TV",Universal Westerns
-https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="WantedDeadorAlive.us@SD" group-title="Classic TV",Wanted: Dead or Alive
-https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
-
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-66fd3a76216b603e031725fc" tvg-logo="https://image.xumo.com/v1/channels/channel/99951160/300x300.webp?type=color_onBlack" group-title="Classic TV",Western Bound
-https://dbrb49pjoymg4.cloudfront.net/10001/99951160/hls/cw.m3u8?ads.xumo_channelId=99951160&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ImagicommEntCowboyWay&ads.csid=xumo_[PLATFORM]_ImagicommEntCowboyWay_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3790&ads.xumo_contentName=ImagicommEntCowboyWay&ads.xumo_providerId=3790&ads.xumo_providerName=ImagicommEntCowboyWay&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951160&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-660df9e0e7dcb14697880bfb" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F784c9019-45ca-4a32-a4b2-32dbd060fdd7%2FWildWestTV_TT_1500x1000STACKED_COLOREDRDX.png" group-title="Classic TV",Wild West TV
-https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
-https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_channelId=99951356&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ShoutFactoryWildWestTV&ads.csid=xumo_[PLATFORM]_ShoutFactoryWildWestTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4118&ads.xumo_contentName=ShoutFactoryWildWestTV&ads.xumo_providerId=4118&ads.xumo_providerName=ShoutFactoryWildWestTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951356&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-
-#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="Classic TV" , Diagnosis Murder
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-diagnosismurder.m3u8
-
 
 #EXTINF:-1 group-title="Movies" tvg-id="62ba60f059624e000781c436",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
@@ -736,6 +754,21 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://nor1live.win:80/livehttpplay?channel_id=23152
@@ -4801,6 +4834,9 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102224
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99457
 #EXTINF:-1 tvg-ID="" tvg-name="WGN 9 (CHI)" tvg-logo="http://primestreamstv.com/logos/WGN%209.png" group-title="NETWORK TV",WGN 9 (CHI)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95011
+
+
+
 #EXTINF:-1 tvg-ID="hbo.us" tvg-name="HBO" tvg-logo="http://primestreamstv.com/logos/HBO.png" group-title="PREMIUM MOVIE CHANNELS",HBO
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102229
 #EXTINF:-1 tvg-ID="hbolatinopacific.us" tvg-name="HBO WEST" tvg-logo="http://primestreamstv.com/logos/HBO.png" group-title="PREMIUM MOVIE CHANNELS",HBO WEST
