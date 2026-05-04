@@ -196,41 +196,16 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 LOONEY TUNES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/Looney_Tunes_Logo.png" group-title="Classic TV",24/7 LOONEY TUNES
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38673
-
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE JETSONS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/507092/p507092_b_v8_aa.jpg" group-title="Classic TV",24/7 THE JETSONS
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38645
-
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 FLINTSTONES (L)" tvg-logo="https://usercontent1.hubstatic.com/12558778.jpg" group-title="Classic TV",24/7 FLINTSTONES (L)
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99829
-
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 TOM & JERRY" tvg-logo="https://cache.albayan.ae/polopoly_fs/1.3141826.1514223212!/image/image.gif" group-title="Classic TV",24/7 TOM & JERRY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38664
-
-#EXTINF:-1 tvg-ID="cartoonnetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="http://primestreamstv.com/logos/Cartoon%20Net%20US.png" group-title="Classic TV",CARTOON NETWORK
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102147
 
 
-#EXTINF:-1 tvg-id="" group-title="Classic TV",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="Classic TV" tvg-logo="",Pluto TV Retro Toons
-https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
-
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons
-https://tvpass.org/live/metv-toons/hd
-https://tvpass.org/live/metv-toons/sd
-
-#EXTINF:-1 tvg-ID="metvwjlp.us" tvg-name="ME TV" tvg-logo="https://lh3.googleusercontent.com/hT14HsUjQeY8deKpoRMzOlkEeTljvZWfPAsl4u2Rw7abhyUMLvb053_w1p25C8twDcuD" group-title="Classic TV",ME TV
+#EXTINF:-1 tvg-ID="metv-wjlp-new-jerseynew-york" tvg-name="ME TV" tvg-logo="https://lh3.googleusercontent.com/hT14HsUjQeY8deKpoRMzOlkEeTljvZWfPAsl4u2Rw7abhyUMLvb053_w1p25C8twDcuD" group-title="Classic TV",ME TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
-#EXTINF:-1 tvg-ID="" tvg-name="Me TV (KCCI) Des Moines IA" tvg-logo="" group-title="Classic TV",Me TV (KCCI) Des Moines IA
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106468
+
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
@@ -246,6 +221,9 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
 https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
@@ -283,8 +261,7 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV" tvg-logo="",Nickelodeon
 http://nor1live.win:80/livehttpplay?channel_id=23019
 
-#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
-https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+
 
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
@@ -825,16 +802,16 @@ http://nor1live.win:80/livehttpplay?channel_id=23072
 #EXTINF:-1 group-title="Movies",Free Sci-Fi & Fantasy Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814535/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814535&ads.xumo_streamId=88814535&declaredCC1Language=en&ads.caid=XumoFreeSciFiandFantasyMovies&ads.csid=tcl2_us_xumofreescifiandfantasymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Horror%252CSci-Fi&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-ma&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeSciFiandFantasyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeSciFiandFantasyMovies&ads.xumo_channelName=XumoFreeSciFiandFantasyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 group-title="Movies",Free Action Movies
+#EXTINF:-1 tvg-id="99991784" group-title="Movies",Free Action Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814531&ads.xumo_streamId=88814531&declaredCC1Language=en&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_channelName=XumoFreeActionMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 group-title="Movies",Free Movies
+#EXTINF:-1 tvg-id="f4cbc55461e85ea4afece4f7a1e925eb" group-title="Movies",Free Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814534&ads.xumo_streamId=88814534&declaredCC1Language=en&ads.caid=XumoFreeMovies&ads.csid=tcl2_us_xumofreemovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeMovies&ads.xumo_channelName=XumoFreeMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 #EXTINF:-1 tvg-id="FlixFling Now" group-title="Movies",FlixFling
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814627/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814627&ads.xumo_streamId=88814627&declaredCC1Language=en&ads.caid=Flixfling&ads.csid=tcl2_us_flixfling_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3994&ads.xumo_contentName=Flixfling&ads.xumo_providerId=3994&ads.xumo_providerName=Flixfling&ads.xumo_channelName=Flixfling&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 group-title="Movies",Free Comedy Movies
+#EXTINF:-1 tvg-id="99991105" group-title="Movies",Free Comedy Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814527&ads.xumo_streamId=88814527&declaredCC1Language=en&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_channelName=XumoFreeComedyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 
@@ -1187,6 +1164,8 @@ https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas26-fast.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Me TV (KCCI) Des Moines IA" tvg-logo="" group-title="Live TV",Me TV (KCCI) Des Moines IA
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106468
 
 #EXTINF:-1 tvg-id="9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="Live TV;Action & Drama",ION Plus
 https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
@@ -2037,6 +2016,32 @@ https://i.mjh.nz/.r/10-documentaryshell.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-wicked-tuna.m3u8
 
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 LOONEY TUNES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/Looney_Tunes_Logo.png" group-title="Animation & Kids",24/7 LOONEY TUNES
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38673
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE JETSONS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/507092/p507092_b_v8_aa.jpg" group-title="Animation & Kids",24/7 THE JETSONS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38645
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 FLINTSTONES (L)" tvg-logo="https://usercontent1.hubstatic.com/12558778.jpg" group-title="Animation & Kids",24/7 FLINTSTONES (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99829
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 TOM & JERRY" tvg-logo="https://cache.albayan.ae/polopoly_fs/1.3141826.1514223212!/image/image.gif" group-title="Animation & Kids",24/7 TOM & JERRY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38664
+
+#EXTINF:-1 tvg-ID="cartoonnetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="http://primestreamstv.com/logos/Cartoon%20Net%20US.png" group-title="Animation & Kids",CARTOON NETWORK
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102147
+
+
+#EXTINF:-1 tvg-id="" group-title="Animation & Kids",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" group-title="Animation & Kids" tvg-logo="",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Animation & Kids",MeTV Toons
+https://tvpass.org/live/metv-toons/hd
+https://tvpass.org/live/metv-toons/sd
 
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 SPONGEBOB SQUAREPANTS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/13846038/p13846038_b_v8_aa.jpg" group-title="Animation & Kids",24/7 SPONGEBOB SQUAREPANTS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38668
@@ -4440,7 +4445,7 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Classic Cinema Online
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Movies",Drive In Movie Channel
+#EXTINF:-1 tvg-id="" group-title="Movies",The Drive In Channel
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="",MTV Classic
