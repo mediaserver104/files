@@ -273,7 +273,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="Classic TV",24/7 GREEN ACRES
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="Classic TV",Green Acres
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95904
 
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
@@ -755,19 +755,19 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="Movies",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" group-title="Movies",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",Starz
+#EXTINF:-1 tvg-id="Starz.HD.us2" group-title="Movies",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",Starz Cinema
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" group-title="Movies",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",Starz Comedy
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" group-title="Movies",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
@@ -778,6 +778,15 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Movies",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" group-title="Movies",Showtime Family
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.HD.us2" group-title="Movies",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" group-title="Movies",More MAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" group-title="Movies",TNT
 http://nor1live.win:80/livehttpplay?channel_id=23133
@@ -4673,11 +4682,11 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="Starz.HD.us2" group-title="New",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="WeTV.us" group-title="New",We TV
-http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="MoreMax.HD.us2" group-title="New",More MAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="WeTV.us" group-title="New",We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="New",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
