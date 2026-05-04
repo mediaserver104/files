@@ -752,14 +752,129 @@ https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" group-title="Movies",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="FX MOVIE" tvg-logo="http://primestreamstv.com/logos/FX%20Movie%20Channel.png" group-title="Movies",FX MOVIE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102176
+
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
+http://nor1live.win:80/livehttpplay?channel_id=23152
+
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://primestreamstv.com/logos/HBO.png" group-title="Movies",HBO
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102229
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO WEST" tvg-logo="http://primestreamstv.com/logos/HBO.png" group-title="Movies",HBO WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107693
+#EXTINF:-1 channel-id="465041" tvg-id="465041" group-title="Movies",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://primestreamstv.com/logos/HBO2.png" group-title="Movies",HBO 2
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95926
+#EXTINF:-1 tvg-id="HBO2.(Pacific).us2" tvg-name="HBO 2 WEST" tvg-logo="http://primestreamstv.com/logos/HBO2.png" group-title="Movies",HBO 2 WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107694
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="Movies",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO COMEDY" tvg-logo="http://primestreamstv.com/logos/HBOComedy.png" group-title="Movies",HBO COMEDY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102230
+#EXTINF:-1 tvg-id="hbocomedypacific.us" tvg-name="HBO COMEDY WEST" tvg-logo="http://primestreamstv.com/logos/HBOComedy.png" group-title="Movies",HBO COMEDY WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107695
+#EXTINF:-1 tvg-id="HBO.Hits.us2" group-title="Movies",HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8?takodachi
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO SIGNATURE" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" group-title="Movies",HBO SIGNATURE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102231
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO SIGNATURE Low" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" group-title="Movies",HBO SIGNATURE Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89058
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO SIGNATURE WEST" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" group-title="Movies",HBO SIGNATURE WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107698
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="http://primestreamstv.com/logos/HBOFamily.png" group-title="Movies",HBO FAMILY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95925
+#EXTINF:-1 tvg-id="hbofamilypacific.us" tvg-name="HBO FAMILY WEST" tvg-logo="http://primestreamstv.com/logos/HBOFamily.png" group-title="Movies",HBO FAMILY WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107696
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" group-title="Movies",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO ZONE" tvg-logo="http://primestreamstv.com/logos/HBO%20Zone.png" group-title="Movies",HBO ZONE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95924
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO ZONE WEST" tvg-logo="http://primestreamstv.com/logos/HBO%20Zone.png" group-title="Movies",HBO ZONE WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107699
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" group-title="Movies",CINEMAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102232
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="CINEMAX WEST" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" group-title="Movies",CINEMAX WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107687
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5STAR MAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" group-title="Movies",CINEMAX 5STAR MAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89057
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5STAR MAX Low" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" group-title="Movies",CINEMAX 5STAR MAX Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89056
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="CINEMAX ACTIONMAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%20ActionMAX.png" group-title="Movies",CINEMAX ACTIONMAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95935
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="CINEMAX ACTIONMAX WEST" tvg-logo="http://primestreamstv.com/logos/Cinemax%20ActionMAX.png" group-title="Movies",CINEMAX ACTIONMAX WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107689
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="CINEMAX MOREMAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%20MoreMAX%20HD.png" group-title="Movies",CINEMAX MOREMAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95932
+#EXTINF:-1 tvg-id="moremaxpacific.us" tvg-name="CINEMAX MOREMAX WEST" tvg-logo="http://primestreamstv.com/logos/Cinemax%20MoreMAX%20HD.png" group-title="Movies",CINEMAX MOREMAX WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107688
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="CINEMAX MOVIEMAX" tvg-logo="http://primestreamstv.com/logos/CinemaxMovieMAX.png" group-title="Movies",CINEMAX MOVIEMAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/90706
+#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="CINEMAX OUTERMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/outermax.png" group-title="Movies",CINEMAX OUTERMAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95934
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLERMAX" tvg-logo="http://primestreamstv.com/logos/ThrillerMAX.png" group-title="Movies",CINEMAX THRILLERMAX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95933
+#EXTINF:-1 tvg-id="thrillermaxpacific.us" tvg-name="CINEMAX THRILLERMAX WEST" tvg-logo="http://primestreamstv.com/logos/ThrillerMAX.png" group-title="Movies",CINEMAX THRILLERMAX WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107691
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="SHOWTIME" tvg-logo="http://primestreamstv.com/logos/Showtime.png" group-title="Movies",SHOWTIME
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102233
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="Movies",SHOWTIME 2
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95922
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME 2 WEST" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="Movies",SHOWTIME 2 WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107700
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOxBET" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" group-title="Movies",SHOxBET
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/90710
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOxBET Low" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" group-title="Movies",SHOxBET Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/96930
+#EXTINF:-1 tvg-id="shoxbetpacific.us" tvg-name="SHOxBET WEST" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" group-title="Movies",SHOxBET WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107701
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="Movies",SHOWTIME EXTREME
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95921
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME EXTREME WEST" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="Movies",SHOWTIME EXTREME WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107702
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76200490" group-title="Movies",SHOWTIME FAMILY ZONE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99421
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME FAMILY ZONE WEST" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76200490" group-title="Movies",SHOWTIME FAMILY ZONE WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107706
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="SHOWTIME NEXT" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" group-title="Movies",SHOWTIME NEXT
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89082
+#EXTINF:-1 tvg-id="showtimenextpacific.us" tvg-name="SHOWTIME NEXT WEST" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" group-title="Movies",SHOWTIME NEXT WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107704
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="SHOWTIME NEXT Low" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" group-title="Movies",SHOWTIME NEXT Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/96931
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="SHOWTIME SHOWCASE" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" group-title="Movies",SHOWTIME SHOWCASE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102234
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="SHOWTIME SHOWCASE Low" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" group-title="Movies",SHOWTIME SHOWCASE Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89061
+#EXTINF:-1 tvg-id="showtimeshowcasepacific.us" tvg-name="SHOWTIME SHOWCASE WEST" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" group-title="Movies",SHOWTIME SHOWCASE WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107703
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="SHOWTIME WOMEN" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76191681" group-title="Movies",SHOWTIME WOMEN
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97654
+#EXTINF:-1 tvg-id="showtimewomenpacific.us" tvg-name="SHOWTIME WOMEN WEST" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76191681" group-title="Movies",SHOWTIME WOMEN WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107705
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" group-title="Movies",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
@@ -770,17 +885,125 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" group-title="Movies",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Movies",HBO
-http://nor1live.win:80/livehttpplay?channel_id=23152
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="STARZ" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="Movies",STARZ
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95920
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="STARZ WEST" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="Movies",STARZ WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/98749
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="STARZ CINEMA" tvg-logo="http://primestreamstv.com/logos/STARZ%20Cinema.png" group-title="Movies",STARZ CINEMA
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97655
+#EXTINF:-1 tvg-id="" tvg-name="STARZ CINEMA WEST" tvg-logo="http://primestreamstv.com/logos/STARZ%20Cinema.png" group-title="Movies",STARZ CINEMA WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107707
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="STARZ COMEDY" tvg-logo="http://primestreamstv.com/logos/Starz%20Comedy%20East.png" group-title="Movies",STARZ COMEDY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95919
+#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="STARZ COMEDY WEST" tvg-logo="http://primestreamstv.com/logos/Starz%20Comedy%20East.png" group-title="Movies",STARZ COMEDY WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107708
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="http://primestreamstv.com/logos/Starz%20Edge.png" group-title="Movies",STARZ EDGE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95918
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ EDGE WEST" tvg-logo="http://primestreamstv.com/logos/Starz%20Edge.png" group-title="Movies",STARZ EDGE WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107709
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="STARZ ENCORE" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE.png" group-title="Movies",STARZ ENCORE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/94991
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="STARZ ENCORE WEST" tvg-logo="hhttp://primestreamstv.com/logos/STARZ%20ENCORE.png" group-title="Movies",STARZ ENCORE WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107711
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="STARZ ENCORE ACTION" tvg-logo="http://primestreamstv.com/logos/Encore%20Action.png" group-title="Movies",STARZ ENCORE ACTION
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95801
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="STARZ ENCORE BLACK" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="Movies",STARZ ENCORE BLACK
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97580
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="Movies",STARZ ENCORE CLASSIC
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99582
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="STARZ ENCORE FAMILY" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="Movies",STARZ ENCORE FAMILY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97581
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="http://primestreamstv.com/logos/Starz%20Encore%20Westerns.png" group-title="Movies",STARZ ENCORE WESTERNS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/92315
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE%20Suspense.png" group-title="Movies",STARZ ENCORE SUSPENSE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95802
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="STARZ IN BLACK" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" group-title="Movies",STARZ IN BLACK
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89055
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="STARZ IN BLACK Low" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" group-title="Movies",STARZ IN BLACK Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89054
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="STARZ IN BLACK WEST" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" group-title="Movies",STARZ IN BLACK WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107712
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="STARZ KIDS & FAMILY" tvg-logo="http://primestreamstv.com/logos/STARZ%20Kids.png" group-title="Movies",STARZ KIDS & FAMILY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95916
+#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="STARZ KIDS & FAMILY WEST" tvg-logo="http://primestreamstv.com/logos/STARZ%20Kids.png" group-title="Movies",STARZ KIDS & FAMILY WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109724
+#EXTINF:-1 tvg-id="Pure.Flix.TV.us2" tvg-name="FLIX" tvg-logo="https://www.logolynx.com/images/logolynx/8d/8dd8772578618ecb55d6e77ede68d44c.jpeg" group-title="Movies",FLIX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108952
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNET MOVIES" tvg-logo="http://primestreamstv.com/logos/HDNETMV.png" group-title="Movies",HDNET MOVIES
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108044
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM" tvg-logo="http://primestreamstv.com/logos/MGM.png" group-title="Movies",MGM
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107842
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MOVIEPLEX" tvg-logo="http://primestreamstv.com/logos/Encore%20MoviePlex.png" group-title="Movies",MOVIEPLEX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107065
+#EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RETROPLEX" tvg-logo="http://primestreamstv.com/logos/USA/retroplex.png" group-title="Movies",RETROPLEX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107066
+#EXTINF:-1 tvg-id="ScreenPix.us2" tvg-name="SCREENPIX" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="Movies",SCREENPIX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108959
+#EXTINF:-1 tvg-id="ScreenPix.Action.us2" tvg-name="SCREENPIX ACTION" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="Movies",SCREENPIX ACTION
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108960
+#EXTINF:-1 tvg-id="ScreenPix.Voices.us2" tvg-name="SCREENPIX VOICES" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="Movies",SCREENPIX VOICES
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108961
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="SCREENPIX WESTERNS" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="Movies",SCREENPIX WESTERNS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108962
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="THE MOVIE CHANNEL" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76208365" group-title="Movies",THE MOVIE CHANNEL
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/96959
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="THE MOVIE CHANNEL XTRA" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/25/63451.jpg" group-title="Movies",THE MOVIE CHANNEL XTRA
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108965
+#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="http://primestreamstv.com/logos/Epix(1).png" group-title="Movies",EPIX
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95929
+#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST" tvg-logo="http://primestreamstv.com/logos/Epix(1).png" group-title="Movies",EPIX WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107692
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2" tvg-logo="http://primestreamstv.com/logos/EPIX2HD.png" group-title="Movies",EPIX 2
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95930
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="http://primestreamstv.com/logos/Epix%20Hits.png" group-title="Movies",EPIX HITS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38629
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="EPIX DRIVE-IN" tvg-logo="https://assets.change.org/photos/8/ud/xy/HBudXYLkPitOsCC-800x450-noPad.jpg?1521893168" group-title="Movies",EPIX DRIVE-IN
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99588
+#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="HOLLYWOOD SUITE 70S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="Movies",HOLLYWOOD SUITE 70S
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109663
+#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="HOLLYWOOD SUITE 80S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="Movies",HOLLYWOOD SUITE 80S
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109664
+#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="HOLLYWOOD SUITE 90S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="Movies",HOLLYWOOD SUITE 90S
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109665
+#EXTINF:-1 tvg-id="hollywoodsuite2000.ca" tvg-name="HOLLYWOOD SUITE 00S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="Movies",HOLLYWOOD SUITE 00S
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109666
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SK3Y3 C1NEMA ACT1ON" tvg-logo="http://primestreamstv.com/logos/SKY%20ACTION.png" group-title="Movies",SK3Y3 C1NEMA ACT1ON
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109047
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="SK3Y3 C1NEMA ANIM4T1ON" tvg-logo="http://primestreamstv.com/logos/Sky.Cinema.Animation.2.png" group-title="Movies",SK3Y3 C1NEMA ANIM4T1ON
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109048
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SK3Y3 C1NEMA C0M3DY" tvg-logo="http://primestreamstv.com/logos/Sky%20Comedy.png" group-title="Movies",SK3Y3 C1NEMA C0M3DY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109049
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SK3Y3 C1NEMA DR4M4" tvg-logo="http://primestreamstv.com/logos/Sky%20Drama.png" group-title="Movies",SK3Y3 C1NEMA DR4M4
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109050
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SK3Y3 C1NEMA F4M1LY" tvg-logo="http://primestreamstv.com/logos/Sky%20Family.png" group-title="Movies",SK3Y3 C1NEMA F4M1LY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109051
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SK3Y3 C1NEMA GR34TS" tvg-logo="http://primestreamstv.com/logos/Sky%20Greats.png" group-title="Movies",SK3Y3 C1NEMA GR34TS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109052
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SK3Y3 C1NEMA H1TS" tvg-logo="http://primestreamstv.com/logos/Sky%20Cinema%20Hits(1).png" group-title="Movies",SK3Y3 C1NEMA H1TS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109053
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SK3Y3 C1NEMA PREM13RE" tvg-logo="http://primestreamstv.com/logos/Sky%20Premiere.png" group-title="Movies",SK3Y3 C1NEMA PREM13RE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109054
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SK3Y3 C1NEMA SC1-F1" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Sci-Fi%20.png" group-title="Movies",SK3Y3 C1NEMA SC1-F1
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109055
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SK3Y3 C1NEMA SEL3CT" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Select.png" group-title="Movies",SK3Y3 C1NEMA SEL3CT
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109056
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SK3Y3 C1NEMA THRILL3R" tvg-logo="http://primestreamstv.com/logos/Sky%20Thriller.png" group-title="Movies",SK3Y3 C1NEMA THRILL3R
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109057
 
-#EXTINF:-1 channel-id="465041" tvg-id="465041" group-title="Movies",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" group-title="Movies",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" group-title="Movies",Showtime Family
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://primestreamstv.com/logos/Sony%20Movie%20Channel.png" group-title="Movies",SONY MOVIE CHANNEL
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38701
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" group-title="Movies",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
@@ -793,6 +1016,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23133
 
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" group-title="Movies",TNT
 http://nor1live.win:80/livehttpplay?channel_id=23133
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" group-title="Movies",MGM Presents
 https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
@@ -4793,8 +5017,7 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102167
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105892
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX" tvg-logo="http://primestreamstv.com/logos/FX.png" group-title="NETWORK TV",FX
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102175
-#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="FX MOVIE" tvg-logo="http://primestreamstv.com/logos/FX%20Movie%20Channel.png" group-title="NETWORK TV",FX MOVIE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102176
+
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="http://primestreamstv.com/logos/FXX%20HD.png" group-title="NETWORK TV",FXX
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102177
 #EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="HEROES & ICONS" tvg-logo="http://kdcg.com/wp-content/uploads/sites/113/HI-Website-Pic.jpg" group-title="NETWORK TV",HEROES & ICONS
@@ -4813,8 +5036,7 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102201
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102000
 #EXTINF:-1 tvg-id="qvc.us" tvg-name="QVC" tvg-logo="http://primestreamstv.com/logos/QVC.png" group-title="NETWORK TV",QVC
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102207
-#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://primestreamstv.com/logos/Sony%20Movie%20Channel.png" group-title="NETWORK TV",SONY MOVIE CHANNEL
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38701
+
 #EXTINF:-1 tvg-id="starttv.us" tvg-name="START TV" tvg-logo="http://primestreamstv.com/logos/USA/StartTV.png" group-title="NETWORK TV",START TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/41306
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SUNDANCE TV" tvg-logo="http://primestreamstv.com/logos/SUNDANCEHD.png" group-title="NETWORK TV",SUNDANCE TV
@@ -4846,198 +5068,6 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95011
 
 
 
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="http://primestreamstv.com/logos/HBO.png" group-title="PREMIUM MOVIE CHANNELS",HBO
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102229
-#EXTINF:-1 tvg-id="hbolatinopacific.us" tvg-name="HBO WEST" tvg-logo="http://primestreamstv.com/logos/HBO.png" group-title="PREMIUM MOVIE CHANNELS",HBO WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107693
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="http://primestreamstv.com/logos/HBO2.png" group-title="PREMIUM MOVIE CHANNELS",HBO 2
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95926
-#EXTINF:-1 tvg-id="hbo2pacific.us" tvg-name="HBO 2 WEST" tvg-logo="http://primestreamstv.com/logos/HBO2.png" group-title="PREMIUM MOVIE CHANNELS",HBO 2 WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107694
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" tvg-logo="http://primestreamstv.com/logos/HBOComedy.png" group-title="PREMIUM MOVIE CHANNELS",HBO COMEDY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102230
-#EXTINF:-1 tvg-id="hbocomedypacific.us" tvg-name="HBO COMEDY WEST" tvg-logo="http://primestreamstv.com/logos/HBOComedy.png" group-title="PREMIUM MOVIE CHANNELS",HBO COMEDY WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107695
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" group-title="PREMIUM MOVIE CHANNELS",HBO SIGNATURE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102231
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE Low" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" group-title="PREMIUM MOVIE CHANNELS",HBO SIGNATURE Low
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89058
-#EXTINF:-1 tvg-id="hbosignaturepacific.us" tvg-name="HBO SIGNATURE WEST" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" group-title="PREMIUM MOVIE CHANNELS",HBO SIGNATURE WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107698
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="http://primestreamstv.com/logos/HBOFamily.png" group-title="PREMIUM MOVIE CHANNELS",HBO FAMILY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95925
-#EXTINF:-1 tvg-id="hbofamilypacific.us" tvg-name="HBO FAMILY WEST" tvg-logo="http://primestreamstv.com/logos/HBOFamily.png" group-title="PREMIUM MOVIE CHANNELS",HBO FAMILY WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107696
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO ZONE" tvg-logo="http://primestreamstv.com/logos/HBO%20Zone.png" group-title="PREMIUM MOVIE CHANNELS",HBO ZONE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95924
-#EXTINF:-1 tvg-id="hbozonepacific.us" tvg-name="HBO ZONE WEST" tvg-logo="http://primestreamstv.com/logos/HBO%20Zone.png" group-title="PREMIUM MOVIE CHANNELS",HBO ZONE WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107699
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102232
-#EXTINF:-1 tvg-id="cinemaxpasific.us" tvg-name="CINEMAX WEST" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107687
-
-
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5STAR MAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX 5STAR MAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89057
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5STAR MAX Low" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX 5STAR MAX Low
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89056
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="CINEMAX ACTIONMAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%20ActionMAX.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX ACTIONMAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95935
-#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="CINEMAX ACTIONMAX WEST" tvg-logo="http://primestreamstv.com/logos/Cinemax%20ActionMAX.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX ACTIONMAX WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107689
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%20MoreMAX%20HD.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX MOREMAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95932
-#EXTINF:-1 tvg-id="moremaxpacific.us" tvg-name="CINEMAX MOREMAX WEST" tvg-logo="http://primestreamstv.com/logos/Cinemax%20MoreMAX%20HD.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX MOREMAX WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107688
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="CINEMAX MOVIEMAX" tvg-logo="http://primestreamstv.com/logos/CinemaxMovieMAX.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX MOVIEMAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/90706
-#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="CINEMAX OUTERMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/outermax.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX OUTERMAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95934
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLERMAX" tvg-logo="http://primestreamstv.com/logos/ThrillerMAX.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX THRILLERMAX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95933
-#EXTINF:-1 tvg-id="thrillermaxpacific.us" tvg-name="CINEMAX THRILLERMAX WEST" tvg-logo="http://primestreamstv.com/logos/ThrillerMAX.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX THRILLERMAX WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107691
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME" tvg-logo="http://primestreamstv.com/logos/Showtime.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102233
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME 2
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95922
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME 2 WEST" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME 2 WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107700
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOxBET" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" group-title="PREMIUM MOVIE CHANNELS",SHOxBET
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/90710
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOxBET Low" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" group-title="PREMIUM MOVIE CHANNELS",SHOxBET Low
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/96930
-#EXTINF:-1 tvg-id="shoxbetpacific.us" tvg-name="SHOxBET WEST" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" group-title="PREMIUM MOVIE CHANNELS",SHOxBET WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107701
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME EXTREME
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95921
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME EXTREME WEST" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME EXTREME WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107702
-#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76200490" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME FAMILY ZONE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99421
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME FAMILY ZONE WEST" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76200490" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME FAMILY ZONE WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107706
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME NEXT
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89082
-#EXTINF:-1 tvg-id="showtimenextpacific.us" tvg-name="SHOWTIME NEXT WEST" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME NEXT WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107704
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT Low" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME NEXT Low
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/96931
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME SHOWCASE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102234
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE Low" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME SHOWCASE Low
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89061
-#EXTINF:-1 tvg-id="showtimeshowcasepacific.us" tvg-name="SHOWTIME SHOWCASE WEST" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME SHOWCASE WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107703
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76191681" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME WOMEN
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97654
-#EXTINF:-1 tvg-id="showtimewomenpacific.us" tvg-name="SHOWTIME WOMEN WEST" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76191681" group-title="PREMIUM MOVIE CHANNELS",SHOWTIME WOMEN WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107705
-#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="PREMIUM MOVIE CHANNELS",STARZ
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95920
-#EXTINF:-1 tvg-id="starzwest.us" tvg-name="STARZ WEST" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="PREMIUM MOVIE CHANNELS",STARZ WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/98749
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" tvg-logo="http://primestreamstv.com/logos/STARZ%20Cinema.png" group-title="PREMIUM MOVIE CHANNELS",STARZ CINEMA
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97655
-#EXTINF:-1 tvg-id="" tvg-name="STARZ CINEMA WEST" tvg-logo="http://primestreamstv.com/logos/STARZ%20Cinema.png" group-title="PREMIUM MOVIE CHANNELS",STARZ CINEMA WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107707
-#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY" tvg-logo="http://primestreamstv.com/logos/Starz%20Comedy%20East.png" group-title="PREMIUM MOVIE CHANNELS",STARZ COMEDY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95919
-#EXTINF:-1 tvg-id="" tvg-name="STARZ COMEDY WEST" tvg-logo="http://primestreamstv.com/logos/Starz%20Comedy%20East.png" group-title="PREMIUM MOVIE CHANNELS",STARZ COMEDY WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107708
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="http://primestreamstv.com/logos/Starz%20Edge.png" group-title="PREMIUM MOVIE CHANNELS",STARZ EDGE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95918
-#EXTINF:-1 tvg-id="" tvg-name="STARZ EDGE WEST" tvg-logo="http://primestreamstv.com/logos/Starz%20Edge.png" group-title="PREMIUM MOVIE CHANNELS",STARZ EDGE WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107709
-#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/94991
-#EXTINF:-1 tvg-id="starzencorepacific.us" tvg-name="STARZ ENCORE WEST" tvg-logo="hhttp://primestreamstv.com/logos/STARZ%20ENCORE.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107711
-#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="http://primestreamstv.com/logos/Encore%20Action.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE ACTION
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95801
-#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE BLACK
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97580
-#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE CLASSIC
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99582
-#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY" tvg-logo="http://primestreamstv.com/logos/Starz.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE FAMILY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97581
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="http://primestreamstv.com/logos/Starz%20Encore%20Westerns.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE WESTERNS
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/92315
-#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE%20Suspense.png" group-title="PREMIUM MOVIE CHANNELS",STARZ ENCORE SUSPENSE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95802
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" group-title="PREMIUM MOVIE CHANNELS",STARZ IN BLACK
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89055
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK Low" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" group-title="PREMIUM MOVIE CHANNELS",STARZ IN BLACK Low
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89054
-#EXTINF:-1 tvg-id="" tvg-name="STARZ IN BLACK WEST" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" group-title="PREMIUM MOVIE CHANNELS",STARZ IN BLACK WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107712
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY" tvg-logo="http://primestreamstv.com/logos/STARZ%20Kids.png" group-title="PREMIUM MOVIE CHANNELS",STARZ KIDS & FAMILY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95916
-#EXTINF:-1 tvg-id="starzkidsfamilypacific.us" tvg-name="STARZ KIDS & FAMILY WEST" tvg-logo="http://primestreamstv.com/logos/STARZ%20Kids.png" group-title="PREMIUM MOVIE CHANNELS",STARZ KIDS & FAMILY WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109724
-#EXTINF:-1 tvg-id="flix.us" tvg-name="FLIX" tvg-logo="https://www.logolynx.com/images/logolynx/8d/8dd8772578618ecb55d6e77ede68d44c.jpeg" group-title="PREMIUM MOVIE CHANNELS",FLIX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108952
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES" tvg-logo="http://primestreamstv.com/logos/HDNETMV.png" group-title="PREMIUM MOVIE CHANNELS",HDNET MOVIES
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108044
-#EXTINF:-1 tvg-id="mgm.us" tvg-name="MGM" tvg-logo="http://primestreamstv.com/logos/MGM.png" group-title="PREMIUM MOVIE CHANNELS",MGM
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107842
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MOVIEPLEX" tvg-logo="http://primestreamstv.com/logos/Encore%20MoviePlex.png" group-title="PREMIUM MOVIE CHANNELS",MOVIEPLEX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107065
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RETROPLEX" tvg-logo="http://primestreamstv.com/logos/USA/retroplex.png" group-title="PREMIUM MOVIE CHANNELS",RETROPLEX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107066
-#EXTINF:-1 tvg-id="screenpix.us" tvg-name="SCREENPIX" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="PREMIUM MOVIE CHANNELS",SCREENPIX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108959
-#EXTINF:-1 tvg-id="screenpixaction.us" tvg-name="SCREENPIX ACTION" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="PREMIUM MOVIE CHANNELS",SCREENPIX ACTION
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108960
-#EXTINF:-1 tvg-id="screenpixvoices.us" tvg-name="SCREENPIX VOICES" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="PREMIUM MOVIE CHANNELS",SCREENPIX VOICES
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108961
-#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="SCREENPIX WESTERNS" tvg-logo="https://uspto.report/TM/78684910/mark.png" group-title="PREMIUM MOVIE CHANNELS",SCREENPIX WESTERNS
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108962
-#EXTINF:-1 tvg-id="tmc.eastern.us" tvg-name="THE MOVIE CHANNEL" tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=76208365" group-title="PREMIUM MOVIE CHANNELS",THE MOVIE CHANNEL
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/96959
-#EXTINF:-1 tvg-id="tmcxtra.us" tvg-name="THE MOVIE CHANNEL XTRA" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/25/63451.jpg" group-title="PREMIUM MOVIE CHANNELS",THE MOVIE CHANNEL XTRA
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/108965
-#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="http://primestreamstv.com/logos/Epix(1).png" group-title="PREMIUM MOVIE CHANNELS",EPIX
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95929
-#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST" tvg-logo="http://primestreamstv.com/logos/Epix(1).png" group-title="PREMIUM MOVIE CHANNELS",EPIX WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107692
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2" tvg-logo="http://primestreamstv.com/logos/EPIX2HD.png" group-title="PREMIUM MOVIE CHANNELS",EPIX 2
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95930
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="http://primestreamstv.com/logos/Epix%20Hits.png" group-title="PREMIUM MOVIE CHANNELS",EPIX HITS
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38629
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="EPIX DRIVE-IN" tvg-logo="https://assets.change.org/photos/8/ud/xy/HBudXYLkPitOsCC-800x450-noPad.jpg?1521893168" group-title="PREMIUM MOVIE CHANNELS",EPIX DRIVE-IN
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99588
-#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="HOLLYWOOD SUITE 70S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="PREMIUM MOVIE CHANNELS",HOLLYWOOD SUITE 70S
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109663
-#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="HOLLYWOOD SUITE 80S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="PREMIUM MOVIE CHANNELS",HOLLYWOOD SUITE 80S
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109664
-#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="HOLLYWOOD SUITE 90S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="PREMIUM MOVIE CHANNELS",HOLLYWOOD SUITE 90S
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109665
-#EXTINF:-1 tvg-id="hollywoodsuite2000.ca" tvg-name="HOLLYWOOD SUITE 00S" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" group-title="PREMIUM MOVIE CHANNELS",HOLLYWOOD SUITE 00S
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109666
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SK3Y3 C1NEMA ACT1ON" tvg-logo="http://primestreamstv.com/logos/SKY%20ACTION.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA ACT1ON
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109047
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="SK3Y3 C1NEMA ANIM4T1ON" tvg-logo="http://primestreamstv.com/logos/Sky.Cinema.Animation.2.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA ANIM4T1ON
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109048
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SK3Y3 C1NEMA C0M3DY" tvg-logo="http://primestreamstv.com/logos/Sky%20Comedy.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA C0M3DY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109049
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SK3Y3 C1NEMA DR4M4" tvg-logo="http://primestreamstv.com/logos/Sky%20Drama.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA DR4M4
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109050
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SK3Y3 C1NEMA F4M1LY" tvg-logo="http://primestreamstv.com/logos/Sky%20Family.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA F4M1LY
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109051
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SK3Y3 C1NEMA GR34TS" tvg-logo="http://primestreamstv.com/logos/Sky%20Greats.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA GR34TS
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109052
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SK3Y3 C1NEMA H1TS" tvg-logo="http://primestreamstv.com/logos/Sky%20Cinema%20Hits(1).png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA H1TS
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109053
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SK3Y3 C1NEMA PREM13RE" tvg-logo="http://primestreamstv.com/logos/Sky%20Premiere.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA PREM13RE
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109054
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SK3Y3 C1NEMA SC1-F1" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Sci-Fi%20.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA SC1-F1
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109055
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SK3Y3 C1NEMA SEL3CT" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Select.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA SEL3CT
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109056
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SK3Y3 C1NEMA THRILL3R" tvg-logo="http://primestreamstv.com/logos/Sky%20Thriller.png" group-title="PREMIUM MOVIE CHANNELS",SK3Y3 C1NEMA THRILL3R
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109057
 
 
 
