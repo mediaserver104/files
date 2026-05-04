@@ -206,21 +206,19 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
 
-
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
-
-#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
-
-#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="TV LAND Low" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND Low
+#EXTINF:-1 tvg-ID="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND Low" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND Low
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
-
-#EXTINF:-1 tvg-ID="" tvg-name="TV LAND WEST" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND WEST
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
 https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1 tvg-ID="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
+
+#EXTINF:-1 tvg-ID="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND WEST" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
+
+
 
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
