@@ -205,15 +205,17 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
+http://nor1live.win:80/livehttpplay?channel_id=23097
 
 #EXTINF:-1 tvg-ID="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND Low" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND Low
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
-https://tvpass.org/live/tv-land-eastern/hd
-
 #EXTINF:-1 tvg-ID="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
+
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
+https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-ID="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND WEST" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND WEST
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
@@ -229,40 +231,40 @@ http://nor1live.win:80/livehttpplay?channel_id=23095
 #EXTINF:-1 tvg-id="1da659db3ce914b59c2823fbe6529d76" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png" group-title="Classic TV",GET Comedy
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="antennatv.us" tvg-name="ANTENNA TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png" group-title="Classic TV",ANTENNA TV
+#EXTINF:-1 tvg-ID="Antenna.TV.us2" channel-id="AntennaTVKNXVDT2.us" tvg-name="ANTENNA TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png" group-title="Classic TV",ANTENNA TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/39211
 
-#EXTINF:-1 tvg-ID="comet.us" tvg-name="COMET" tvg-logo="http://primestreamstv.com/logos/COMET.png" group-title="Classic TV",COMET
+#EXTINF:-1 tvg-ID="Comet.us2" tvg-name="COMET" tvg-logo="http://primestreamstv.com/logos/COMET.png" group-title="Classic TV",COMET
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/91152
 
-#EXTINF:-1 tvg-ID="heroesandiconstv.us" tvg-name="HEROES & ICONS" tvg-logo="http://kdcg.com/wp-content/uploads/sites/113/HI-Website-Pic.jpg" group-title="Classic TV",HEROES & ICONS
+#EXTINF:-1 tvg-ID="Heroes.and.Icons.Network.SD.us2" tvg-name="HEROES & ICONS" tvg-logo="http://kdcg.com/wp-content/uploads/sites/113/HI-Website-Pic.jpg" group-title="Classic TV",HEROES & ICONS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95927
 
 #EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="Classic TV" tvg-logo="",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV" tvg-logo="",Comedy Central
+http://nor1live.win:80/livehttpplay?channel_id=23070
+
 #EXTINF:-1 tvg=id="Comedy.Central.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23083
 
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" group-title="Classic TV" tvg-logo="",Comedy Central
-http://nor1live.win:80/livehttpplay?channel_id=23070
 
 #EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;Movies" tvg-logo="",CMT
 http://nor1live.win:80/livehttpplay?channel_id=23077
 
-#EXTINF:-1 tvg-id="CMTPacific.us" group-title="Classic TV;Movies" tvg-logo="",CMT
-http://nor1live.win:80/livehttpplay?channel_id=23015
-
 #EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;Movies" tvg-logo="",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
+
+#EXTINF:-1 tvg-id="CMTPacific.us" group-title="Classic TV;Movies" tvg-logo="",CMT
+http://nor1live.win:80/livehttpplay?channel_id=23015
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Classic TV" tvg-logo="",Nickelodeon
 http://nor1live.win:80/livehttpplay?channel_id=23019
 
 
 
-#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
-http://nor1live.win:80/livehttpplay?channel_id=23097
+
 
 
 
