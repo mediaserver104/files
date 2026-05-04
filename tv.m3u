@@ -196,7 +196,20 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 LOONEY TUNES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/Looney_Tunes_Logo.png" group-title="Classic TV",24/7 LOONEY TUNES
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38673
 
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE JETSONS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/507092/p507092_b_v8_aa.jpg" group-title="Classic TV",24/7 THE JETSONS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38645
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 FLINTSTONES (L)" tvg-logo="https://usercontent1.hubstatic.com/12558778.jpg" group-title="Classic TV",24/7 FLINTSTONES (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99829
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 TOM & JERRY" tvg-logo="https://cache.albayan.ae/polopoly_fs/1.3141826.1514223212!/image/image.gif" group-title="Classic TV",24/7 TOM & JERRY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38664
+
+#EXTINF:-1 tvg-ID="cartoonnetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="http://primestreamstv.com/logos/Cartoon%20Net%20US.png" group-title="Classic TV",CARTOON NETWORK
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102147
 
 
 #EXTINF:-1 tvg-id="" group-title="Classic TV",Boomerang
@@ -209,12 +222,27 @@ https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 https://tvpass.org/live/metv-toons/hd
 https://tvpass.org/live/metv-toons/sd
 
+#EXTINF:-1 tvg-ID="metvwjlp.us" tvg-name="ME TV" tvg-logo="https://lh3.googleusercontent.com/hT14HsUjQeY8deKpoRMzOlkEeTljvZWfPAsl4u2Rw7abhyUMLvb053_w1p25C8twDcuD" group-title="Classic TV",ME TV
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
+#EXTINF:-1 tvg-ID="" tvg-name="Me TV (KCCI) Des Moines IA" tvg-logo="" group-title="Classic TV",Me TV (KCCI) Des Moines IA
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106468
 
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
+
+#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
+
+#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="TV LAND Low" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND Low
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
+
+#EXTINF:-1 tvg-ID="" tvg-name="TV LAND WEST" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
 https://tvpass.org/live/tv-land-eastern/hd
@@ -224,6 +252,15 @@ http://nor1live.win:80/livehttpplay?channel_id=23095
 
 #EXTINF:-1 tvg-id="1da659db3ce914b59c2823fbe6529d76" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png" group-title="Classic TV",GET Comedy
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="antennatv.us" tvg-name="ANTENNA TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png" group-title="Classic TV",ANTENNA TV
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/39211
+
+#EXTINF:-1 tvg-ID="comet.us" tvg-name="COMET" tvg-logo="http://primestreamstv.com/logos/COMET.png" group-title="Classic TV",COMET
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/91152
+
+#EXTINF:-1 tvg-ID="heroesandiconstv.us" tvg-name="HEROES & ICONS" tvg-logo="http://kdcg.com/wp-content/uploads/sites/113/HI-Website-Pic.jpg" group-title="Classic TV",HEROES & ICONS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95927
 
 #EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" group-title="Classic TV" tvg-logo="",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
@@ -259,6 +296,9 @@ http://nor1live.win:80/livehttpplay?channel_id=23097
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="Classic TV",24/7 GREEN ACRES
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95904
+
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
 https://linear-1146.frequency.stream/dist/tcltv/1146/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
@@ -275,6 +315,123 @@ https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/a
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 GROWING PAINS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ye1UBc5uL._SY445_.jpg" group-title="Classic TV",24/7 GROWING PAINS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97405
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 HAPPY DAYS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184290/p184290_b_v8_ad.jpg" group-title="Classic TV",24/7 HAPPY DAYS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/58713
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 HEY DUDE (L)" tvg-logo="https://imgix.bustle.com/rehost/2016/9/13/2bb33f78-0afb-4f2c-a308-f69c9f80dd5f.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70" group-title="Classic TV",24/7 HEY DUDE (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99846
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 HOME IMPROVEMENT" tvg-logo="" group-title="Classic TV",24/7 HOME IMPROVEMENT
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95899
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 KING OF QUEENS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7895679/p7895679_b_v8_aa.jpg" group-title="Classic TV",24/7 KING OF QUEENS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/59559
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 KNIGHT RIDER (L)" tvg-logo="https://stz1.imgix.net/web/contentId/41885/type/KEY/dimension/2560x1440?w=690&fit=max&auto=format,compress" group-title="Classic TV",24/7 KNIGHT RIDER (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106156
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 LAST MAN STANDING (L)" tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2018/06/lastman.jpg" group-title="Classic TV",24/7 LAST MAN STANDING (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99860
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MACGYVER (L)" tvg-logo="https://cdn.famefocus.com/wp-content/uploads/2016/06/macgyver-1000x600.jpg" group-title="Classic TV",24/7 MACGYVER (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99868
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MAGNUM P.I. (L)" tvg-logo="https://timeandtidewatches.com/wp-content/uploads/2018/05/magnumpi-1.jpg" group-title="Classic TV",24/7 MAGNUM P.I. (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99869
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MALCOLM IN THE MIDDLE" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184566/p184566_b_v8_ax.jpg" group-title="Classic TV",24/7 MALCOLM IN THE MIDDLE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38672
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MASH (L)" tvg-logo="http://stereoembersmagazine.com/wp-content/uploads/2015/03/mash-title-960x590.jpg" group-title="Classic TV",24/7 MASH (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99873
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183881/p183881_b_v8_ab.jpg" group-title="Classic TV",24/7 MARRIED WITH CHILDREN
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38421
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MIAMI VICE (L)" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183928/p183928_b_v8_ab.jpg" group-title="Classic TV",24/7 MIAMI VICE (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99874
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MISSION IMPOSSIBLE SERIES (L)" tvg-logo="https://scdn.nflximg.net/images/0170/3990170.jpg" group-title="Classic TV",24/7 MISSION IMPOSSIBLE SERIES (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/104402
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MISTER ED (L)" tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="Classic TV",24/7 MISTER ED (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99879
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 NIGHT COURT" tvg-logo="" group-title="Classic TV",24/7 NIGHT COURT
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89366
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 NORTHERN EXPOSURE (L)" tvg-logo="https://i0.wp.com/25yearslatersite.com/wp-content/uploads/2018/02/neintro-header.jpg?resize=1200%2C659&ssl=1" group-title="Classic TV",24/7 NORTHERN EXPOSURE (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99884
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 PERFECT STRANGERS (L)" tvg-logo="https://ibdp.videovore.com/show_art/33388?size=2048x768" group-title="Classic TV",24/7 PERFECT STRANGERS (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99885
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 QUANTUM LEAP (L)" tvg-logo="http://is1.mzstatic.com/image/thumb/Video6/v4/f8/a9/bc/f8a9bc1d-51d7-4a7c-3e61-ae326ac28bef/source/1200x630bb.jpg" group-title="Classic TV",24/7 QUANTUM LEAP (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99889
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SCRUBS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7913841/p7913841_b_v8_aa.jpg" group-title="Classic TV",24/7 SCRUBS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/58715
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SEINFELD" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7892827/p7892827_b_v8_aa.jpg" group-title="Classic TV",24/7 SEINFELD
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38419
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SGU STARGATE UNIVERSE" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7829886/p7829886_b_v7_aa.jpg" group-title="Classic TV",24/7 SGU STARGATE UNIVERSE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38669
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 STARGATE ATLANTIS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/185051/p185051_b_v8_ac.jpg" group-title="Classic TV",24/7 STARGATE ATLANTIS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38667
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SIMPSONS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14287843/p14287843_b_v8_aa.jpg" group-title="Classic TV",24/7 SIMPSONS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38688
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SIX MILLION DOLLAR MAN (L)" tvg-logo="https://i.ytimg.com/vi/0CPJ-AbCsT8/maxresdefault.jpg" group-title="Classic TV",24/7 SIX MILLION DOLLAR MAN (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106749
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 STAR TREK NEXT GENERATION (L)" tvg-logo="https://i.ytimg.com/vi/KkXoGQMqfow/maxresdefault.jpg" group-title="Classic TV",24/7 STAR TREK NEXT GENERATION (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99909
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 STAR TREK ORIGINAL SERIES (L)" tvg-logo="http://images4.fanpop.com/image/photos/17300000/The-Magnificent-Seven-star-trek-the-original-series-17324185-1152-532.jpg" group-title="Classic TV",24/7 STAR TREK ORIGINAL SERIES (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99908
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 STARSKY & HUTCH" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7895465/p7895465_b_v8_ab.jpg" group-title="Classic TV",24/7 STARSKY & HUTCH
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/73262
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 STEP BY STEP (L)" tvg-logo="https://i.pinimg.com/originals/e4/08/eb/e408ebf927a15cf39cc53929bfb4e662.jpg" group-title="Classic TV",24/7 STEP BY STEP (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99912
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 TALES FROM THE CRYPT" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184195/p184195_b_v8_ab.jpg" group-title="Classic TV",24/7 TALES FROM THE CRYPT
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38648
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THAT 70s SHOW (L)" tvg-logo="https://static2.srcdn.com/wordpress/wp-content/uploads/2019/12/that-70s-show-hogwarts-houses-header-Cropped.jpg" group-title="Classic TV",24/7 THAT 70s SHOW (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/104401
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE MARY TYLER MOORE SHOW" tvg-logo="" group-title="Classic TV",24/7 THE MARY TYLER MOORE SHOW
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95913
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE MUNSTERS" tvg-logo="" group-title="Classic TV",24/7 THE MUNSTERS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95907
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE NANNY (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Nannylogo.PNG/250px-Nannylogo.PNG" group-title="Classic TV",24/7 THE NANNY (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99925
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THE WONDER YEARS (L)" tvg-logo="https://nickshell1983.files.wordpress.com/2010/06/wonderyears1.jpg" group-title="Classic TV",24/7 THE WONDER YEARS (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99931
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 THREES COMPANY (L)" tvg-logo="https://i.ytimg.com/vi/CcvVEADrCQ4/hqdefault.jpg" group-title="Classic TV",24/7 THREES COMPANY (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99933
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 TWILIGHT ZONE" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc4YjU0ZDktNzE2Ny00MDdmLWIwZDQtMzU2NzhmODA4YmMwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="Classic TV",24/7 TWILIGHT ZONE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38662
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 WKRP IN CINCINNATI" tvg-logo="" group-title="Classic TV",24/7 WKRP IN CINCINNATI
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/85198
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 XENA WARRIOR PRINCESS (L)" tvg-logo="https://cdn-images-1.medium.com/max/665/1*H52MjAxVFKEPwuhpPldaFA.jpeg" group-title="Classic TV",24/7 XENA WARRIOR PRINCESS (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99955
 
 #EXTINF:-1 group-title="Classic TV",The Outer Limits
 https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
@@ -1879,6 +2036,23 @@ https://i.mjh.nz/.r/10-documentaryshell.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-wicked-tuna.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SPONGEBOB SQUAREPANTS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/13846038/p13846038_b_v8_aa.jpg" group-title="Animation & Kids",24/7 SPONGEBOB SQUAREPANTS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38668
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 RICK & MORTY" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/11928964/p11928964_b_v8_aa.jpg" group-title="Animation & Kids",24/7 RICK & MORTY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38670
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 CHIP N DALE RESCUE RANGERS (L)" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/023/024/IMG_5450.JPG" group-title="Animation & Kids",24/7 CHIP N DALE RESCUE RANGERS (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99806
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 DEXTERS LABORATORY" tvg-logo="" group-title="Animation & Kids",24/7 DEXTERS LABORATORY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95910
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 DINOSAURS (L)" tvg-logo="" group-title="Animation & Kids",24/7 DINOSAURS (L)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107140
+
 
 #EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" group-title="Animation & Kids",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
@@ -4412,7 +4586,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23108
 
 
 
-#EXTINF:-1 tvg-id="" group-title="New",WCVB-TV
+#EXTINF:-1 tvg-id="" group-title="Live TV",WCVB-TV
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 
 
@@ -4487,6 +4661,7 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Me TV (KCCI) Des Moines IA" tvg-logo="" group-title="NETWORK TV",Me TV (KCCI) Des Moines IA
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106468
+
 
 #EXTINF:-1 tvg-ID="metvwjlp.us" tvg-name="ME TV" tvg-logo="https://lh3.googleusercontent.com/hT14HsUjQeY8deKpoRMzOlkEeTljvZWfPAsl4u2Rw7abhyUMLvb053_w1p25C8twDcuD" group-title="NETWORK TV",ME TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
@@ -4653,8 +4828,6 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102232
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107687
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX LATINO" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX LATINO
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107690
 #EXTINF:-1 tvg-ID="5starmax.us" tvg-name="CINEMAX 5STAR MAX" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX 5STAR MAX
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89057
 #EXTINF:-1 tvg-ID="5starmax.us" tvg-name="CINEMAX 5STAR MAX Low" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" group-title="PREMIUM MOVIE CHANNELS",CINEMAX 5STAR MAX Low
