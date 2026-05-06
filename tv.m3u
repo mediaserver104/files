@@ -199,6 +199,8 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 #EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="ME TV" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Classic TV",ME TV
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
