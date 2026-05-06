@@ -201,14 +201,22 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 #EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="ME TV" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Classic TV",ME TV
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
+#EXTVLCOPT:manifest.hls.ignoreManifestProgramDateTime = true
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
-#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (HD)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (SD)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
+
 
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
+
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
+https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND Low" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND Low
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
@@ -216,8 +224,6 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
-https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND WEST" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND WEST
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
@@ -2864,7 +2870,9 @@ https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 https://linear-476.frequency.stream/dist/tcltv/476/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-id="" group-title="Lifestyle & Travel",5 Exploring Britain
-https://jmp2.uk/plu-5ddf901280e3550009139c86.m3u8#EXTINF:-1 tvg-id=""group-title="Lifestyle & Travel",A New Life in the Sun
+https://jmp2.uk/plu-5ddf901280e3550009139c86.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Lifestyle & Travel",A New Life in the Sun
 https://jmp2.uk/plu-6852854bce36f0644f37d765.m3u8
 
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD"group-title="Lifestyle & Travel",Antiques Road Trip
