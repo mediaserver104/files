@@ -107,8 +107,8 @@ http://192.168.1.200:8409/iptv/channel/340.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons
+http://lordstreams.live:80/mszala@comcast.net/0323910031/494103
 
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons (HD)
 https://tvpass.org/live/metv-toons/hd
@@ -116,6 +116,11 @@ https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons (SD)
 https://tvpass.org/live/metv-toons/sd
 
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
+http://lordstreams.live:80/mszala@comcast.net/0323910031/345
+
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
+http://lordstreams.live:80/mszala@comcast.net/0323910031/344
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (SD)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
@@ -127,6 +132,8 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTVLCOPT:network-caching=1000
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="metvplus.us" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
+http://lordstreams.live:80/mszala@comcast.net/0323910031/414
 
 
 #EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
@@ -135,8 +142,8 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
 
-
-
+#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
+http://lordstreams.live:80/mszala@comcast.net/0323910031/358
 
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
 http://nor1live.win:80/livehttpplay?channel_id=23097
@@ -5847,7 +5854,11 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="New",DISCOVERY
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
+#EXTINF:-1 group-title="New",TNT
+http://38.52.208.106:8000/play/a01h/index.m3u8
 
+#EXTINF:-1 group-title="New",TNT HD
+http://38.52.208.106:8000/play/a04b/index.m3u8
 
 
 
