@@ -1207,6 +1207,9 @@ https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 
 
+#EXTINF:-1 tvg-id="Syfy.HD.us2" group-title="New",SyFy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
 #EXTINF:-1 tvg-id="Syfy.us" group-title="Sci-Fi & Fantasy",Syfy
 http://nor1live.win:80/livehttpplay?channel_id=23111
 
@@ -4840,8 +4843,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="New",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Syfy.HD.us2" group-title="New",SyFy
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CineMAX.us" group-title="New",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
@@ -5830,8 +5832,7 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="New",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="New",SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="New",NICKELODEON
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
