@@ -241,20 +241,13 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="24/7",Green Acres
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95904
 
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MUNSTERS" tvg-logo="" group-title="24/7",The Munsters
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95907
 
 #EXTINF:-1 tvg-id="99951256" tvg-logo="https://m.media-amazon.com/images/I/41kkoJ4jU7L._UXNaN_FMjpg_QL85_.jpg" group-title="Classic TV",Alfred Hitchcock Presents
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MISTER ED (L)" tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="24/7",Mister Ed
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99879
 
 
 
@@ -481,6 +474,15 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_c
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="24/7",Green Acres
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95904
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MUNSTERS" tvg-logo="" group-title="24/7",The Munsters
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95907
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MISTER ED (L)" tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="24/7",Mister Ed
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99879
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 GROWING PAINS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ye1UBc5uL._SY445_.jpg" group-title="24/7",24/7 GROWING PAINS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97405
