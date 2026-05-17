@@ -1261,6 +1261,9 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" group-title="Sci-Fi & Fantasy",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
+#EXTINF:-1 channel-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-chno="748" tvg-name="Stargate" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" group-title="Sci-Fi & Fantasy",Stargate
+https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
+
 #EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" group-title="Sci-Fi & Fantasy",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 
@@ -5784,8 +5787,7 @@ https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
 #EXTINF:-1 channel-id="d6f71998860459eca1bed73db5988330" tvg-id="d6f71998860459eca1bed73db5988330" tvg-chno="298" tvg-name="FilmRise Free Movies" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="New",FilmRise Free Movies
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
 
-#EXTINF:-1 channel-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-chno="748" tvg-name="Stargate" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" group-title="Sci-Fi & Fantasy",Stargate
-https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
+
 
 #EXTINF:-1 tvg-id="usa-yes-network" tvg-logo="" group-title="New",USA Yes Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
