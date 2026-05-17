@@ -102,92 +102,6 @@ http://192.168.1.200:8409/iptv/channel/340.m3u8
 
 
 
-#EXTINF:0 tvg-id="C99.210.ersatztv.org" channel-id="YRDbcKBUNUKZO3xLiFZSpQ" channel-number="99" CUID="YRDbcKBUNUKZO3xLiFZSpQ" tvg-chno="99" tvg-name="Vault-Tec" tvg-logo="http://100.74.98.51:8409/iptv/logos/C03546577767047917D91494E43BA70B.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Vault-Tec
-http://100.74.98.51:8409/iptv/channel/99.ts
-#EXTINF:0 tvg-id="C100.241.ersatztv.org" channel-id="lKd4YXy_BEewu1ewM8KZCA" channel-number="100" CUID="lKd4YXy_BEewu1ewM8KZCA" tvg-chno="100" tvg-name="Cartoon Classics" tvg-logo="http://100.74.98.51:8409/iptv/logos/B65126A27B26EA8594C84BBA6F086387.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cartoon Classics
-http://100.74.98.51:8409/iptv/channel/100.m3u8
-#EXTINF:0 tvg-id="C103.244.ersatztv.org" channel-id="bbsgcNsbEE2FlFKTgsoC_g" channel-number="103" CUID="bbsgcNsbEE2FlFKTgsoC_g" tvg-chno="103" tvg-name="Monkees'n'stuf" tvg-logo="http://100.74.98.51:8409/iptv/logos/C7CDB4D6FB00702D798707B6162EA0D4.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Monkees'n'stuf
-http://100.74.98.51:8409/iptv/channel/103.m3u8
-#EXTINF:0 tvg-id="C105.246.ersatztv.org" channel-id="DNEJy347lECv1-2v485a-Q" channel-number="105" CUID="DNEJy347lECv1-2v485a-Q" tvg-chno="105" tvg-name="Thunderbirds" tvg-logo="http://100.74.98.51:8409/iptv/logos/7F9EC01624590ECA5791479BA9D1C076.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Thunderbirds
-http://100.74.98.51:8409/iptv/channel/105.m3u8
-#EXTINF:0 tvg-id="C110.242.ersatztv.org" channel-id="Ti2aAVodL0OBccEwqeKrKQ" channel-number="110" CUID="Ti2aAVodL0OBccEwqeKrKQ" tvg-chno="110" tvg-name="Atomic TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/5B709FF51654FAE5D51F3EE5408D0065.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Atomic TV
-http://100.74.98.51:8409/iptv/channel/110.m3u8
-#EXTINF:0 tvg-id="C115.247.ersatztv.org" channel-id="S4HVmGekGEG2fauukUB5UA" channel-number="115" CUID="S4HVmGekGEG2fauukUB5UA" tvg-chno="115" tvg-name="Outer Zone" tvg-logo="http://100.74.98.51:8409/iptv/logos/949D52225411FDBBE5E04212376AA991.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Outer Zone
-http://100.74.98.51:8409/iptv/channel/115.m3u8
-#EXTINF:0 tvg-id="C120.243.ersatztv.org" channel-id="m7biASL_c0-G1HMZP9j-FQ" channel-number="120" CUID="m7biASL_c0-G1HMZP9j-FQ" tvg-chno="120" tvg-name="Spooky TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/D746E8B9C6BDA7D5F4664582181101C7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Spooky TV
-http://100.74.98.51:8409/iptv/channel/120.m3u8
-#EXTINF:0 tvg-id="C130.244.ersatztv.org" channel-id="hLIbnKXVjUWrCTSspypiBg" channel-number="130" CUID="hLIbnKXVjUWrCTSspypiBg" tvg-chno="130" tvg-name="Classic Vault" tvg-logo="http://100.74.98.51:8409/iptv/logos/23FCAA09C905EB6A9F408B17B322B28D.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Classic Vault
-http://100.74.98.51:8409/iptv/channel/130.m3u8
-#EXTINF:0 tvg-id="C132.246.ersatztv.org" channel-id="Ocpwzdudzk6FUNoK3dc34Q" channel-number="132" CUID="Ocpwzdudzk6FUNoK3dc34Q" tvg-chno="132" tvg-name="Yesteryear" tvg-logo="http://100.74.98.51:8409/iptv/logos/C4D9E0D562BD85AB52247DB417BA2E8C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Yesteryear
-http://100.74.98.51:8409/iptv/channel/132.m3u8
-#EXTINF:0 tvg-id="C135.249.ersatztv.org" channel-id="1rUCIVsTQ0idj8WIoJEaDg" channel-number="135" CUID="1rUCIVsTQ0idj8WIoJEaDg" tvg-chno="135" tvg-name="Magic Television" tvg-logo="http://100.74.98.51:8409/iptv/logos/D91189F7EF8BC118AF211A10EF1008F7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Magic Television
-http://100.74.98.51:8409/iptv/channel/135.m3u8
-#EXTINF:0 tvg-id="C137.251.ersatztv.org" channel-id="hJ3qkdnj7U2PRdO22ea2Mg" channel-number="137" CUID="hJ3qkdnj7U2PRdO22ea2Mg" tvg-chno="137" tvg-name="DejaView" tvg-logo="http://100.74.98.51:8409/iptv/logos/98C9132F6D81B6CB3679D36AB38B8810.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", DejaView
-http://100.74.98.51:8409/iptv/channel/137.m3u8
-#EXTINF:0 tvg-id="C140.245.ersatztv.org" channel-id="mz7CaKxutUiPYrDQbzs_HA" channel-number="140" CUID="mz7CaKxutUiPYrDQbzs_HA" tvg-chno="140" tvg-name="Lost in Space" tvg-logo="http://100.74.98.51:8409/iptv/logos/2B0C298AFB6A329E12A3158E759C81FB.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Lost in Space
-http://100.74.98.51:8409/iptv/channel/140.m3u8
-#EXTINF:0 tvg-id="C150.246.ersatztv.org" channel-id="8N54kQbuAU2D1UcXya7-cQ" channel-number="150" CUID="8N54kQbuAU2D1UcXya7-cQ" tvg-chno="150" tvg-name="Gilligans Island" tvg-logo="http://100.74.98.51:8409/iptv/logos/964BF15EF2AA5458EFA4BA23077A8601.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Gilligans Island
-http://100.74.98.51:8409/iptv/channel/150.m3u8
-#EXTINF:0 tvg-id="C160.247.ersatztv.org" channel-id="AEkOsSftWkCe8j4lvW34Jg" channel-number="160" CUID="AEkOsSftWkCe8j4lvW34Jg" tvg-chno="160" tvg-name="Bewitched" tvg-logo="http://100.74.98.51:8409/iptv/logos/C178E83DFFD02CD68BEB3CBAB82AD654.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Bewitched
-http://100.74.98.51:8409/iptv/channel/160.m3u8
-#EXTINF:0 tvg-id="C170.248.ersatztv.org" channel-id="2mNnB8OKjkiYe-qUYqdZbA" channel-number="170" CUID="2mNnB8OKjkiYe-qUYqdZbA" tvg-chno="170" tvg-name="I Dream of Jeannie" tvg-logo="http://100.74.98.51:8409/iptv/logos/C512692D28A2077184ACA940CCA79611.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", I Dream of Jeannie
-http://100.74.98.51:8409/iptv/channel/170.m3u8
-#EXTINF:0 tvg-id="C180.249.ersatztv.org" channel-id="Mbb3Q9MSfEKeIc-IJV1Erw" channel-number="180" CUID="Mbb3Q9MSfEKeIc-IJV1Erw" tvg-chno="180" tvg-name="Get Smart" tvg-logo="http://100.74.98.51:8409/iptv/logos/ED4964DDEE577F831F57605D49B59399.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Get Smart
-http://100.74.98.51:8409/iptv/channel/180.m3u8
-#EXTINF:0 tvg-id="C190.250.ersatztv.org" channel-id="ODD02eY8j0ihpBcaKcFD2w" channel-number="190" CUID="ODD02eY8j0ihpBcaKcFD2w" tvg-chno="190" tvg-name="Happy Days" tvg-logo="http://100.74.98.51:8409/iptv/logos/D91917A1D081EEE6D365FDED6BDD3E97.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Happy Days
-http://100.74.98.51:8409/iptv/channel/190.m3u8
-#EXTINF:0 tvg-id="C200.242.ersatztv.org" channel-id="6CoVfPnzhkqjB59YBMmI0g" channel-number="200" CUID="6CoVfPnzhkqjB59YBMmI0g" tvg-chno="200" tvg-name="Wonder Woman" tvg-logo="http://100.74.98.51:8409/iptv/logos/083C1F61AEC6F0EB90A26518C22ED038.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Wonder Woman
-http://100.74.98.51:8409/iptv/channel/200.m3u8
-#EXTINF:0 tvg-id="C205.247.ersatztv.org" channel-id="V5kh6j1Z70CawjlfNtrRmQ" channel-number="205" CUID="V5kh6j1Z70CawjlfNtrRmQ" tvg-chno="205" tvg-name="Hero TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/F6AE152D474A09A6005AA078007419E1.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Hero TV
-http://100.74.98.51:8409/iptv/channel/205.m3u8
-#EXTINF:0 tvg-id="C208.250.ersatztv.org" channel-id="NZhaUfz7G0ejK8E8LooGXg" channel-number="208" CUID="NZhaUfz7G0ejK8E8LooGXg" tvg-chno="208" tvg-name="Retro 60s" tvg-logo="http://100.74.98.51:8409/iptv/logos/1805047A501B46C9C07FE0924C7E9808.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 60s
-http://100.74.98.51:8409/iptv/channel/208.m3u8
-#EXTINF:0 tvg-id="C210.243.ersatztv.org" channel-id="YknjvgSdOESXfLHNBeH1EA" channel-number="210" CUID="YknjvgSdOESXfLHNBeH1EA" tvg-chno="210" tvg-name="Retro 70s" tvg-logo="http://100.74.98.51:8409/iptv/logos/BA521AE7EDABD8311AF18DB93DEBE6E8.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 70s
-http://100.74.98.51:8409/iptv/channel/210.m3u8
-#EXTINF:0 tvg-id="C220.244.ersatztv.org" channel-id="O7niEsA4BkCaY4mQUpVWtg" channel-number="220" CUID="O7niEsA4BkCaY4mQUpVWtg" tvg-chno="220" tvg-name="Retro 80s" tvg-logo="http://100.74.98.51:8409/iptv/logos/E2B9B5A48D6E409B8A259C7CEF876EDC.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 80s
-http://100.74.98.51:8409/iptv/channel/220.m3u8
-#EXTINF:0 tvg-id="C230.245.ersatztv.org" channel-id="pMzYG8F1MEmPlndGP-zU7w" channel-number="230" CUID="pMzYG8F1MEmPlndGP-zU7w" tvg-chno="230" tvg-name="Retro TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/5206E0F80800FA7D315F5E35D3E6C711.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro TV
-http://100.74.98.51:8409/iptv/channel/230.m3u8
-#EXTINF:0 tvg-id="C235.250.ersatztv.org" channel-id="kGD7RxFP2kuBGpUdzPjX3g" channel-number="235" CUID="kGD7RxFP2kuBGpUdzPjX3g" tvg-chno="235" tvg-name="MASH" tvg-logo="http://100.74.98.51:8409/iptv/logos/6CBCF78F2EBAAB2DC77CA9CAEC8A4B8B.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MASH
-http://100.74.98.51:8409/iptv/channel/235.m3u8
-#EXTINF:0 tvg-id="C237.252.ersatztv.org" channel-id="ElrWr8HbQEKMMxh_pz8ciQ" channel-number="237" CUID="ElrWr8HbQEKMMxh_pz8ciQ" tvg-chno="237" tvg-name="Sarge & Laugh" tvg-logo="http://100.74.98.51:8409/iptv/logos/58950F2A31443ABA032E8935A525E8B6.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Sarge & Laugh
-http://100.74.98.51:8409/iptv/channel/237.m3u8
-#EXTINF:0 tvg-id="C240.246.ersatztv.org" channel-id="b7kvvCX56EC4f9vEBrVNuA" channel-number="240" CUID="b7kvvCX56EC4f9vEBrVNuA" tvg-chno="240" tvg-name="Retro Sci Fi" tvg-logo="http://100.74.98.51:8409/iptv/logos/8F5D9F34B2DD5CE641691010E9820D7A.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro Sci Fi
-http://100.74.98.51:8409/iptv/channel/240.m3u8
-#EXTINF:0 tvg-id="C245.251.ersatztv.org" channel-id="x6CdbxukbUa7RT3Yb0Y5_A" channel-number="245" CUID="x6CdbxukbUa7RT3Yb0Y5_A" tvg-chno="245" tvg-name="Elvira" tvg-logo="http://100.74.98.51:8409/iptv/logos/3D574495F5283D145C44E8E1548B796C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Elvira
-http://100.74.98.51:8409/iptv/channel/245.m3u8
-#EXTINF:0 tvg-id="C246.252.ersatztv.org" channel-id="_WRObU_-AEStTUPad-D1Mw" channel-number="246" CUID="_WRObU_-AEStTUPad-D1Mw" tvg-chno="246" tvg-name="Matinee Movies" tvg-logo="http://100.74.98.51:8409/iptv/logos/6A2E1A302921A8A66BE5B16500F85838.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Matinee Movies
-http://100.74.98.51:8409/iptv/channel/246.m3u8
-#EXTINF:0 tvg-id="C247.253.ersatztv.org" channel-id="5L7VESWtx0epuKjo9gPN3Q" channel-number="247" CUID="5L7VESWtx0epuKjo9gPN3Q" tvg-chno="247" tvg-name="Drive-In" tvg-logo="http://100.74.98.51:8409/iptv/logos/A171765832B1C28DD0592464228C1F8C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Drive-In
-http://100.74.98.51:8409/iptv/channel/247.m3u8
-#EXTINF:0 tvg-id="C248.254.ersatztv.org" channel-id="31w2MWHypUu6li12MbTdoQ" channel-number="248" CUID="31w2MWHypUu6li12MbTdoQ" tvg-chno="248" tvg-name="Midnight Movies" tvg-logo="http://100.74.98.51:8409/iptv/logos/458AF8EFA0B56319B5A5B18CC535DEFF.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Midnight Movies
-http://100.74.98.51:8409/iptv/channel/248.m3u8
-#EXTINF:0 tvg-id="C249.255.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="249" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="249" tvg-name="Movie Favourites" tvg-logo="http://100.74.98.51:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
-http://100.74.98.51:8409/iptv/channel/249.m3u8
-#EXTINF:0 tvg-id="C250.247.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="250" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="250" tvg-name="Countdown" tvg-logo="http://100.74.98.51:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
-http://100.74.98.51:8409/iptv/channel/250.m3u8
-#EXTINF:0 tvg-id="C260.248.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="260" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="260" tvg-name="MTV" tvg-logo="http://100.74.98.51:8409/iptv/logos/4F0CDB4845FBAA1C76FE715999D3F610.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV
-http://100.74.98.51:8409/iptv/channel/260.ts
-#EXTINF:0 tvg-id="C270.249.ersatztv.org" channel-id="F7WAeNHcKkGx85pZp5kC_g" channel-number="270" CUID="F7WAeNHcKkGx85pZp5kC_g" tvg-chno="270" tvg-name="MTV Punk" tvg-logo="http://100.74.98.51:8409/iptv/logos/63FA7FFEACD77161652D4B3691425B61.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV Punk
-http://100.74.98.51:8409/iptv/channel/270.ts
-#EXTINF:0 tvg-id="C295.256.ersatztv.org" channel-id="WYdO5u6qKEu2mGPEYvi8yQ" channel-number="295" CUID="WYdO5u6qKEu2mGPEYvi8yQ" tvg-chno="295" tvg-name="The Simpsons" tvg-logo="http://100.74.98.51:8409/iptv/logos/400C0788CD253427947C866250CF84B7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Simpsons
-http://100.74.98.51:8409/iptv/channel/295.m3u8
-#EXTINF:0 tvg-id="C300.243.ersatztv.org" channel-id="Pqse9maYb0mhDsRiFA-O8g" channel-number="300" CUID="Pqse9maYb0mhDsRiFA-O8g" tvg-chno="300" tvg-name="Big Bang Theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Big Bang Theory
-http://100.74.98.51:8409/iptv/channel/300.m3u8
-#EXTINF:0 tvg-id="C310.244.ersatztv.org" channel-id="GMokDFNLEUSNGDYJlDJtuQ" channel-number="310" CUID="GMokDFNLEUSNGDYJlDJtuQ" tvg-chno="310" tvg-name="Modern Family" tvg-logo="http://100.74.98.51:8409/iptv/logos/88EA643CC3AE95FC68B4C6A6F829A8E6.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Modern Family
-http://100.74.98.51:8409/iptv/channel/310.m3u8
-#EXTINF:0 tvg-id="C315.249.ersatztv.org" channel-id="P2WMIl9pSE-wmb_8vqwG6g" channel-number="315" CUID="P2WMIl9pSE-wmb_8vqwG6g" tvg-chno="315" tvg-name="The Office" tvg-logo="http://100.74.98.51:8409/iptv/logos/64F539539B6B38A69EC89C4930641357.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Office
-http://100.74.98.51:8409/iptv/channel/315.m3u8
-#EXTINF:0 tvg-id="C320.245.ersatztv.org" channel-id="uq99VyqFVUuPJ8V-Tz-4rQ" channel-number="320" CUID="uq99VyqFVUuPJ8V-Tz-4rQ" tvg-chno="320" tvg-name="Parks and Recreation" tvg-logo="http://100.74.98.51:8409/iptv/logos/D1CAE0F239BDE3CE0F3D7DDFEF8535D5.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Parks and Recreation
-http://100.74.98.51:8409/iptv/channel/320.m3u8
-#EXTINF:0 tvg-id="C325.250.ersatztv.org" channel-id="ha-ERs2X-kqrrsUkkiVlxw" channel-number="325" CUID="ha-ERs2X-kqrrsUkkiVlxw" tvg-chno="325" tvg-name="Friends" tvg-logo="http://100.74.98.51:8409/iptv/logos/B18863D0FD8EC97290D7E60D53996C31.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Friends
-http://100.74.98.51:8409/iptv/channel/325.ts
-#EXTINF:0 tvg-id="C330.246.ersatztv.org" channel-id="b07jZ2o9WUGIIyRSMfqEmA" channel-number="330" CUID="b07jZ2o9WUGIIyRSMfqEmA" tvg-chno="330" tvg-name="How I Met Your Mother" tvg-logo="http://100.74.98.51:8409/iptv/logos/F760A04B4BFC7AC1D2BBC0FC46FC4C31.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", How I Met Your Mother
-http://100.74.98.51:8409/iptv/channel/330.m3u8
-#EXTINF:0 tvg-id="C335.251.ersatztv.org" channel-id="ygjif0CrCUWfChLPM9HDdg" channel-number="335" CUID="ygjif0CrCUWfChLPM9HDdg" tvg-chno="335" tvg-name="Mad Men" tvg-logo="http://100.74.98.51:8409/iptv/logos/79342AC706661182C4AB5408E2E28101.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Mad Men
-http://100.74.98.51:8409/iptv/channel/335.m3u8
-#EXTINF:0 tvg-id="C340.247.ersatztv.org" channel-id="kLcqu7F_pEanXzwjjRZHDA" channel-number="340" CUID="kLcqu7F_pEanXzwjjRZHDA" tvg-chno="340" tvg-name="Suits" tvg-logo="http://100.74.98.51:8409/iptv/logos/258410A5791848AFED8D88D8B6C28B51.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Suits
-http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 
@@ -198,16 +112,24 @@ http://100.74.98.51:8409/iptv/channel/340.m3u8
 
 
 
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="ME TV" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Classic TV",ME TV
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
+
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (SD)
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (HD)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 
-#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (SD)
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="ME TV" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Classic TV",ME TV
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
+
+
+
+#EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
+
 
 
 
@@ -223,10 +145,8 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
 
-
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV LAND WEST" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="Classic TV",TV LAND WEST
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
-
 
 
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
@@ -237,6 +157,23 @@ http://nor1live.win:80/livehttpplay?channel_id=23095
 
 #EXTINF:-1 tvg-id="1da659db3ce914b59c2823fbe6529d76" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png" group-title="Classic TV",GET Comedy
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
+https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="24/7",Green Acres
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95904
+
+#EXTINF:-1 group-title="Classic TV",The Dick Van Dyke Show
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884544/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884544&ads.xumo_streamId=88884544&declaredCC1Language=en&ads.caid=DickVanDyke&ads.csid=tcl2_us_thedickvandykeshow_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=DickVanDyke&ads.xumo_providerId=5&ads.xumo_providerName=DickVanDyke&ads.xumo_channelName=DickVanDyke&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/The-three-stooges-5659a60a0e117.png" channel-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" tvg-id="TheThreeStooges+.us" channel-number="115" tvg-chno="115" group-title="Classic TV",Three Stooges+
+https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?content_provider=three-stooges&did=&channel_brand_id=AMDB013402&h=1080&device_make=&iu=&channel_company_id=AMDP500511&gdpr=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&dnt=&channel_name=Three%20Stooges+&coppa=0&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_bundle=&app_store_url=&app_name=&genre=Comedy&w=1920&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ic=&device_model=&device_type=&channel_corp=C3%20Entertainment%20INC&us_privacy=1YNY&gdpr_consent=&idtype=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=86.48.9.131
+
+#EXTINF:-1 channel-id="twilight-zone" tvg-id="twilight-zone" tvg-name="twilight-zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="Classic TV",The Twilight Zone
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 
 #EXTINF:-1 tvg-id="Antenna.TV.us2" channel-id="AntennaTVKNXVDT2.us" tvg-name="ANTENNA TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png" group-title="Classic TV",ANTENNA TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/39211
@@ -255,6 +192,45 @@ http://nor1live.win:80/livehttpplay?channel_id=23070
 
 #EXTINF:-1 tvg=id="Comedy.Central.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="",Comedy Central
 http://nor1live.win:80/livehttpplay?channel_id=23083
+
+#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Classic TV",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+
+#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Classic TV",Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+
+#EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Classic TV",Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Hit Sitcoms
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Classic TV",Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+#EXTINF:-1 tvg-id="5f7794a788d29000079d2f07" group-title="Classic TV" tvg-logo="",The Love Boat
+https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
+
+#EXTINF:-1 tvg-id="nbc-comedy-vault" tvg-name="nbc-comedy-vault" tvg-logo="" group-title="Classic TV;Comedy",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="CMT.us" group-title="Classic TV;Movies" tvg-logo="",CMT
@@ -277,33 +253,20 @@ http://nor1live.win:80/livehttpplay?channel_id=23019
 
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
-https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 GREEN ACRES" tvg-logo="" group-title="Classic TV",Green Acres
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95904
 
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
 https://linear-1146.frequency.stream/dist/tcltv/1146/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MUNSTERS" tvg-logo="" group-title="Classic TV",The Munsters
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MUNSTERS" tvg-logo="" group-title="24/7",The Munsters
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95907
 
 #EXTINF:-1 tvg-id="99951256" tvg-logo="https://m.media-amazon.com/images/I/41kkoJ4jU7L._UXNaN_FMjpg_QL85_.jpg" group-title="Classic TV",Alfred Hitchcock Presents
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="Classic TV",The Dick Van Dyke Show
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88884544/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884544&ads.xumo_streamId=88884544&declaredCC1Language=en&ads.caid=DickVanDyke&ads.csid=tcl2_us_thedickvandykeshow_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=DickVanDyke&ads.xumo_providerId=5&ads.xumo_providerName=DickVanDyke&ads.xumo_channelName=DickVanDyke&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/The-three-stooges-5659a60a0e117.png" channel-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" tvg-id="TheThreeStooges+.us" channel-number="115" tvg-chno="115" group-title="Classic TV",Three Stooges+
-https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?content_provider=three-stooges&did=&channel_brand_id=AMDB013402&h=1080&device_make=&iu=&channel_company_id=AMDP500511&gdpr=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&dnt=&channel_name=Three%20Stooges+&coppa=0&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_bundle=&app_store_url=&app_name=&genre=Comedy&w=1920&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ic=&device_model=&device_type=&channel_corp=C3%20Entertainment%20INC&us_privacy=1YNY&gdpr_consent=&idtype=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=86.48.9.131
 
-#EXTINF:-1 channel-id="twilight-zone" tvg-id="twilight-zone" tvg-name="twilight-zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="Classic TV",The Twilight Zone
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MISTER ED (L)" tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="Classic TV",Mister Ed
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MISTER ED (L)" tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="24/7",Mister Ed
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99879
 
 
@@ -339,11 +302,6 @@ https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG.png" group-title="Classic TV",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
-#EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
-https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
 
 #EXTINF:-1 tvg-id=""group-title="Classic TV",I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
@@ -385,29 +343,6 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Classic TV",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 
-#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Classic TV",Classic TV Comedy
-https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
-https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
-
-#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
-https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
-
-#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV: Families
-https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
-
-#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Classic TV",Family Ties
-https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
-
-#EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-id="HappyDays.us@SD" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Classic TV",Happy Days
-https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Hit Sitcoms
-https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="Classic TV",Hogan's Heroes
-https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 
 
 
@@ -560,115 +495,115 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_c
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 GROWING PAINS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ye1UBc5uL._SY445_.jpg" group-title="Classic TV",24/7 GROWING PAINS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GROWING PAINS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ye1UBc5uL._SY445_.jpg" group-title="24/7",24/7 GROWING PAINS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97405
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY DAYS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184290/p184290_b_v8_ad.jpg" group-title="Classic TV",24/7 HAPPY DAYS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY DAYS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184290/p184290_b_v8_ad.jpg" group-title="24/7",24/7 HAPPY DAYS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/58713
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HEY DUDE (L)" tvg-logo="https://imgix.bustle.com/rehost/2016/9/13/2bb33f78-0afb-4f2c-a308-f69c9f80dd5f.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70" group-title="Classic TV",24/7 HEY DUDE (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HEY DUDE (L)" tvg-logo="https://imgix.bustle.com/rehost/2016/9/13/2bb33f78-0afb-4f2c-a308-f69c9f80dd5f.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70" group-title="24/7",24/7 HEY DUDE (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99846
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HOME IMPROVEMENT" tvg-logo="" group-title="Classic TV",24/7 HOME IMPROVEMENT
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOME IMPROVEMENT" tvg-logo="" group-title="24/7",24/7 HOME IMPROVEMENT
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95899
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KING OF QUEENS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7895679/p7895679_b_v8_aa.jpg" group-title="Classic TV",24/7 KING OF QUEENS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KING OF QUEENS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7895679/p7895679_b_v8_aa.jpg" group-title="24/7",24/7 KING OF QUEENS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/59559
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KNIGHT RIDER (L)" tvg-logo="https://stz1.imgix.net/web/contentId/41885/type/KEY/dimension/2560x1440?w=690&fit=max&auto=format,compress" group-title="Classic TV",24/7 KNIGHT RIDER (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KNIGHT RIDER (L)" tvg-logo="https://stz1.imgix.net/web/contentId/41885/type/KEY/dimension/2560x1440?w=690&fit=max&auto=format,compress" group-title="24/7",24/7 KNIGHT RIDER (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106156
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LAST MAN STANDING (L)" tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2018/06/lastman.jpg" group-title="Classic TV",24/7 LAST MAN STANDING (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAST MAN STANDING (L)" tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2018/06/lastman.jpg" group-title="24/7",24/7 LAST MAN STANDING (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99860
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MACGYVER (L)" tvg-logo="https://cdn.famefocus.com/wp-content/uploads/2016/06/macgyver-1000x600.jpg" group-title="Classic TV",24/7 MACGYVER (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MACGYVER (L)" tvg-logo="https://cdn.famefocus.com/wp-content/uploads/2016/06/macgyver-1000x600.jpg" group-title="24/7",24/7 MACGYVER (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99868
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MAGNUM P.I. (L)" tvg-logo="https://timeandtidewatches.com/wp-content/uploads/2018/05/magnumpi-1.jpg" group-title="Classic TV",24/7 MAGNUM P.I. (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAGNUM P.I. (L)" tvg-logo="https://timeandtidewatches.com/wp-content/uploads/2018/05/magnumpi-1.jpg" group-title="24/7",24/7 MAGNUM P.I. (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99869
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MALCOLM IN THE MIDDLE" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184566/p184566_b_v8_ax.jpg" group-title="Classic TV",24/7 MALCOLM IN THE MIDDLE
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MALCOLM IN THE MIDDLE" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184566/p184566_b_v8_ax.jpg" group-title="24/7",24/7 MALCOLM IN THE MIDDLE
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38672
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MASH (L)" tvg-logo="http://stereoembersmagazine.com/wp-content/uploads/2015/03/mash-title-960x590.jpg" group-title="Classic TV",24/7 MASH (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASH (L)" tvg-logo="http://stereoembersmagazine.com/wp-content/uploads/2015/03/mash-title-960x590.jpg" group-title="24/7",24/7 MASH (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99873
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183881/p183881_b_v8_ab.jpg" group-title="Classic TV",24/7 MARRIED WITH CHILDREN
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183881/p183881_b_v8_ab.jpg" group-title="24/7",24/7 MARRIED WITH CHILDREN
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38421
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MIAMI VICE (L)" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183928/p183928_b_v8_ab.jpg" group-title="Classic TV",24/7 MIAMI VICE (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIAMI VICE (L)" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183928/p183928_b_v8_ab.jpg" group-title="24/7",24/7 MIAMI VICE (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99874
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MISSION IMPOSSIBLE SERIES (L)" tvg-logo="https://scdn.nflximg.net/images/0170/3990170.jpg" group-title="Classic TV",24/7 MISSION IMPOSSIBLE SERIES (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MISSION IMPOSSIBLE SERIES (L)" tvg-logo="https://scdn.nflximg.net/images/0170/3990170.jpg" group-title="24/7",24/7 MISSION IMPOSSIBLE SERIES (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/104402
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 NIGHT COURT" tvg-logo="" group-title="Classic TV",24/7 NIGHT COURT
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NIGHT COURT" tvg-logo="" group-title="24/7",24/7 NIGHT COURT
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/89366
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 NORTHERN EXPOSURE (L)" tvg-logo="https://i0.wp.com/25yearslatersite.com/wp-content/uploads/2018/02/neintro-header.jpg?resize=1200%2C659&ssl=1" group-title="Classic TV",24/7 NORTHERN EXPOSURE (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NORTHERN EXPOSURE (L)" tvg-logo="https://i0.wp.com/25yearslatersite.com/wp-content/uploads/2018/02/neintro-header.jpg?resize=1200%2C659&ssl=1" group-title="24/7",24/7 NORTHERN EXPOSURE (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99884
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PERFECT STRANGERS (L)" tvg-logo="https://ibdp.videovore.com/show_art/33388?size=2048x768" group-title="Classic TV",24/7 PERFECT STRANGERS (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PERFECT STRANGERS (L)" tvg-logo="https://ibdp.videovore.com/show_art/33388?size=2048x768" group-title="24/7",24/7 PERFECT STRANGERS (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99885
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 QUANTUM LEAP (L)" tvg-logo="http://is1.mzstatic.com/image/thumb/Video6/v4/f8/a9/bc/f8a9bc1d-51d7-4a7c-3e61-ae326ac28bef/source/1200x630bb.jpg" group-title="Classic TV",24/7 QUANTUM LEAP (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 QUANTUM LEAP (L)" tvg-logo="http://is1.mzstatic.com/image/thumb/Video6/v4/f8/a9/bc/f8a9bc1d-51d7-4a7c-3e61-ae326ac28bef/source/1200x630bb.jpg" group-title="24/7",24/7 QUANTUM LEAP (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99889
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SCRUBS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7913841/p7913841_b_v8_aa.jpg" group-title="Classic TV",24/7 SCRUBS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCRUBS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7913841/p7913841_b_v8_aa.jpg" group-title="24/7",24/7 SCRUBS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/58715
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SEINFELD" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7892827/p7892827_b_v8_aa.jpg" group-title="Classic TV",24/7 SEINFELD
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SEINFELD" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7892827/p7892827_b_v8_aa.jpg" group-title="24/7",24/7 SEINFELD
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38419
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SGU STARGATE UNIVERSE" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7829886/p7829886_b_v7_aa.jpg" group-title="Classic TV",24/7 SGU STARGATE UNIVERSE
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SGU STARGATE UNIVERSE" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7829886/p7829886_b_v7_aa.jpg" group-title="24/7",24/7 SGU STARGATE UNIVERSE
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38669
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STARGATE ATLANTIS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/185051/p185051_b_v8_ac.jpg" group-title="Classic TV",24/7 STARGATE ATLANTIS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STARGATE ATLANTIS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/185051/p185051_b_v8_ac.jpg" group-title="24/7",24/7 STARGATE ATLANTIS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38667
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SIMPSONS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14287843/p14287843_b_v8_aa.jpg" group-title="Classic TV",24/7 SIMPSONS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SIMPSONS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14287843/p14287843_b_v8_aa.jpg" group-title="24/7",24/7 SIMPSONS
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38688
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SIX MILLION DOLLAR MAN (L)" tvg-logo="https://i.ytimg.com/vi/0CPJ-AbCsT8/maxresdefault.jpg" group-title="Classic TV",24/7 SIX MILLION DOLLAR MAN (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SIX MILLION DOLLAR MAN (L)" tvg-logo="https://i.ytimg.com/vi/0CPJ-AbCsT8/maxresdefault.jpg" group-title="24/7",24/7 SIX MILLION DOLLAR MAN (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106749
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK NEXT GENERATION (L)" tvg-logo="https://i.ytimg.com/vi/KkXoGQMqfow/maxresdefault.jpg" group-title="Classic TV",24/7 STAR TREK NEXT GENERATION (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK NEXT GENERATION (L)" tvg-logo="https://i.ytimg.com/vi/KkXoGQMqfow/maxresdefault.jpg" group-title="24/7",24/7 STAR TREK NEXT GENERATION (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99909
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK ORIGINAL SERIES (L)" tvg-logo="http://images4.fanpop.com/image/photos/17300000/The-Magnificent-Seven-star-trek-the-original-series-17324185-1152-532.jpg" group-title="Classic TV",24/7 STAR TREK ORIGINAL SERIES (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK ORIGINAL SERIES (L)" tvg-logo="http://images4.fanpop.com/image/photos/17300000/The-Magnificent-Seven-star-trek-the-original-series-17324185-1152-532.jpg" group-title="24/7",24/7 STAR TREK ORIGINAL SERIES (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99908
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STARSKY & HUTCH" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7895465/p7895465_b_v8_ab.jpg" group-title="Classic TV",24/7 STARSKY & HUTCH
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STARSKY & HUTCH" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7895465/p7895465_b_v8_ab.jpg" group-title="24/7",24/7 STARSKY & HUTCH
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/73262
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STEP BY STEP (L)" tvg-logo="https://i.pinimg.com/originals/e4/08/eb/e408ebf927a15cf39cc53929bfb4e662.jpg" group-title="Classic TV",24/7 STEP BY STEP (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STEP BY STEP (L)" tvg-logo="https://i.pinimg.com/originals/e4/08/eb/e408ebf927a15cf39cc53929bfb4e662.jpg" group-title="24/7",24/7 STEP BY STEP (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99912
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TALES FROM THE CRYPT" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184195/p184195_b_v8_ab.jpg" group-title="Classic TV",24/7 TALES FROM THE CRYPT
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TALES FROM THE CRYPT" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184195/p184195_b_v8_ab.jpg" group-title="24/7",24/7 TALES FROM THE CRYPT
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38648
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THAT 70s SHOW (L)" tvg-logo="https://static2.srcdn.com/wordpress/wp-content/uploads/2019/12/that-70s-show-hogwarts-houses-header-Cropped.jpg" group-title="Classic TV",24/7 THAT 70s SHOW (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THAT 70s SHOW (L)" tvg-logo="https://static2.srcdn.com/wordpress/wp-content/uploads/2019/12/that-70s-show-hogwarts-houses-header-Cropped.jpg" group-title="24/7",24/7 THAT 70s SHOW (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/104401
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MARY TYLER MOORE SHOW" tvg-logo="" group-title="Classic TV",24/7 THE MARY TYLER MOORE SHOW
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MARY TYLER MOORE SHOW" tvg-logo="" group-title="24/7",24/7 THE MARY TYLER MOORE SHOW
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95913
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE NANNY (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Nannylogo.PNG/250px-Nannylogo.PNG" group-title="Classic TV",24/7 THE NANNY (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE NANNY (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Nannylogo.PNG/250px-Nannylogo.PNG" group-title="24/7",24/7 THE NANNY (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99925
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WONDER YEARS (L)" tvg-logo="https://nickshell1983.files.wordpress.com/2010/06/wonderyears1.jpg" group-title="Classic TV",24/7 THE WONDER YEARS (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WONDER YEARS (L)" tvg-logo="https://nickshell1983.files.wordpress.com/2010/06/wonderyears1.jpg" group-title="24/7",24/7 THE WONDER YEARS (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99931
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THREES COMPANY (L)" tvg-logo="https://i.ytimg.com/vi/CcvVEADrCQ4/hqdefault.jpg" group-title="Classic TV",24/7 THREES COMPANY (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THREES COMPANY (L)" tvg-logo="https://i.ytimg.com/vi/CcvVEADrCQ4/hqdefault.jpg" group-title="24/7",24/7 THREES COMPANY (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99933
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TWILIGHT ZONE" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc4YjU0ZDktNzE2Ny00MDdmLWIwZDQtMzU2NzhmODA4YmMwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="Classic TV",24/7 TWILIGHT ZONE
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWILIGHT ZONE" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc4YjU0ZDktNzE2Ny00MDdmLWIwZDQtMzU2NzhmODA4YmMwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="24/7",24/7 TWILIGHT ZONE
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38662
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 WKRP IN CINCINNATI" tvg-logo="" group-title="Classic TV",24/7 WKRP IN CINCINNATI
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WKRP IN CINCINNATI" tvg-logo="" group-title="24/7",24/7 WKRP IN CINCINNATI
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/85198
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 XENA WARRIOR PRINCESS (L)" tvg-logo="https://cdn-images-1.medium.com/max/665/1*H52MjAxVFKEPwuhpPldaFA.jpeg" group-title="Classic TV",24/7 XENA WARRIOR PRINCESS (L)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XENA WARRIOR PRINCESS (L)" tvg-logo="https://cdn-images-1.medium.com/max/665/1*H52MjAxVFKEPwuhpPldaFA.jpeg" group-title="24/7",24/7 XENA WARRIOR PRINCESS (L)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99955
 
 
@@ -4664,11 +4599,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23060
 #EXTINF:-1 tvg-id="Movies!" tvg-name="Movies!" tvg-logo="" group-title="Movies",Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
-#EXTINF:-1 tvg-id="nbc-comedy-vault" tvg-name="nbc-comedy-vault" tvg-logo="" group-title="Comedy",NBC Comedy Vault
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="5f7794a788d29000079d2f07" group-title="Classic TV" tvg-logo="",The Love Boat
-https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
 
 
@@ -4949,8 +4880,7 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106468
 #EXTINF:-1 tvg-id="metvwjlp.us" tvg-name="ME TV" tvg-logo="https://lh3.googleusercontent.com/hT14HsUjQeY8deKpoRMzOlkEeTljvZWfPAsl4u2Rw7abhyUMLvb053_w1p25C8twDcuD" group-title="NETWORK TV",ME TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w" group-title="Classic TV" ,TV Land
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
+
 
 #EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="TV LAND" tvg-logo="http://primestreamstv.com/logos/TVLand.png" group-title="NETWORK TV",TV LAND
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
@@ -5801,3 +5731,108 @@ https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="C99.210.ersatztv.org" channel-id="YRDbcKBUNUKZO3xLiFZSpQ" channel-number="99" CUID="YRDbcKBUNUKZO3xLiFZSpQ" tvg-chno="99" tvg-name="Vault-Tec" tvg-logo="http://100.74.98.51:8409/iptv/logos/C03546577767047917D91494E43BA70B.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Vault-Tec
+http://100.74.98.51:8409/iptv/channel/99.ts
+#EXTINF:0 tvg-id="C100.241.ersatztv.org" channel-id="lKd4YXy_BEewu1ewM8KZCA" channel-number="100" CUID="lKd4YXy_BEewu1ewM8KZCA" tvg-chno="100" tvg-name="Cartoon Classics" tvg-logo="http://100.74.98.51:8409/iptv/logos/B65126A27B26EA8594C84BBA6F086387.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cartoon Classics
+http://100.74.98.51:8409/iptv/channel/100.m3u8
+#EXTINF:0 tvg-id="C103.244.ersatztv.org" channel-id="bbsgcNsbEE2FlFKTgsoC_g" channel-number="103" CUID="bbsgcNsbEE2FlFKTgsoC_g" tvg-chno="103" tvg-name="Monkees'n'stuf" tvg-logo="http://100.74.98.51:8409/iptv/logos/C7CDB4D6FB00702D798707B6162EA0D4.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Monkees'n'stuf
+http://100.74.98.51:8409/iptv/channel/103.m3u8
+#EXTINF:0 tvg-id="C105.246.ersatztv.org" channel-id="DNEJy347lECv1-2v485a-Q" channel-number="105" CUID="DNEJy347lECv1-2v485a-Q" tvg-chno="105" tvg-name="Thunderbirds" tvg-logo="http://100.74.98.51:8409/iptv/logos/7F9EC01624590ECA5791479BA9D1C076.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Thunderbirds
+http://100.74.98.51:8409/iptv/channel/105.m3u8
+#EXTINF:0 tvg-id="C110.242.ersatztv.org" channel-id="Ti2aAVodL0OBccEwqeKrKQ" channel-number="110" CUID="Ti2aAVodL0OBccEwqeKrKQ" tvg-chno="110" tvg-name="Atomic TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/5B709FF51654FAE5D51F3EE5408D0065.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Atomic TV
+http://100.74.98.51:8409/iptv/channel/110.m3u8
+#EXTINF:0 tvg-id="C115.247.ersatztv.org" channel-id="S4HVmGekGEG2fauukUB5UA" channel-number="115" CUID="S4HVmGekGEG2fauukUB5UA" tvg-chno="115" tvg-name="Outer Zone" tvg-logo="http://100.74.98.51:8409/iptv/logos/949D52225411FDBBE5E04212376AA991.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Outer Zone
+http://100.74.98.51:8409/iptv/channel/115.m3u8
+#EXTINF:0 tvg-id="C120.243.ersatztv.org" channel-id="m7biASL_c0-G1HMZP9j-FQ" channel-number="120" CUID="m7biASL_c0-G1HMZP9j-FQ" tvg-chno="120" tvg-name="Spooky TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/D746E8B9C6BDA7D5F4664582181101C7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Spooky TV
+http://100.74.98.51:8409/iptv/channel/120.m3u8
+#EXTINF:0 tvg-id="C130.244.ersatztv.org" channel-id="hLIbnKXVjUWrCTSspypiBg" channel-number="130" CUID="hLIbnKXVjUWrCTSspypiBg" tvg-chno="130" tvg-name="Classic Vault" tvg-logo="http://100.74.98.51:8409/iptv/logos/23FCAA09C905EB6A9F408B17B322B28D.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Classic Vault
+http://100.74.98.51:8409/iptv/channel/130.m3u8
+#EXTINF:0 tvg-id="C132.246.ersatztv.org" channel-id="Ocpwzdudzk6FUNoK3dc34Q" channel-number="132" CUID="Ocpwzdudzk6FUNoK3dc34Q" tvg-chno="132" tvg-name="Yesteryear" tvg-logo="http://100.74.98.51:8409/iptv/logos/C4D9E0D562BD85AB52247DB417BA2E8C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Yesteryear
+http://100.74.98.51:8409/iptv/channel/132.m3u8
+#EXTINF:0 tvg-id="C135.249.ersatztv.org" channel-id="1rUCIVsTQ0idj8WIoJEaDg" channel-number="135" CUID="1rUCIVsTQ0idj8WIoJEaDg" tvg-chno="135" tvg-name="Magic Television" tvg-logo="http://100.74.98.51:8409/iptv/logos/D91189F7EF8BC118AF211A10EF1008F7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Magic Television
+http://100.74.98.51:8409/iptv/channel/135.m3u8
+#EXTINF:0 tvg-id="C137.251.ersatztv.org" channel-id="hJ3qkdnj7U2PRdO22ea2Mg" channel-number="137" CUID="hJ3qkdnj7U2PRdO22ea2Mg" tvg-chno="137" tvg-name="DejaView" tvg-logo="http://100.74.98.51:8409/iptv/logos/98C9132F6D81B6CB3679D36AB38B8810.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", DejaView
+http://100.74.98.51:8409/iptv/channel/137.m3u8
+#EXTINF:0 tvg-id="C140.245.ersatztv.org" channel-id="mz7CaKxutUiPYrDQbzs_HA" channel-number="140" CUID="mz7CaKxutUiPYrDQbzs_HA" tvg-chno="140" tvg-name="Lost in Space" tvg-logo="http://100.74.98.51:8409/iptv/logos/2B0C298AFB6A329E12A3158E759C81FB.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Lost in Space
+http://100.74.98.51:8409/iptv/channel/140.m3u8
+#EXTINF:0 tvg-id="C150.246.ersatztv.org" channel-id="8N54kQbuAU2D1UcXya7-cQ" channel-number="150" CUID="8N54kQbuAU2D1UcXya7-cQ" tvg-chno="150" tvg-name="Gilligans Island" tvg-logo="http://100.74.98.51:8409/iptv/logos/964BF15EF2AA5458EFA4BA23077A8601.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Gilligans Island
+http://100.74.98.51:8409/iptv/channel/150.m3u8
+#EXTINF:0 tvg-id="C160.247.ersatztv.org" channel-id="AEkOsSftWkCe8j4lvW34Jg" channel-number="160" CUID="AEkOsSftWkCe8j4lvW34Jg" tvg-chno="160" tvg-name="Bewitched" tvg-logo="http://100.74.98.51:8409/iptv/logos/C178E83DFFD02CD68BEB3CBAB82AD654.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Bewitched
+http://100.74.98.51:8409/iptv/channel/160.m3u8
+#EXTINF:0 tvg-id="C170.248.ersatztv.org" channel-id="2mNnB8OKjkiYe-qUYqdZbA" channel-number="170" CUID="2mNnB8OKjkiYe-qUYqdZbA" tvg-chno="170" tvg-name="I Dream of Jeannie" tvg-logo="http://100.74.98.51:8409/iptv/logos/C512692D28A2077184ACA940CCA79611.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", I Dream of Jeannie
+http://100.74.98.51:8409/iptv/channel/170.m3u8
+#EXTINF:0 tvg-id="C180.249.ersatztv.org" channel-id="Mbb3Q9MSfEKeIc-IJV1Erw" channel-number="180" CUID="Mbb3Q9MSfEKeIc-IJV1Erw" tvg-chno="180" tvg-name="Get Smart" tvg-logo="http://100.74.98.51:8409/iptv/logos/ED4964DDEE577F831F57605D49B59399.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Get Smart
+http://100.74.98.51:8409/iptv/channel/180.m3u8
+#EXTINF:0 tvg-id="C190.250.ersatztv.org" channel-id="ODD02eY8j0ihpBcaKcFD2w" channel-number="190" CUID="ODD02eY8j0ihpBcaKcFD2w" tvg-chno="190" tvg-name="Happy Days" tvg-logo="http://100.74.98.51:8409/iptv/logos/D91917A1D081EEE6D365FDED6BDD3E97.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Happy Days
+http://100.74.98.51:8409/iptv/channel/190.m3u8
+#EXTINF:0 tvg-id="C200.242.ersatztv.org" channel-id="6CoVfPnzhkqjB59YBMmI0g" channel-number="200" CUID="6CoVfPnzhkqjB59YBMmI0g" tvg-chno="200" tvg-name="Wonder Woman" tvg-logo="http://100.74.98.51:8409/iptv/logos/083C1F61AEC6F0EB90A26518C22ED038.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Wonder Woman
+http://100.74.98.51:8409/iptv/channel/200.m3u8
+#EXTINF:0 tvg-id="C205.247.ersatztv.org" channel-id="V5kh6j1Z70CawjlfNtrRmQ" channel-number="205" CUID="V5kh6j1Z70CawjlfNtrRmQ" tvg-chno="205" tvg-name="Hero TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/F6AE152D474A09A6005AA078007419E1.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Hero TV
+http://100.74.98.51:8409/iptv/channel/205.m3u8
+#EXTINF:0 tvg-id="C208.250.ersatztv.org" channel-id="NZhaUfz7G0ejK8E8LooGXg" channel-number="208" CUID="NZhaUfz7G0ejK8E8LooGXg" tvg-chno="208" tvg-name="Retro 60s" tvg-logo="http://100.74.98.51:8409/iptv/logos/1805047A501B46C9C07FE0924C7E9808.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 60s
+http://100.74.98.51:8409/iptv/channel/208.m3u8
+#EXTINF:0 tvg-id="C210.243.ersatztv.org" channel-id="YknjvgSdOESXfLHNBeH1EA" channel-number="210" CUID="YknjvgSdOESXfLHNBeH1EA" tvg-chno="210" tvg-name="Retro 70s" tvg-logo="http://100.74.98.51:8409/iptv/logos/BA521AE7EDABD8311AF18DB93DEBE6E8.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 70s
+http://100.74.98.51:8409/iptv/channel/210.m3u8
+#EXTINF:0 tvg-id="C220.244.ersatztv.org" channel-id="O7niEsA4BkCaY4mQUpVWtg" channel-number="220" CUID="O7niEsA4BkCaY4mQUpVWtg" tvg-chno="220" tvg-name="Retro 80s" tvg-logo="http://100.74.98.51:8409/iptv/logos/E2B9B5A48D6E409B8A259C7CEF876EDC.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro 80s
+http://100.74.98.51:8409/iptv/channel/220.m3u8
+#EXTINF:0 tvg-id="C230.245.ersatztv.org" channel-id="pMzYG8F1MEmPlndGP-zU7w" channel-number="230" CUID="pMzYG8F1MEmPlndGP-zU7w" tvg-chno="230" tvg-name="Retro TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/5206E0F80800FA7D315F5E35D3E6C711.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro TV
+http://100.74.98.51:8409/iptv/channel/230.m3u8
+#EXTINF:0 tvg-id="C235.250.ersatztv.org" channel-id="kGD7RxFP2kuBGpUdzPjX3g" channel-number="235" CUID="kGD7RxFP2kuBGpUdzPjX3g" tvg-chno="235" tvg-name="MASH" tvg-logo="http://100.74.98.51:8409/iptv/logos/6CBCF78F2EBAAB2DC77CA9CAEC8A4B8B.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MASH
+http://100.74.98.51:8409/iptv/channel/235.m3u8
+#EXTINF:0 tvg-id="C237.252.ersatztv.org" channel-id="ElrWr8HbQEKMMxh_pz8ciQ" channel-number="237" CUID="ElrWr8HbQEKMMxh_pz8ciQ" tvg-chno="237" tvg-name="Sarge & Laugh" tvg-logo="http://100.74.98.51:8409/iptv/logos/58950F2A31443ABA032E8935A525E8B6.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Sarge & Laugh
+http://100.74.98.51:8409/iptv/channel/237.m3u8
+#EXTINF:0 tvg-id="C240.246.ersatztv.org" channel-id="b7kvvCX56EC4f9vEBrVNuA" channel-number="240" CUID="b7kvvCX56EC4f9vEBrVNuA" tvg-chno="240" tvg-name="Retro Sci Fi" tvg-logo="http://100.74.98.51:8409/iptv/logos/8F5D9F34B2DD5CE641691010E9820D7A.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro Sci Fi
+http://100.74.98.51:8409/iptv/channel/240.m3u8
+#EXTINF:0 tvg-id="C245.251.ersatztv.org" channel-id="x6CdbxukbUa7RT3Yb0Y5_A" channel-number="245" CUID="x6CdbxukbUa7RT3Yb0Y5_A" tvg-chno="245" tvg-name="Elvira" tvg-logo="http://100.74.98.51:8409/iptv/logos/3D574495F5283D145C44E8E1548B796C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Elvira
+http://100.74.98.51:8409/iptv/channel/245.m3u8
+#EXTINF:0 tvg-id="C246.252.ersatztv.org" channel-id="_WRObU_-AEStTUPad-D1Mw" channel-number="246" CUID="_WRObU_-AEStTUPad-D1Mw" tvg-chno="246" tvg-name="Matinee Movies" tvg-logo="http://100.74.98.51:8409/iptv/logos/6A2E1A302921A8A66BE5B16500F85838.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Matinee Movies
+http://100.74.98.51:8409/iptv/channel/246.m3u8
+#EXTINF:0 tvg-id="C247.253.ersatztv.org" channel-id="5L7VESWtx0epuKjo9gPN3Q" channel-number="247" CUID="5L7VESWtx0epuKjo9gPN3Q" tvg-chno="247" tvg-name="Drive-In" tvg-logo="http://100.74.98.51:8409/iptv/logos/A171765832B1C28DD0592464228C1F8C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Drive-In
+http://100.74.98.51:8409/iptv/channel/247.m3u8
+#EXTINF:0 tvg-id="C248.254.ersatztv.org" channel-id="31w2MWHypUu6li12MbTdoQ" channel-number="248" CUID="31w2MWHypUu6li12MbTdoQ" tvg-chno="248" tvg-name="Midnight Movies" tvg-logo="http://100.74.98.51:8409/iptv/logos/458AF8EFA0B56319B5A5B18CC535DEFF.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Midnight Movies
+http://100.74.98.51:8409/iptv/channel/248.m3u8
+#EXTINF:0 tvg-id="C249.255.ersatztv.org" channel-id="MOfEPNWBdEqAiUkVZQU0_g" channel-number="249" CUID="MOfEPNWBdEqAiUkVZQU0_g" tvg-chno="249" tvg-name="Movie Favourites" tvg-logo="http://100.74.98.51:8409/iptv/logos/134FEC2BA51174529D4B5618E19FC952.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Movie Favourites
+http://100.74.98.51:8409/iptv/channel/249.m3u8
+#EXTINF:0 tvg-id="C250.247.ersatztv.org" channel-id="HqjWsigakEK2vT8tkCyV8Q" channel-number="250" CUID="HqjWsigakEK2vT8tkCyV8Q" tvg-chno="250" tvg-name="Countdown" tvg-logo="http://100.74.98.51:8409/iptv/logos/9ED6F237F6500779ACEEB04D007B47DD.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Countdown
+http://100.74.98.51:8409/iptv/channel/250.m3u8
+#EXTINF:0 tvg-id="C260.248.ersatztv.org" channel-id="pfKU1YSpFk6nCkFX3-Kjcw" channel-number="260" CUID="pfKU1YSpFk6nCkFX3-Kjcw" tvg-chno="260" tvg-name="MTV" tvg-logo="http://100.74.98.51:8409/iptv/logos/4F0CDB4845FBAA1C76FE715999D3F610.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV
+http://100.74.98.51:8409/iptv/channel/260.ts
+#EXTINF:0 tvg-id="C270.249.ersatztv.org" channel-id="F7WAeNHcKkGx85pZp5kC_g" channel-number="270" CUID="F7WAeNHcKkGx85pZp5kC_g" tvg-chno="270" tvg-name="MTV Punk" tvg-logo="http://100.74.98.51:8409/iptv/logos/63FA7FFEACD77161652D4B3691425B61.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MTV Punk
+http://100.74.98.51:8409/iptv/channel/270.ts
+#EXTINF:0 tvg-id="C295.256.ersatztv.org" channel-id="WYdO5u6qKEu2mGPEYvi8yQ" channel-number="295" CUID="WYdO5u6qKEu2mGPEYvi8yQ" tvg-chno="295" tvg-name="The Simpsons" tvg-logo="http://100.74.98.51:8409/iptv/logos/400C0788CD253427947C866250CF84B7.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Simpsons
+http://100.74.98.51:8409/iptv/channel/295.m3u8
+#EXTINF:0 tvg-id="C300.243.ersatztv.org" channel-id="Pqse9maYb0mhDsRiFA-O8g" channel-number="300" CUID="Pqse9maYb0mhDsRiFA-O8g" tvg-chno="300" tvg-name="Big Bang Theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Big Bang Theory
+http://100.74.98.51:8409/iptv/channel/300.m3u8
+#EXTINF:0 tvg-id="C310.244.ersatztv.org" channel-id="GMokDFNLEUSNGDYJlDJtuQ" channel-number="310" CUID="GMokDFNLEUSNGDYJlDJtuQ" tvg-chno="310" tvg-name="Modern Family" tvg-logo="http://100.74.98.51:8409/iptv/logos/88EA643CC3AE95FC68B4C6A6F829A8E6.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Modern Family
+http://100.74.98.51:8409/iptv/channel/310.m3u8
+#EXTINF:0 tvg-id="C315.249.ersatztv.org" channel-id="P2WMIl9pSE-wmb_8vqwG6g" channel-number="315" CUID="P2WMIl9pSE-wmb_8vqwG6g" tvg-chno="315" tvg-name="The Office" tvg-logo="http://100.74.98.51:8409/iptv/logos/64F539539B6B38A69EC89C4930641357.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", The Office
+http://100.74.98.51:8409/iptv/channel/315.m3u8
+#EXTINF:0 tvg-id="C320.245.ersatztv.org" channel-id="uq99VyqFVUuPJ8V-Tz-4rQ" channel-number="320" CUID="uq99VyqFVUuPJ8V-Tz-4rQ" tvg-chno="320" tvg-name="Parks and Recreation" tvg-logo="http://100.74.98.51:8409/iptv/logos/D1CAE0F239BDE3CE0F3D7DDFEF8535D5.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Parks and Recreation
+http://100.74.98.51:8409/iptv/channel/320.m3u8
+#EXTINF:0 tvg-id="C325.250.ersatztv.org" channel-id="ha-ERs2X-kqrrsUkkiVlxw" channel-number="325" CUID="ha-ERs2X-kqrrsUkkiVlxw" tvg-chno="325" tvg-name="Friends" tvg-logo="http://100.74.98.51:8409/iptv/logos/B18863D0FD8EC97290D7E60D53996C31.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Friends
+http://100.74.98.51:8409/iptv/channel/325.ts
+#EXTINF:0 tvg-id="C330.246.ersatztv.org" channel-id="b07jZ2o9WUGIIyRSMfqEmA" channel-number="330" CUID="b07jZ2o9WUGIIyRSMfqEmA" tvg-chno="330" tvg-name="How I Met Your Mother" tvg-logo="http://100.74.98.51:8409/iptv/logos/F760A04B4BFC7AC1D2BBC0FC46FC4C31.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", How I Met Your Mother
+http://100.74.98.51:8409/iptv/channel/330.m3u8
+#EXTINF:0 tvg-id="C335.251.ersatztv.org" channel-id="ygjif0CrCUWfChLPM9HDdg" channel-number="335" CUID="ygjif0CrCUWfChLPM9HDdg" tvg-chno="335" tvg-name="Mad Men" tvg-logo="http://100.74.98.51:8409/iptv/logos/79342AC706661182C4AB5408E2E28101.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Mad Men
+http://100.74.98.51:8409/iptv/channel/335.m3u8
+#EXTINF:0 tvg-id="C340.247.ersatztv.org" channel-id="kLcqu7F_pEanXzwjjRZHDA" channel-number="340" CUID="kLcqu7F_pEanXzwjjRZHDA" tvg-chno="340" tvg-name="Suits" tvg-logo="http://100.74.98.51:8409/iptv/logos/258410A5791848AFED8D88D8B6C28B51.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Suits
+http://100.74.98.51:8409/iptv/channel/340.m3u8
