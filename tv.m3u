@@ -24,6 +24,8 @@ http://192.168.1.200:8409/iptv/channel/135.m3u8
 http://192.168.1.200:8409/iptv/channel/137.m3u8
 #EXTINF:0 tvg-id="C138.252.ersatztv.org" channel-id="tjYr5889UkeGNzqM3NYOyQ" channel-number="138" CUID="tjYr5889UkeGNzqM3NYOyQ" tvg-chno="138" tvg-name="Andy Griffith" tvg-logo="http://192.168.1.200:8409/iptv/logos/9A0E46AE1A89BFD355FEFF06DAF3E791.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Andy Griffith
 http://192.168.1.200:8409/iptv/channel/138.m3u8
+#EXTINF:0 tvg-id="C139.253.ersatztv.org" channel-id="w6OQTzApeky0EAIdS-GV1g" channel-number="139" CUID="w6OQTzApeky0EAIdS-GV1g" tvg-chno="139" tvg-name="Dick Van Dyke" tvg-logo="http://192.168.1.200:8409/iptv/logos/AC27FBBAC383B145EB422858DB2C0A90.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Dick Van Dyke
+http://192.168.1.200:8409/iptv/channel/139.m3u8
 #EXTINF:0 tvg-id="C140.245.ersatztv.org" channel-id="mz7CaKxutUiPYrDQbzs_HA" channel-number="140" CUID="mz7CaKxutUiPYrDQbzs_HA" tvg-chno="140" tvg-name="Lost in Space" tvg-logo="http://192.168.1.200:8409/iptv/logos/2B0C298AFB6A329E12A3158E759C81FB.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Lost in Space
 http://192.168.1.200:8409/iptv/channel/140.m3u8
 #EXTINF:0 tvg-id="C150.246.ersatztv.org" channel-id="8N54kQbuAU2D1UcXya7-cQ" channel-number="150" CUID="8N54kQbuAU2D1UcXya7-cQ" tvg-chno="150" tvg-name="Gilligans Island" tvg-logo="http://192.168.1.200:8409/iptv/logos/964BF15EF2AA5458EFA4BA23077A8601.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Gilligans Island
@@ -6194,6 +6196,8 @@ http://100.74.98.51:8409/iptv/channel/135.m3u8
 http://100.74.98.51:8409/iptv/channel/137.m3u8
 #EXTINF:0 tvg-id="C138.252.ersatztv.org" channel-id="tjYr5889UkeGNzqM3NYOyQ" channel-number="138" CUID="tjYr5889UkeGNzqM3NYOyQ" tvg-chno="138" tvg-name="Andy Griffith" tvg-logo="http://100.74.98.51:8409/iptv/logos/9A0E46AE1A89BFD355FEFF06DAF3E791.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Andy Griffith
 http://100.74.98.51:8409/iptv/channel/138.m3u8
+#EXTINF:0 tvg-id="C139.253.ersatztv.org" channel-id="w6OQTzApeky0EAIdS-GV1g" channel-number="139" CUID="w6OQTzApeky0EAIdS-GV1g" tvg-chno="139" tvg-name="Dick Van Dyke" tvg-logo="http://100.74.98.51:8409/iptv/logos/AC27FBBAC383B145EB422858DB2C0A90.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Dick Van Dyke
+http://100.74.98.51:8409/iptv/channel/139.m3u8
 #EXTINF:0 tvg-id="C140.245.ersatztv.org" channel-id="mz7CaKxutUiPYrDQbzs_HA" channel-number="140" CUID="mz7CaKxutUiPYrDQbzs_HA" tvg-chno="140" tvg-name="Lost in Space" tvg-logo="http://100.74.98.51:8409/iptv/logos/2B0C298AFB6A329E12A3158E759C81FB.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Lost in Space
 http://100.74.98.51:8409/iptv/channel/140.m3u8
 #EXTINF:0 tvg-id="C150.246.ersatztv.org" channel-id="8N54kQbuAU2D1UcXya7-cQ" channel-number="150" CUID="8N54kQbuAU2D1UcXya7-cQ" tvg-chno="150" tvg-name="Gilligans Island" tvg-logo="http://100.74.98.51:8409/iptv/logos/964BF15EF2AA5458EFA4BA23077A8601.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Gilligans Island
