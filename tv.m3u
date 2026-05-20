@@ -122,7 +122,7 @@ https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons (SD)
 https://tvpass.org/live/metv-toons/sd
 
-#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" group-title="Classic TV",MeTV
 #EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/345
 
@@ -139,7 +139,7 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTVLCOPT:network-caching=1000
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="metvplus.us" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
+#EXTINF:-1 xui-id="MeTV.Plus.us2" tvg-id="metvplus.us" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
 #EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/414
 
