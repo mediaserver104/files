@@ -139,7 +139,7 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTVLCOPT:network-caching=1000
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
-#EXTINF:-1 xui-id="MeTV.Plus.us2" tvg-id="Me.TV.Network.us2" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
+#EXTINF:-1 xui-id="MeTV.Plus.us2" tvg-id="MeTV.Plus.us2" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
 #EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/414
 
