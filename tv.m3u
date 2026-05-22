@@ -184,6 +184,8 @@ https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ad
 #EXTINF:-1 tvg-logo="https://www.vpforums.org/index.php?app=downloads&module=display&section=screenshot&record=26277&id=8704&full=1" group-title="Classic TV",The Addams Family
 https://linear-1146.frequency.stream/dist/tcltv/1146/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
+#EXTINF:-1 tvg-id="60f75178e7f8aa0007e9c259" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="Classic TV",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 
 #EXTINF:-1 group-title="Classic TV",The Dick Van Dyke Show
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884544/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884544&ads.xumo_streamId=88884544&declaredCC1Language=en&ads.caid=DickVanDyke&ads.csid=tcl2_us_thedickvandykeshow_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=DickVanDyke&ads.xumo_providerId=5&ads.xumo_providerName=DickVanDyke&ads.xumo_channelName=DickVanDyke&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
@@ -6162,18 +6164,15 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/751
 http://lordstreams.live:80/mszala@comcast.net/0323910031/745
 
 
-#EXTINF:-1 tvg-id="BeverlyHillbillies.us@US" tvg-logo="https://i.imgur.com/OV9hT93.png" group-title="Classic TV",Beverly Hillbillies
+#EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://i.imgur.com/OV9hT93.png" group-title="Classic TV",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
-#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="Classic TV",Family Ties
+#EXTINF:-1 tvg-id="5f77939a630f530007dde654" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="Classic TV",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@UK" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
+#EXTINF:-1 tvg-id="5dbc2f98777f2e0009934ae7" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Documentay & History",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
-https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-#EXTINF:-1 tvg-id="TheAddamsFamily.us@SD" tvg-logo="https://i.imgur.com/Bl8X7EW.png" group-title="Classic TV",The Addams Family
+#EXTINF:-1 tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://i.imgur.com/Bl8X7EW.png" group-title="Classic TV",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="Classic TV",The Andy Griffith Show
-https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
 
 
 
