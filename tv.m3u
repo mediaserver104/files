@@ -139,7 +139,7 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTVLCOPT:network-caching=1000
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 
-#EXTINF:-1 xui-id="MeTV.Plus.us2" tvg-id="metvplus.us" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
+#EXTINF:-1 xui-id="MeTV.Plus.us2" tvg-id="Me.TV.Network.us2" tvg-name="USA MeTV Plus" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-title="Classic TV",USA MeTV Plus
 #EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/414
 
@@ -6162,7 +6162,18 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/751
 http://lordstreams.live:80/mszala@comcast.net/0323910031/745
 
 
-
+#EXTINF:-1 tvg-id="BeverlyHillbillies.us@US" tvg-logo="https://i.imgur.com/OV9hT93.png" group-title="Classic TV",Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+#EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="Classic TV",Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.us@UK" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 tvg-id="TheAddamsFamily.us@SD" tvg-logo="https://i.imgur.com/Bl8X7EW.png" group-title="Classic TV",The Addams Family
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="Classic TV",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 
 
 
