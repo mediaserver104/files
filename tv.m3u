@@ -130,7 +130,10 @@ https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons (SD)
 https://tvpass.org/live/metv-toons/sd
 
-#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" tvg-shift="-3" group-title="Classic TV",MeTV
+#EXTINF:-1 tvg-id="Nicktoons-east" group-title="Classic TV",Nicktoons
+https://tvpass.org/live/NicktoonsEast/hd
+
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" tvg-shift="-3" timeshift="-3" group-title="Classic TV",MeTV
 #EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/345
 
