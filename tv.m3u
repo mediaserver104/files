@@ -6301,3 +6301,993 @@ http://100.74.98.51:8409/iptv/channel/350.m3u8
 http://100.74.98.51:8409/iptv/channel/355.m3u8
 #EXTINF:0 tvg-id="C360.249.ersatztv.org" channel-id="SG9N_MFd6Uqw8NAacAgtEA" channel-number="360" CUID="SG9N_MFd6Uqw8NAacAgtEA" tvg-chno="360" tvg-name="X-Files" tvg-logo="http://100.74.98.51:8409/iptv/logos/51C9F7B6F38A10EBBE718BED6A489255.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", X-Files
 http://100.74.98.51:8409/iptv/channel/360.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M*A*S*H" tvg-logo="" group-title="24/7 CHANNELS ",24/7 M*A*S*H
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324796
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cocomelon" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Cocomelon
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324797
+#EXTINF:-1 tvg-id="" tvg-name="24/7 YELLOWSTONE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 YELLOWSTONE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324798
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIN DIESEL MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 VIN DIESEL MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324799
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) The Haunting of Hill House" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) The Haunting of Hill House
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324800
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rules of Engagement" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Rules of Engagement
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324801
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago PD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Chicago PD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324802
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (Latin) CANTINFLAS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (Latin) CANTINFLAS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324803
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (Latin) CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (Latin) CORAJE EL PERRO COBARDE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324804
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (Latin) Los Picapiedra" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (Latin) Los Picapiedra
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324805
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) The Orville" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) The Orville
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324806
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Nicht zucken" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Nicht zucken
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324807
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Monster" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Monster
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324808
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Dynasties" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Dynasties
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324809
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Der Prinzr Drachen" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Der Prinzr Drachen
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324810
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Deadly Class" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Deadly Class
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324811
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Chernobyl" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Chernobyl
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324812
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) The Order" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) The Order
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324813
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Theuce" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Theuce
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324814
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) The Boys" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) The Boys
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324815
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Sweetbitter" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Sweetbitter
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324816
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) S.W.A.T" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) S.W.A.T
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324817
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Succession" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Succession
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324818
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Stranger Things" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Stranger Things
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324819
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) SMILF" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) SMILF
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324820
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Smallville" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Smallville
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324821
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Siren" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Siren
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324822
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Sharp Objects" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Sharp Objects
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324823
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Salvation" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Salvation
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324824
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Quicksand" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Quicksand
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324825
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Plan Coeur" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Plan Coeur
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324826
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Pine Gap" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Pine Gap
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324827
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Peaky Blinders" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Peaky Blinders
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324828
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Paradise PD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Paradise PD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324829
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) No Good Nick" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) No Good Nick
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324830
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Narcos" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Narcos
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324831
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Mysterious Mermaids" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Mysterious Mermaids
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324832
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Mr.Mercedes" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Mr.Mercedes
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324833
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Mr.Iglesias" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Mr.Iglesias
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Missions" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Missions
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324835
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Marvels The Punisher" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Marvels The Punisher
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324836
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Marvels Thefenders" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Marvels Thefenders
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324837
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Marvels Spiderman" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Marvels Spiderman
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324838
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Marvels Inhumans" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Marvels Inhumans
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324839
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Marvels Cloak and Dagger" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Marvels Cloak and Dagger
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324840
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Maniac" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Maniac
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324841
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Magnum P.I" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Magnum P.I
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324842
+#EXTINF:-1 tvg-id="" tvg-name="ath & Robots" tvg-logo="" group-title="24/7" - 24/7 (DE) Love,ath & Robots" tvg-logo="" group-title="24/7 CHANNELS ",ath & Robots" tvg-logo="" group-title="24/7" - 24/7 (DE) Love,ath & Robots
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324843
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Lost in Space" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Lost in Space
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Lore" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Lore
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324845
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Legion" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Legion
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Last Hope" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Last Hope
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324847
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Krypton" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Krypton
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324848
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Knightfall" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Knightfall
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324849
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Killing Eve" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Killing Eve
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324850
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Insatiable" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Insatiable
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324851
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Good Omens" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Good Omens
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324852
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Game of Thrones" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Game of Thrones
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324853
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Traitors" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Traitors
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) The End of the Fucking World" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) The End of the Fucking World
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324855
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Bodyguard" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Bodyguard
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324856
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (DE) Altered Carbon" tvg-logo="" group-title="24/7 CHANNELS ",24/7 (DE) Altered Carbon
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324857
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vera" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Vera
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324858
+#EXTINF:-1 tvg-id="" tvg-name="24/7 True Detective" tvg-logo="" group-title="24/7 CHANNELS ",24/7 True Detective
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324859
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Torchwood" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Torchwood
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324860
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Unit" tvg-logo="" group-title="24/7 CHANNELS ",24/7 The Unit
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324861
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Tudors" tvg-logo="" group-title="24/7 CHANNELS ",24/7 The Tudors
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324862
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Real Hustle" tvg-logo="" group-title="24/7 CHANNELS ",24/7 The Real Hustle
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324863
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The island with Bear Grylls" tvg-logo="" group-title="24/7 CHANNELS ",24/7 The island with Bear Grylls
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324864
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Dukes Of Hazzard" tvg-logo="" group-title="24/7 CHANNELS ",24/7 The Dukes Of Hazzard
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 That 70s Show" tvg-logo="" group-title="24/7 CHANNELS ",24/7 That 70s Show
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Taken (2002)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Taken (2002)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shameless" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Shameless
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rules of Engagement" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Rules of Engagement
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324869
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rome" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Rome
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324870
+#EXTINF:-1 tvg-id="" tvg-name="24/7 OZ" tvg-logo="" group-title="24/7 CHANNELS ",24/7 OZ
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324871
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS New Orleans" tvg-logo="" group-title="24/7 CHANNELS ",24/7 NCIS New Orleans
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324872
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="" group-title="24/7 CHANNELS ",24/7 NCIS Los Angeles
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324873
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Mr. Bean
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324874
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Moonlighting" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Moonlighting
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324875
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Money Heist" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Money Heist
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324876
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Misfits" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Misfits
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324877
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Midsomer Murders" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Midsomer Murders
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324878
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Medium" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Medium
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324879
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Magnum P.I (1980)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Magnum P.I (1980)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324880
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mafiosa" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Mafiosa
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Madam Secretary" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Madam Secretary
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mad Men" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Mad Men
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324883
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver (1985)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MacGyver (1985)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackass" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Jackass
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324885
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Its Always Sunny in Philadelphia" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Its Always Sunny in Philadelphia
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 House" tvg-logo="" group-title="24/7 CHANNELS ",24/7 House
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Hannah Montana
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324888
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Graceland" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Graceland
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324889
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gossip Girl" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Gossip Girl
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fringe" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Fringe
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Forever (US)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Forever (US)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Firefly" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Firefly
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fargo" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Fargo
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Derek" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Derek
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demolition Man" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Demolition Man
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324896
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death in Paradise" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Death in Paradise
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324897
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI New York" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CSI New York
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI Cyber" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CSI Cyber
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CSI
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Constantine" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Constantine
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago PD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Chicago PD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324902
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Chicago Fire
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Call The Midwife" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Call The Midwife
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boston Legal" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Boston Legal
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black-ish" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Black-ish
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324906
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bitten" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Bitten
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ballers" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Ballers
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324908
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Anne with an E" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Anne with an E
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animal Kingdom US" tvg-logo="" group-title="24/7 CHANNELS ",24/7 Animal Kingdom US
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 7th Heaven" tvg-logo="" group-title="24/7 CHANNELS ",24/7 7th Heaven
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324911
+#EXTINF:-1 tvg-id="" tvg-name="24/7 30 Rock" tvg-logo="" group-title="24/7 CHANNELS ",24/7 30 Rock
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324912
+#EXTINF:-1 tvg-id="" tvg-name="24/7 2 Broke Girls" tvg-logo="" group-title="24/7 CHANNELS ",24/7 2 Broke Girls
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324913
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWILIGHT (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TWILIGHT (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRANSFORMERS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TRANSFORMERS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324915
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE AVENGERS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE AVENGERS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324916
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPERMAN (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SUPERMAN (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324917
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR WARS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR WARS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324918
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324919
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROCKY (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324920
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RAMBO (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RAMBO (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324921
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PREDATOR/ALIENS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PREDATOR/ALIENS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324922
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PIRATES OF THE CARIBBEAN (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PIRATES OF THE CARIBBEAN (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324923
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PASSE-PARTOUT (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PASSE-PARTOUT (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324924
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARVEL (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MARVEL (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LORD OF THE RINGS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LORD OF THE RINGS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LETHAL WEAPON (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LETHAL WEAPON (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324927
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JURASSIC PARK (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JURASSIC PARK (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324928
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JCVD (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JCVD (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324929
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JAWS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JAWS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JASON BOURNE (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JASON BOURNE (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324931
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INDIANA JONES (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 INDIANA JONES (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324932
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HARRY POTTER (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324933
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GENDARME DE SAINT-TOPEZ (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GENDARME DE SAINT-TOPEZ (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAST & FURIOUS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FAST & FURIOUS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324935
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY FILMS (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DISNEY FILMS (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324936
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DIE HARD (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DIE HARD (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324937
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BRUCE LEE (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BRUCE LEE (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324938
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLADE (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BLADE (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324939
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BATMAN (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324940
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ASTERIX (FR)" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ASTERIX (FR)
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324941
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WRESTLEMANIA" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WRESTLEMANIA
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324942
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SESAME STREET" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SESAME STREET
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324943
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WKRP" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WKRP
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324944
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LETTERKENNY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LETTERKENNY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324945
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WILL AND GRACE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WILL AND GRACE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324946
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WICKED TUNA" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WICKED TUNA
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324947
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WELCOME BACK KOTTER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WELCOME BACK KOTTER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324948
+#EXTINF:-1 tvg-id="" tvg-name="24/7 UFC" tvg-logo="" group-title="24/7 CHANNELS ",24/7 UFC
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324949
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWO AND A HALF MEN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TWO AND A HALF MEN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324950
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRAILER PARK BOYS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TRAILER PARK BOYS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324951
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOSH.0" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TOSH.0
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324952
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOP GEAR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TOP GEAR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324953
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCATS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THUNDERCATS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324954
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THREE'S COMPANY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THREE'S COMPANY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324955
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WONDER YEARS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE WONDER YEARS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324956
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE WALKING DEAD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324957
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TIMBER KINGS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TIMBER KINGS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324958
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE TWILIGHT ZONE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE TWILIGHT ZONE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324959
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SOPRANOS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE SOPRANOS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324960
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE RANCH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE RANCH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324961
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE OFFICE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE OFFICE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324962
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE NANNY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE NANNY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324963
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MUNSTERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE MUNSTERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324964
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE LOVE BOAT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE LOVE BOAT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324965
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KING OF QUEENS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 KING OF QUEENS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324966
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE JEFFERSONS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE JEFFERSONS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324967
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOLDEN GIRLS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE GOLDEN GIRLS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324968
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOLDBERGS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE GOLDBERGS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324969
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FIRST 48HRS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE FIRST 48HRS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324970
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE COSBY SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE COSBY SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324971
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE CONNERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE CONNERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE CAROL BURNETT SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE CAROL BURNETT SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324973
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BOB NEWHART SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE BOB NEWHART SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324974
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BLUE PLANET" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE BLUE PLANET
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324975
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIONIC WOMAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE BIONIC WOMAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324976
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE BIG BANG THEORY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324977
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BEVERLY HILLBILLIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE BEVERLY HILLBILLIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324978
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE ANDY GRIFFITH SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE ANDY GRIFFITH SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324979
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE ADAMS FAMILY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE ADAMS FAMILY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324980
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE A TEAM" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE A TEAM
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324981
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TAXI" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TAXI
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TALES FROM THE CRYPT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TALES FROM THE CRYPT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324983
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STREET OUTLAWS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STREET OUTLAWS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STORAGE HUNTERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STORAGE HUNTERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324985
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK VOYAGER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK VOYAGER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324986
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK DISCOVERY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK DISCOVERY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324987
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK DEEP SPACE NINE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK DEEP SPACE NINE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324988
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324989
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SOUTH PARK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SOUTH PARK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324990
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SOUTH BEACH TOWING" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SOUTH BEACH TOWING
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324991
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SIX MILLION DOLLAR MAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SIX MILLION DOLLAR MAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324992
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SIMPSONS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SIMPSONS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324993
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERLOCK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SHERLOCK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324994
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHE-RA: PRINCESS OF POWER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SHE-RA: PRINCESS OF POWER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324995
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHARK TANK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SHARK TANK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324996
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAW & ORDER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LAW & ORDER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324997
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCAM CITY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SCAM CITY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324998
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SEX IN THE CITY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SEX IN THE CITY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/324999
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAVED BY THE BELL" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SAVED BY THE BELL
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325000
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SANFORD AND SON" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SANFORD AND SON
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325001
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SEINFELD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SEINFELD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325002
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASTERCHEF" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MASTERCHEF
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325003
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROSEANNE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROSEANNE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325004
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RIDICULOUSNESS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RIDICULOUSNESS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325005
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RICK AND MORTY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RICK AND MORTY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325006
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RED GREEN SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RED GREEN SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325007
+#EXTINF:-1 tvg-id="" tvg-name="24/7 REBA" tvg-logo="" group-title="24/7 CHANNELS ",24/7 REBA
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325008
+#EXTINF:-1 tvg-id="" tvg-name="24/7 QUANTUM LEAP" tvg-logo="" group-title="24/7 CHANNELS ",24/7 QUANTUM LEAP
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325009
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRISON BREAK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PRISON BREAK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325010
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 POWER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325011
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PLANET EARTH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PLANET EARTH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325012
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PERFECT STRANGERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PERFECT STRANGERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325013
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEAKY BLINDERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PEAKY BLINDERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325014
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAWN STARS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PAWN STARS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325015
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PARKS AND RECREATION" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PARKS AND RECREATION
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 OUTER LIMITS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 OUTER LIMITS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325017
+#EXTINF:-1 tvg-id="" tvg-name="24/7 OVERHAULING" tvg-logo="" group-title="24/7 CHANNELS ",24/7 OVERHAULING
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SAW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325019
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NIGHT COURT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 NIGHT COURT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325020
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NEWHART" tvg-logo="" group-title="24/7 CHANNELS ",24/7 NEWHART
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325021
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NAKED AND AFRAID" tvg-logo="" group-title="24/7 CHANNELS ",24/7 NAKED AND AFRAID
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325022
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MYTHBUSTERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MYTHBUSTERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325023
+#EXTINF:-1 tvg-id="" tvg-name="WHERE ARE YOU!" tvg-logo="" group-title="24/7" - 24/7 CAR 54, WHERE ARE YOU!" tvg-logo="" group-title="24/7 CHANNELS ",WHERE ARE YOU!" tvg-logo="" group-title="24/7" - 24/7 CAR 54, WHERE ARE YOU!
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325024
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MURDOCH MYSTERIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MURDOCH MYSTERIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325025
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COMEDY MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 COMEDY MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325026
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INTERVENTION" tvg-logo="" group-title="24/7 CHANNELS ",24/7 INTERVENTION
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325027
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MR BEAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325028
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOST HAUNTED" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MOST HAUNTED
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325029
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOST EXPENSIVEST" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MOST EXPENSIVEST
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325030
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOM" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MOM
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325031
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MODERN FAMILY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MODERN FAMILY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325032
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MELROSE PLACE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MELROSE PLACE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325033
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIKE & MOLLY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MIKE & MOLLY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325034
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIAMI VICE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MIAMI VICE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325035
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAYDAY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MAYDAY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325036
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARY TYLER MOORE SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MARY TYLER MOORE SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325037
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARTIN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MARTIN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325038
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MARRIED WITH CHILDREN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325039
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAN WITH A PLAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MAN WITH A PLAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325040
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAN VS FOOD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MAN VS FOOD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325041
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAMA'S FAMILY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MAMA'S FAMILY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325042
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAD ABOUT YOU" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MAD ABOUT YOU
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325043
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M*A*S*H*" tvg-logo="" group-title="24/7 CHANNELS ",24/7 M*A*S*H*
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325044
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOST IN SPACE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LOST IN SPACE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325045
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LIZARD LICK TOWING" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LIZARD LICK TOWING
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325046
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LIVING SINGLE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LIVING SINGLE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325047
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LITTLE HOUSE ON THE PRAIRIE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LITTLE HOUSE ON THE PRAIRIE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325048
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAST MAN STANDING" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LAST MAN STANDING
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325049
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KNIGHT RIDER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 KNIGHT RIDER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325050
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KITCHEN NIGHTMARES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 KITCHEN NIGHTMARES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325051
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KING OF THE HILL" tvg-logo="" group-title="24/7 CHANNELS ",24/7 KING OF THE HILL
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325052
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KEEPING UP WITH THE KARDASHIANS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 KEEPING UP WITH THE KARDASHIANS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325053
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUST FOR LAUGHS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JUST FOR LAUGHS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325054
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COBRA KAI" tvg-logo="" group-title="24/7 CHANNELS ",24/7 COBRA KAI
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325055
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INK MASTERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 INK MASTERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325056
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INCREDIBLE HULK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 INCREDIBLE HULK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325057
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IN LIVING COLOR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 IN LIVING COLOR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325058
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IMPRACTICAL JOKERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 IMPRACTICAL JOKERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325059
+#EXTINF:-1 tvg-id="" tvg-name="24/7 I LOVE LUCY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 I LOVE LUCY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325060
+#EXTINF:-1 tvg-id="" tvg-name="24/7 I DREAM OF JEANNIE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 I DREAM OF JEANNIE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325061
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOW IT#EXTVLCOPT:network-caching=1000" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HOW IT#EXTVLCOPT:network-caching=1000
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325062
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOW I MET YOUR MOTHER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HOW I MET YOUR MOTHER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325063
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOME IMPROVEMENT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HOME IMPROVEMENT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325064
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOGAN'S HEROES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HOGAN'S HEROES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325065
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOARDERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HOARDERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325066
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHIPS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CHIPS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325067
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HELLS KITCHEN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HELLS KITCHEN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325068
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HE-MAN MASTERS OF UNIVERSE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HE-MAN MASTERS OF UNIVERSE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325069
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HARDCORE PAWN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HARDCORE PAWN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325070
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY ENDINGS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HAPPY ENDINGS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325071
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY DAYS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HAPPY DAYS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325072
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GUNSMOKE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GUNSMOKE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325073
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GROWING PAINS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GROWING PAINS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOOSEBUMPS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GOOSEBUMPS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325075
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOOD TIMES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GOOD TIMES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325076
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOLD RUSH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GOLD RUSH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325077
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THAT GIRL" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THAT GIRL
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325078
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GODFATHER OF HARLEM" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GODFATHER OF HARLEM
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325079
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EDDY MURPHY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 EDDY MURPHY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325080
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GILMORE GIRLS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GILMORE GIRLS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325081
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GILLIGAN'S ISLAND" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GILLIGAN'S ISLAND
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325082
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GHOST ADVENTURES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GHOST ADVENTURES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325083
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GET SMART" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GET SMART
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325084
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GANGLAND UNDERCOVER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GANGLAND UNDERCOVER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325085
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GANGLAND" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GANGLAND
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GAME OF THRONES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GAME OF THRONES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325087
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FULL HOUSE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FULL HOUSE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325088
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRIENDS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FRIENDS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325089
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRESH PRINCE OF BEL-AIR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FRESH PRINCE OF BEL-AIR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325090
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRASIER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FRASIER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325091
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FORGED IN FIRE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FORGED IN FIRE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FORENSIC FILES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FORENSIC FILES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325093
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FEAR FACTOR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FEAR FACTOR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325094
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FANTASY ISLAND" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FANTASY ISLAND
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY TIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FAMILY TIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY MATTERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FAMILY MATTERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY GUY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FAMILY GUY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325098
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBIN WILLIAMS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROBIN WILLIAMS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325099
+#EXTINF:-1 tvg-id="" tvg-name="24/7 F-TROOP" tvg-logo="" group-title="24/7 CHANNELS ",24/7 F-TROOP
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325100
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EVERYBODY LOVES RAYMOND" tvg-logo="" group-title="24/7 CHANNELS ",24/7 EVERYBODY LOVES RAYMOND
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325101
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ENTOURAGE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ENTOURAGE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325102
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ELLEN'S GAME OF GAMES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ELLEN'S GAME OF GAMES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325103
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DUKES OF HAZARD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DUKES OF HAZARD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325104
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DUCK DYNASTY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DUCK DYNASTY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRUG WARS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DRUG WARS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325106
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOT CHICKEN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROBOT CHICKEN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SABRINA THE TEENAGE WITCH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SABRINA THE TEENAGE WITCH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325108
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE ALFRED HITCHCOCK HOUR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE ALFRED HITCHCOCK HOUR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325109
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOG THE BOUNTY HUNTER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DOG THE BOUNTY HUNTER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325110
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DINOSAURS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DINOSAURS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325111
+#EXTINF:-1 tvg-id="" tvg-name="DRIVE-INS AND DIVES" tvg-logo="" group-title="24/7" - 24/7 DINERS, DRIVE-INS AND DIVES" tvg-logo="" group-title="24/7 CHANNELS ",DRIVE-INS AND DIVES" tvg-logo="" group-title="24/7" - 24/7 DINERS, DRIVE-INS AND DIVES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325112
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DIFF'RENT STROKES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DIFF'RENT STROKES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325113
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DICK VAN DYKE SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DICK VAN DYKE SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325114
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JACKIE CHAN MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JACKIE CHAN MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325115
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JET LI MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JET LI MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325116
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SIMPSONS TREEHOUSE OF HORROR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SIMPSONS TREEHOUSE OF HORROR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325117
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DEGRASSI JUNIOR HIGH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DEGRASSI JUNIOR HIGH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325118
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DEADLIEST CATCH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DEADLIEST CATCH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325119
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DALLAS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DALLAS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DA ALI G SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DA ALI G SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CURB YOUR ENTHUSIASM" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CURB YOUR ENTHUSIASM
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CRIMINAL MINDS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CRIMINAL MINDS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325123
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COLUMBO" tvg-logo="" group-title="24/7 CHANNELS ",24/7 COLUMBO
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325124
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHEERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CHEERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325125
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHARMED" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CHARMED
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325126
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHAPPELLE'S SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CHAPPELLE'S SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325127
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BURN NOTICE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BURN NOTICE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325128
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BUFFY THE VAMPIRE SLAYER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BUFFY THE VAMPIRE SLAYER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325129
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BROOKLYN NINE-NINE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BROOKLYN NINE-NINE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325130
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING BAD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BREAKING BAD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325131
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BRADY BUNCH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BRADY BUNCH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325132
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOY MEETS WORLD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BOY MEETS WORLD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325133
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOBS BURGERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BOBS BURGERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325134
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUE BLOODS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BLUE BLOODS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325135
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BILLY THE EXTERMINATOR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BILLY THE EXTERMINATOR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325136
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEWITCHED" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BEWITCHED
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325137
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ACTION MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ACTION MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325138
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEAVIS AND BUTTHEAD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BEAVIS AND BUTTHEAD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325139
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BAYWATCH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325140
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A NIGHTMARE ON ELM STREET" tvg-logo="" group-title="24/7 CHANNELS ",24/7 A NIGHTMARE ON ELM STREET
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325141
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BATMAN 1966
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325142
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNEY MILLER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BARNEY MILLER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325143
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAR RESCUE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BAR RESCUE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325144
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ARRESTED DEVELOPMENT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ARRESTED DEVELOPMENT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325145
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ARE YOU AFRAID OF THE DARK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ARE YOU AFRAID OF THE DARK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325146
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ARCHER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ARCHER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ANCIENT ALIENS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ANCIENT ALIENS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325148
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN DAD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 AMERICAN DAD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325149
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN CHOPPER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 AMERICAN CHOPPER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325150
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALICE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ALICE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325151
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ALF
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325152
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ACCORDING TO JIM" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ACCORDING TO JIM
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325153
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A DIFFERENT WORLD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 A DIFFERENT WORLD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325154
+#EXTINF:-1 tvg-id="" tvg-name="24/7 60 DAYS IN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 60 DAYS IN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325155
+#EXTINF:-1 tvg-id="" tvg-name="24/7 3RD ROCK FROM THE SUN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 3RD ROCK FROM THE SUN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325156
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24 HOURS IN POLICE CUSTODY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 24 HOURS IN POLICE CUSTODY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325157
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24 HOURS IN POLICE CUSTODY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 24 HOURS IN POLICE CUSTODY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325158
+#EXTINF:-1 tvg-id="" tvg-name="24/7 21 JUMP STREET" tvg-logo="" group-title="24/7 CHANNELS ",24/7 21 JUMP STREET
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325159
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X-MEN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 X-MEN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325160
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WILL FERRELL MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WILL FERRELL MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WAR MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 WAR MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VAMPIRE MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 VAMPIRE MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325163
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWILIGHT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TWILIGHT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRANSPORTER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TRANSPORTER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRANSFORMERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TRANSFORMERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THRILLER MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THRILLER MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325167
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE HANGOVER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE HANGOVER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAGNUM PI" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MAGNUM PI
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325169
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE AVENGERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE AVENGERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325170
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPERHERO MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SUPERHERO MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325171
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STEVEN SEAGAL" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STEVEN SEAGAL
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325172
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325173
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPORTS MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SPORTS MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325174
+#EXTINF:-1 tvg-id="" tvg-name="24/7 QUENTIN TARANTINO MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 QUENTIN TARANTINO MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325175
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCIFI MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SCIFI MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325176
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RUSH HOUR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RUSH HOUR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325177
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROMANCE MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROMANCE MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325178
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROCKY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325179
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RAMBO" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RAMBO
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325180
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POLICE ACADEMY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 POLICE ACADEMY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325181
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PREDATOR/ALIEN MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PREDATOR/ALIEN MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PLANET OF THE APES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PLANET OF THE APES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325183
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PIRATES OF THE CARIBBEAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PIRATES OF THE CARIBBEAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325184
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TEXAS CHAINSAW MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TEXAS CHAINSAW MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325185
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MEN IN BLACK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MEN IN BLACK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325186
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MATRIX" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MATRIX
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LORD OF THE RINGS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LORD OF THE RINGS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LETHAL WEAPON" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LETHAL WEAPON
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325189
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRIDAY THE 13TH" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FRIDAY THE 13TH
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325190
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JURASSIC PARK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JURASSIC PARK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325191
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JIM CARREY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JIM CARREY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325192
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JCVD MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JCVD MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325193
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JASON BOURNE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JASON BOURNE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325194
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JAMES BOND" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JAMES BOND
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325195
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INDIANA JONES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 INDIANA JONES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325196
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HORROR MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HORROR MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325197
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HARRY POTTER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GREASE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 GREASE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FIFTY SHADES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FIFTY SHADES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325200
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAST AND FURIOUS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FAST AND FURIOUS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325201
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FAMILY MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325202
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DIE HARD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DIE HARD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CRIME MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CRIME MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325204
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BRUCE LEE MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BRUCE LEE MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325205
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CLINT EASTWOOD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CLINT EASTWOOD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325206
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOXING MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BOXING MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLADE MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BLADE MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BATMAN MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BACK TO THE FUTURE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BACK TO THE FUTURE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ARNOLD SCHWARZENEGGER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ARNOLD SCHWARZENEGGER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AL PACINO" tvg-logo="" group-title="24/7 CHANNELS ",24/7 AL PACINO
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ADAM SANDLER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ADAM SANDLER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X-MEN CARTOONS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 X-MEN CARTOONS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROB ZOMBIE MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ROB ZOMBIE MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRANSFORMERS CARTOONS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TRANSFORMERS CARTOONS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOY STORY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TOY STORY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM AND JERRY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TOM AND JERRY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TMNT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TMNT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325219
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THOMAS AND FRIENDS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THOMAS AND FRIENDS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325220
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EVERYBODY HATES CHRIS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 EVERYBODY HATES CHRIS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325221
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE PINK PANTHER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE PINK PANTHER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325222
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GARFIELD SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE GARFIELD SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325223
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FLINTSTONES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE FLINTSTONES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325224
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BATMAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE BATMAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325225
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TEEN TITANS GO!" tvg-logo="" group-title="24/7 CHANNELS ",24/7 TEEN TITANS GO!
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325226
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER WINGS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SUPER WINGS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325227
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KUNG FU PANDA" tvg-logo="" group-title="24/7 CHANNELS ",24/7 KUNG FU PANDA
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325228
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EXPEDITION UNKNOWN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 EXPEDITION UNKNOWN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325229
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR WARS THE CLONE WARS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR WARS THE CLONE WARS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325230
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR WARS REBELS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR WARS REBELS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325231
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPONGEBOB SQUARE PANTS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SPONGEBOB SQUARE PANTS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325232
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCI-FI MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SCI-FI MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325233
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDERMAN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SPIDERMAN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325234
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCOOBY-DOO CLASSIC" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SCOOBY-DOO CLASSIC
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325235
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCOOBY-DOO" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SCOOBY-DOO
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325236
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPONGEBOB SQUAREPANTS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 SPONGEBOB SQUAREPANTS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325237
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RUGRATS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RUGRATS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325238
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PUPPY DOG PALS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PUPPY DOG PALS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325239
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 POWER RANGERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325240
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POPEYE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 POPEYE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325241
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON" tvg-logo="" group-title="24/7 CHANNELS ",24/7 POKEMON
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325242
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PJ MASKS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PJ MASKS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325243
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY AND THE BRAIN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PINKY AND THE BRAIN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325244
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SMURFS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE SMURFS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325245
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PEPPA PIG
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325246
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PAW PATROL
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325247
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MY LITTLE PONY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MY LITTLE PONY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325248
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUPPET BABIES SHOW" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MUPPET BABIES SHOW
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325249
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN ANIMATED" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MR BEAN ANIMATED
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325250
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MICKEY MOUSE CLUBHOUSE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MICKEY MOUSE CLUBHOUSE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325251
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HENRY DANGER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 HENRY DANGER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARVEL AVENGERS ASSEMBLE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MARVEL AVENGERS ASSEMBLE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MCMILLAN AND WIFE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MCMILLAN AND WIFE
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325254
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOONEY TUNES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LOONEY TUNES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325255
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LITTLE EINSTEINS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LITTLE EINSTEINS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325256
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LEGO STAR WARS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LEGO STAR WARS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JOHNY TEST" tvg-logo="" group-title="24/7 CHANNELS ",24/7 JOHNY TEST
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MORTAL KOMBAT" tvg-logo="" group-title="24/7 CHANNELS ",24/7 MORTAL KOMBAT
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE PJS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 THE PJS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325260
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRAGGLE ROCK" tvg-logo="" group-title="24/7 CHANNELS ",24/7 FRAGGLE ROCK
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ELENA OF AVALOR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ELENA OF AVALOR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325262
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DUCK TALES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DUCK TALES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325263
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DREAMWORKS ANIMATION" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DREAMWORKS ANIMATION
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DRAGON BALL Z
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325265
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHICAGO MED" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CHICAGO MED
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325266
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DORA THE EXPLORER" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DORA THE EXPLORER
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325267
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY SONGS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DISNEY SONGS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325268
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY Songs" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DISNEY Songs
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325269
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY MOVIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DISNEY MOVIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325270
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY Movies" tvg-logo="" group-title="24/7 CHANNELS ",24/7 DISNEY Movies
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325271
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PARTS UNKNOWN" tvg-logo="" group-title="24/7 CHANNELS ",24/7 PARTS UNKNOWN
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325272
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN PICKERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 AMERICAN PICKERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325273
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CAPTAIN PLANET AND THE PLANETEERS" tvg-logo="" group-title="24/7 CHANNELS ",24/7 CAPTAIN PLANET AND THE PLANETEERS
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUEY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BLUEY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325275
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUE'S CLUES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BLUE'S CLUES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325276
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLAZE AND THE MONSTER MACHINES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BLAZE AND THE MONSTER MACHINES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEN 10" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BEN 10
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN THE ANIMATED SERIES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BATMAN THE ANIMATED SERIES
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN BRAVE AND THE BOLD" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BATMAN BRAVE AND THE BOLD
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325280
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNEY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BARNEY
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325281
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A HAUNTING" tvg-logo="" group-title="24/7 CHANNELS ",24/7 A HAUNTING
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325282
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AVATAR" tvg-logo="" group-title="24/7 CHANNELS ",24/7 AVATAR
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325283
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ADVENTURE TIME" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ADVENTURE TIME
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325284
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK: NEXT GENERATION" tvg-logo="" group-title="24/7 CHANNELS ",24/7 STAR TREK: NEXT GENERATION
+http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325285
