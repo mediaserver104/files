@@ -133,7 +133,7 @@ https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="Nicktoons-east" group-title="Classic TV",Nicktoons
 https://tvpass.org/live/NicktoonsEast/hd
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="metv.us" tvg-name="USA METV UHD" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",USA METV UHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Me.TV.Network.us2" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",METV UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" tvg-shift="-3" timeshift="-3" group-title="Classic TV",MeTV
@@ -165,7 +165,7 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvland.us" tvg-name="USA TV Land UHD" tvg-logo="https://logo.m3uassets.com/tvland.png" group-title="Classic TV",USA TV Land UHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv-land-eastern" tvg-name="USA TV Land UHD" tvg-logo="https://logo.m3uassets.com/tvland.png" group-title="Classic TV",TV Land UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268860
 
 #EXTINF:-1 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format=500w",TV LAND
@@ -7129,3 +7129,119 @@ http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325282
 http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325283
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ADVENTURE TIME" tvg-logo="" group-title="24/7 CHANNELS ",24/7 ADVENTURE TIME
 http://tvscreen.icu:8080/sales@dellerstechshop.ca/sales@4889/325284
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="At the Movies" tvg-logo="https://logo.m3uassets.com/themovie.png" group-title="USA | Tubi Tv",At the Movies
+http://lordstreams.live:80/mszala@comcast.net/0323910031/710609
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesphere.us" tvg-name="MovieSphere" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="USA | Tubi Tv",MovieSphere
+http://lordstreams.live:80/mszala@comcast.net/0323910031/710509
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="flix.us" tvg-name="USA Flix East" tvg-logo="https://logo.m3uassets.com/flix.png" group-title="USA | Movies",USA Flix East
+http://lordstreams.live:80/mszala@comcast.net/0323910031/295792
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="flixwest.us" tvg-name="USA Flix West" tvg-logo="https://logo.m3uassets.com/flixwest.png" group-title="USA | Movies",USA Flix West
+http://lordstreams.live:80/mszala@comcast.net/0323910031/295772
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountnetwork.us" tvg-name="USA Paramount Network UHD" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="USA | Ultra HD Exclusive",USA Paramount Network UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268912
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeshowcase.us" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://logo.m3uassets.com/showtimeshowcase.png" group-title="USA | Ultra HD Exclusive",USA Showtime Showcase UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime2.us" tvg-name="USA Showtime 2 UHD" tvg-logo="https://logo.m3uassets.com/showtime2.png" group-title="USA | Ultra HD Exclusive",USA Showtime 2 UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime.us" tvg-name="USA Showtime East UHD" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="USA | Ultra HD Exclusive",USA Showtime East UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeextreme.us" tvg-name="USA Showtime Extreme UHD" tvg-logo="https://logo.m3uassets.com/showtimeextreme.png" group-title="USA | Ultra HD Exclusive",USA Showtime Extreme UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimefamilyzone.us" tvg-name="USA Showtime Family Zone UHD" tvg-logo="https://logo.m3uassets.com/showtimefamilyzone.png" group-title="USA | Ultra HD Exclusive",USA Showtime Family Zone UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimenext.us" tvg-name="USA Showtime Next UHD" tvg-logo="https://logo.m3uassets.com/showtimenext.png" group-title="USA | Ultra HD Exclusive",USA Showtime Next UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimewest.us" tvg-name="USA Showtime West UHD" tvg-logo="https://logo.m3uassets.com/showtimewest.png" group-title="USA | Ultra HD Exclusive",USA Showtime West UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268895
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shoxbet.us" tvg-name="USA SHO x BET UHD" tvg-logo="https://logo.m3uassets.com/shoxbet.png" group-title="USA | Ultra HD Exclusive",USA SHO x BET UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268894
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcinema.us" tvg-name="USA Starz Cinema UHD" tvg-logo="https://logo.m3uassets.com/starzcinema.png" group-title="USA | Ultra HD Exclusive",USA Starz Cinema UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcomedy.us" tvg-name="USA Starz Comedy UHD" tvg-logo="https://logo.m3uassets.com/starzcomedy.png" group-title="USA | Ultra HD Exclusive",USA Starz Comedy UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzedge.us" tvg-name="USA Starz Edge UHD" tvg-logo="https://logo.m3uassets.com/starzedge.png" group-title="USA | Ultra HD Exclusive",USA Starz Edge UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreaction.us" tvg-name="USA Starz Encore Action UHD" tvg-logo="https://logo.m3uassets.com/starzencoreaction.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Action UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreblack.us" tvg-name="USA Starz Encore Black UHD" tvg-logo="https://logo.m3uassets.com/starzencoreblack.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Black UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268883
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreclassic.us" tvg-name="USA Starz Encore Classic UHD" tvg-logo="https://logo.m3uassets.com/starzencoreclassic.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Classic UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268882
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorefamily.us" tvg-name="USA Starz Encore Family UHD" tvg-logo="https://logo.m3uassets.com/starzencorefamily.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Family UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoresuspense.us" tvg-name="USA Starz Encore Suspense UHD" tvg-logo="https://logo.m3uassets.com/starzencoresuspense.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Suspense UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268880
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencore.us" tvg-name="USA Starz Encore UHD" tvg-logo="https://logo.m3uassets.com/starzencore.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewesterns.us" tvg-name="USA Starz Encore Westerns UHD" tvg-logo="https://logo.m3uassets.com/starzencorewesterns.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Westerns UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268878
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewest.us" tvg-name="USA Starz Encore West UHD" tvg-logo="https://logo.m3uassets.com/starzencorewest.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore West UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzblack.us" tvg-name="USA Starz In Black UHD" tvg-logo="https://logo.m3uassets.com/starzblack.png" group-title="USA | Ultra HD Exclusive",USA Starz In Black UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkids&family.us" tvg-name="USA Starz Kids And Family UHD" tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png" group-title="USA | Ultra HD Exclusive",USA Starz Kids And Family UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268891
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starz.us" tvg-name="USA Starz UHD" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="USA | Ultra HD Exclusive",USA Starz UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzwest.us" tvg-name="USA Starz West UHD" tvg-logo="https://logo.m3uassets.com/starzwest.png" group-title="USA | Ultra HD Exclusive",USA Starz West UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sundancetv.us" tvg-name="USA Sundance UHD" tvg-logo="https://logo.m3uassets.com/sundance.png" group-title="USA | Ultra HD Exclusive",USA Sundance UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268877
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.us" tvg-name="USA Syfy UHD" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="USA | Ultra HD Exclusive",USA Syfy UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268876
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tbs.us" tvg-name="USA TBS UHD" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="USA | Ultra HD Exclusive",USA TBS UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tbswest.us" tvg-name="USA TBS West UHD" tvg-logo="https://logo.m3uassets.com/tbswest.png" group-title="USA | Ultra HD Exclusive",USA TBS West UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turnerclassicmovies.us" tvg-name="USA TCM UHD" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="USA | Ultra HD Exclusive",USA TCM UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268873
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannel.us" tvg-name="USA The Movie Channel" tvg-logo="https://logo.m3uassets.com/themoviechannel.png" group-title="USA | Ultra HD Exclusive",USA The Movie Channel
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268870
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannelxtra.us" tvg-name="USA The Movie Channel Xtra" tvg-logo="https://logo.m3uassets.com/themoviechannelxtra.png" group-title="USA | Ultra HD Exclusive",USA The Movie Channel Xtra
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268869
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.us" tvg-name="USA TLC UHD" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="USA | Ultra HD Exclusive",USA TLC UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268866
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tnt.us" tvg-name="USA TNT UHD" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="USA | Ultra HD Exclusive",USA TNT UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntwest.us" tvg-name="USA TNT West UHD" tvg-logo="https://logo.m3uassets.com/tntwest.png" group-title="USA | Ultra HD Exclusive",USA TNT West UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268864
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvland.us" tvg-name="USA TV Land UHD" tvg-logo="https://logo.m3uassets.com/tvland.png" group-title="USA | Ultra HD Exclusive",USA TV Land UHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/268860
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="silverscreenclassics.ca" tvg-name="CA Silver Screen Classics" tvg-logo="https://logo.m3uassets.com/silverscreenclassics.png" group-title="Canada | Movies",CA Silver Screen Classics
+http://lordstreams.live:80/mszala@comcast.net/0323910031/3651
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superchannelvault.ca" tvg-name="CA Super Channel Vault" tvg-logo="https://logo.m3uassets.com/superchannelvault.png" group-title="Canada | Movies",CA Super Channel Vault
+http://lordstreams.live:80/mszala@comcast.net/0323910031/3644
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turnerclassicmovies.ca" tvg-name="CA Turner Classic Movies TCM" tvg-logo="https://logo.m3uassets.com/turnerclassicmovies.png" group-title="Canada | Movies",CA Turner Classic Movies TCM
+http://lordstreams.live:80/mszala@comcast.net/0323910031/3634
+
