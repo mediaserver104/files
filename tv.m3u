@@ -134,15 +134,12 @@ https://tvpass.org/live/metv-toons/sd
 https://tvpass.org/live/NicktoonsEast/hd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Me.TV.Network.us2" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",METV UHD
-#EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" tvg-shift="-3" timeshift="-3" group-title="Classic TV",MeTV
-#EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/345
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
-#EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/344
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV (SD)
@@ -191,7 +188,7 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" group-title="Classic TV",TV LAND Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dejaview.ca" tvg-name="CA Dejaview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/DejaView_logo.svg/640px-DejaView_logo.svg.png" group-title="Classic TV",Dejaview
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="470467" tvg-name="CA Dejaview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/DejaView_logo.svg/640px-DejaView_logo.svg.png" group-title="Classic TV",Dejaview
 http://lordstreams.live:80/mszala@comcast.net/0323910031/302079
 
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
