@@ -56,6 +56,8 @@ http://192.168.1.200:8409/iptv/channel/232.m3u8
 http://192.168.1.200:8409/iptv/channel/235.m3u8
 #EXTINF:0 tvg-id="C237.252.ersatztv.org" channel-id="ElrWr8HbQEKMMxh_pz8ciQ" channel-number="237" CUID="ElrWr8HbQEKMMxh_pz8ciQ" tvg-chno="237" tvg-name="Sarge & Laugh" tvg-logo="http://192.168.1.200:8409/iptv/logos/58950F2A31443ABA032E8935A525E8B6.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Sarge & Laugh
 http://192.168.1.200:8409/iptv/channel/237.m3u8
+#EXTINF:0 tvg-id="C239.254.ersatztv.org" channel-id="7WJLPQxWoEqJkr8HIbhmVw" channel-number="239" CUID="7WJLPQxWoEqJkr8HIbhmVw" tvg-chno="239" tvg-name="Star Trek" tvg-logo="http://192.168.1.200:8409/iptv/logos/341F8F71FFBF771084FDDC037024D2B5.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Star Trek
+http://192.168.1.200:8409/iptv/channel/239.m3u8
 #EXTINF:0 tvg-id="C240.246.ersatztv.org" channel-id="b7kvvCX56EC4f9vEBrVNuA" channel-number="240" CUID="b7kvvCX56EC4f9vEBrVNuA" tvg-chno="240" tvg-name="Retro Sci Fi" tvg-logo="http://192.168.1.200:8409/iptv/logos/8F5D9F34B2DD5CE641691010E9820D7A.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro Sci Fi
 http://192.168.1.200:8409/iptv/channel/240.m3u8
 #EXTINF:0 tvg-id="C245.251.ersatztv.org" channel-id="x6CdbxukbUa7RT3Yb0Y5_A" channel-number="245" CUID="x6CdbxukbUa7RT3Yb0Y5_A" tvg-chno="245" tvg-name="Elvira" tvg-logo="http://192.168.1.200:8409/iptv/logos/3D574495F5283D145C44E8E1548B796C.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Elvira
@@ -6264,6 +6266,8 @@ http://100.74.98.51:8409/iptv/channel/232.m3u8
 http://100.74.98.51:8409/iptv/channel/235.m3u8
 #EXTINF:0 tvg-id="C237.252.ersatztv.org" channel-id="ElrWr8HbQEKMMxh_pz8ciQ" channel-number="237" CUID="ElrWr8HbQEKMMxh_pz8ciQ" tvg-chno="237" tvg-name="Sarge & Laugh" tvg-logo="http://100.74.98.51:8409/iptv/logos/58950F2A31443ABA032E8935A525E8B6.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Sarge & Laugh
 http://100.74.98.51:8409/iptv/channel/237.m3u8
+#EXTINF:0 tvg-id="C239.254.ersatztv.org" channel-id="7WJLPQxWoEqJkr8HIbhmVw" channel-number="239" CUID="7WJLPQxWoEqJkr8HIbhmVw" tvg-chno="239" tvg-name="Star Trek" tvg-logo="http://100.74.98.51:8409/iptv/logos/341F8F71FFBF771084FDDC037024D2B5.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Star Trek
+http://100.74.98.51:8409/iptv/channel/239.m3u8
 #EXTINF:0 tvg-id="C240.246.ersatztv.org" channel-id="b7kvvCX56EC4f9vEBrVNuA" channel-number="240" CUID="b7kvvCX56EC4f9vEBrVNuA" tvg-chno="240" tvg-name="Retro Sci Fi" tvg-logo="http://100.74.98.51:8409/iptv/logos/8F5D9F34B2DD5CE641691010E9820D7A.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro Sci Fi
 http://100.74.98.51:8409/iptv/channel/240.m3u8
 #EXTINF:0 tvg-id="C245.251.ersatztv.org" channel-id="x6CdbxukbUa7RT3Yb0Y5_A" channel-number="245" CUID="x6CdbxukbUa7RT3Yb0Y5_A" tvg-chno="245" tvg-name="Elvira" tvg-logo="http://100.74.98.51:8409/iptv/logos/3D574495F5283D145C44E8E1548B796C.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Elvira
@@ -8089,6 +8093,10 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/276621
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="talkingpictures.uk" tvg-name="UK: TalkingPictures" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/TPTV_promotional_logo.png" group-title="UK | ENTERTAINMENT",UK: TalkingPictures
 http://lordstreams.live:80/mszala@comcast.net/0323910031/276619
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rewind.ca" tvg-name="CA Rewind" tvg-logo="https://logo.m3uassets.com/rewind.png" group-title="Canada | Movies",CA Rewind
+http://lordstreams.live:80/mszala@comcast.net/0323910031/641213
+
 
 
 
