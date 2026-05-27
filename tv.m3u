@@ -134,6 +134,7 @@ https://tvpass.org/live/metv-toons/sd
 https://tvpass.org/live/NicktoonsEast/hd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Me.TV.Network.us2" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",METV UHD
+#EXTVLCOPT:network-caching=1000
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" tvg-shift="-3" timeshift="-3" group-title="Classic TV",MeTV
@@ -7244,4 +7245,853 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/3644
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turnerclassicmovies.ca" tvg-name="CA Turner Classic Movies TCM" tvg-logo="https://logo.m3uassets.com/turnerclassicmovies.png" group-title="Canada | Movies",CA Turner Classic Movies TCM
 http://lordstreams.live:80/mszala@comcast.net/0323910031/3634
+
+
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Looney Tunes Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg" group-title="24/7 | CARTOON",24/7 The Looney Tunes Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102366
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Tom and Jerry Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jONkUidQRi7kmNjRYM3FO4TWpak.jpg" group-title="24/7 | CARTOON",24/7 The Tom and Jerry Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102361
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Family Guy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg" group-title="24/7 | CARTOON",24/7 Family Guy
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102433
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Rick and Morty" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="24/7 | CARTOON",24/7 Rick and Morty
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102383
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Rick And Morty" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="24/7 | CARTOON",24/7 Rick And Morty
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102382
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Better Call Saul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU0kAjGjA6d2XjBzJMUIEVKiGDb.jpg" group-title="24/7 | COMEDY",24/7 Better Call Saul
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102322
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Better Off Ted" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Rnoq1i8FUSvs9orNvbWG8q3Pzs.jpg" group-title="24/7 | COMEDY",24/7 Better Off Ted
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102321
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Brooklyn Nine Nine" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | COMEDY",24/7 Brooklyn Nine Nine
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102300
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Buffy the Vampire Slayer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41jsOEYsh9lJBc6AZqGpR1ETpx5.jpg" group-title="24/7 | COMEDY",24/7 Buffy the Vampire Slayer
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102298
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Community" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg" group-title="24/7 | COMEDY",24/7 Community
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102278
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Entourage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siVOE6ZYzFQfVY7j0hakoqzr8Yf.jpg" group-title="24/7 | COMEDY",24/7 Entourage
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102236
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Fresh Off the Boat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl9goLDKE5wG7JgMikAKimCmApx.jpg" group-title="24/7 | COMEDY",24/7 Fresh Off the Boat
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102217
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Fresh Off The Boat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl9goLDKE5wG7JgMikAKimCmApx.jpg" group-title="24/7 | COMEDY",24/7 Fresh Off The Boat
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102216
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Grounded For Life" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4cRPeKXQd4vjhMUqBKwyGH36dc.jpg" group-title="24/7 | COMEDY",24/7 Grounded For Life
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102180
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Hot in Cleveland" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvSXebWlltJxJUNNkoLb0tzygi2.jpg" group-title="24/7 | COMEDY",24/7 Hot in Cleveland
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102164
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 How I Met Your Mother" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg" group-title="24/7 | COMEDY",24/7 How I Met Your Mother
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102162
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Last Man Standing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVpsfkRdW4XxgsuaiqcD3qKXZdW.jpg" group-title="24/7 | COMEDY",24/7 Last Man Standing
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102133
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Leave It to Beaver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tl9FH0gFmaFDyW4J3eAowMwt8O.jpg" group-title="24/7 | COMEDY",24/7 Leave It to Beaver
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102132
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Letterkenny" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvQGoc9GGTfOyPty5ASShT9tPBD.jpg" group-title="24/7 | COMEDY",24/7 Letterkenny
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102129
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Modern Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu5vEUHgxkAPmX26ISQXqHmlPMq.jpg" group-title="24/7 | COMEDY",24/7 Modern Family
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102092
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Modern Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu5vEUHgxkAPmX26ISQXqHmlPMq.jpg" group-title="24/7 | COMEDY",24/7 Modern Family
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102091
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Mom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jR5i2z51ymZMrehUgVHFlXUVcB.jpg" group-title="24/7 | COMEDY",24/7 Mom
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102089
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 My Name is Earl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg" group-title="24/7 | COMEDY",24/7 My Name is Earl
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102075
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Rules of Engagement" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGvkVBhnkRLwpCoS16iYtq7GggW.jpg" group-title="24/7 | COMEDY",24/7 Rules of Engagement
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102015
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Schitt s Creek" tvg-logo="" group-title="24/7 | COMEDY",24/7 Schitt s Creek
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102008
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Scrubs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1z05trCA7AuSuDhi365grwdos1.jpg" group-title="24/7 | COMEDY",24/7 Scrubs
+http://lordstreams.live:80/mszala@comcast.net/0323910031/102003
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Silicon Valley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a154rIMzbTyefodNp4NY8qjOEfC.jpg" group-title="24/7 | COMEDY",24/7 Silicon Valley
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101988
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 South Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BvRze9keEyTzB6ewmDvjzFGYuG.jpg" group-title="24/7 | COMEDY",24/7 South Park
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101977
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Superstore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg" group-title="24/7 | COMEDY",24/7 Superstore
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101963
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Tacoma FD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tC6IoHHl2s6wP1WbEocgLzmCNkY.jpg" group-title="24/7 | COMEDY",24/7 Tacoma FD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101960
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Tacoma FD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tC6IoHHl2s6wP1WbEocgLzmCNkY.jpg" group-title="24/7 | COMEDY",24/7 Tacoma FD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101959
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Taxi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pua3A2XSaO6bP6WhVDBRbcyRTAS.jpg" group-title="24/7 | COMEDY",24/7 Taxi
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101958
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Teachers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpHSszz8xR6OAJAYPmEFwr8tQWK.jpg" group-title="24/7 | COMEDY",24/7 Teachers
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101957
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Ted Lasso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg" group-title="24/7 | COMEDY",24/7 Ted Lasso
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101955
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 That '70s Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVTXH2wfHlKDM3D0jow6yHrgpQP.jpg" group-title="24/7 | COMEDY",24/7 That '70s Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101950
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Big Bang Theory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg" group-title="24/7 | COMEDY",24/7 The Big Bang Theory
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101946
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Drew Carey Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkg8zTDmHKau54dJechoLdzgTsh.jpg" group-title="24/7 | COMEDY",24/7 The Drew Carey Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101933
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Goldbergs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erl2S2OnNHHK7PlaEs0zHZrSzxJ.jpg" group-title="24/7 | COMEDY",24/7 The Goldbergs
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101929
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The IT Crowd" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1R550Xt4HpGCMr7HitsbFlRcAUS.jpg" group-title="24/7 | COMEDY",24/7 The IT Crowd
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101917
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Mary Tyler Moore Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B9Fx5Nf80wznbm8k3Q2VIpvaoU.jpg" group-title="24/7 | COMEDY",24/7 The Mary Tyler Moore Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101907
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Middle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUuBzrVHX70Rv7oLkqsZv284OdG.jpg" group-title="24/7 | COMEDY",24/7 The Middle
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101905
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Nanny" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQyQ706haSwktzr8d0xqPL9i2Lc.jpg" group-title="24/7 | COMEDY",24/7 The Nanny
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101900
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Office" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg" group-title="24/7 | COMEDY",24/7 The Office
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101897
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Two And A Half Men" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9QDK4OWpv41W27kCv0LXe30k9S.jpg" group-title="24/7 | COMEDY",24/7 Two And A Half Men
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101876
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Unbreakable Kimmy Schmidt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg" group-title="24/7 | COMEDY",24/7 Unbreakable Kimmy Schmidt
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101874
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 What We Do in the Shadows" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEwa2kqu5XORbmMwdhEHufODcIr.jpg" group-title="24/7 | COMEDY",24/7 What We Do in the Shadows
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101861
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Wings" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqf5p8fU7liYAMznUBMWMeSYfCQ.jpg" group-title="24/7 | COMEDY",24/7 Wings
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101856
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Young Sheldon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vcEZVuv3ZwHUb6bm6fSWB9HTJc.jpg" group-title="24/7 | COMEDY",24/7 Young Sheldon
+http://lordstreams.live:80/mszala@comcast.net/0323910031/101849
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Laverne and Shirley" tvg-logo="" group-title="24/7 | SHOWS",24/7 Laverne and Shirley
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90972
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Lost In Space (2018)" tvg-logo="" group-title="24/7 | SHOWS",24/7 Lost In Space (2018)
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90934
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 3rd Rock from the Sun" tvg-logo="" group-title="24/7 | SHOWS",24/7 3rd Rock from the Sun
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90782
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Scooby Doo Where Are You" tvg-logo="" group-title="24/7 | SHOWS",24/7 Scooby Doo Where Are You
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90745
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 SGU Stargate Universe" tvg-logo="" group-title="24/7 | SHOWS",24/7 SGU Stargate Universe
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90736
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Space Force" tvg-logo="" group-title="24/7 | SHOWS",24/7 Space Force
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90725
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Star Trek The Next Generation" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/7896684/p7896684_b_v8_aa.jpg" group-title="24/7 | SHOWS",24/7 Star Trek The Next Generation
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90709
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Star Trek The Original Series" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | SHOWS",24/7 Star Trek The Original Series
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90708
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Inbetweeners Uk" tvg-logo="" group-title="24/7 | SHOWS",24/7 The Inbetweeners Uk
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90648
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Upload" tvg-logo="" group-title="24/7 | SHOWS",24/7 Upload
+http://lordstreams.live:80/mszala@comcast.net/0323910031/90573
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Adam-12" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Adam-12
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89420
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Airwolf" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Airwolf
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89419
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Alfred Hitchcock Presents" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Alfred Hitchcock Presents
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 All in the Family" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 All in the Family
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89417
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Baretta" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Baretta
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89415
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Batman" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Batman
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89414
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Bernie Mack 2001" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Bernie Mack 2001
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89413
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Beverly Hills, 90210" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Beverly Hills, 90210
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89412
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Bewitched" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Bewitched
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 BJ and the Bear" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 BJ and the Bear
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89410
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Bonanza" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Bonanza
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89409
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Brady Bunch" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Brady Bunch
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89408
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Bulletproof" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Bulletproof
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89407
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Cagney and Lacey 1982" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Cagney and Lacey 1982
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89406
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Charlie's Angels" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Charlie's Angels
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89405
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Cheers" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Cheers
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89404
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 CHiPs" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 CHiPs
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89403
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Coach" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Coach
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Columbo" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Columbo
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Cousin Skeeter" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Cousin Skeeter
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Dallas" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Dallas
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Dennis The Menace" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Dennis The Menace
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89397
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Diagnosis Murder" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Diagnosis Murder
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Diff'rent Strokes" tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 | CLASSIC SHOWS",24/7 Diff'rent Strokes
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89395
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Doogie Howser" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Doogie Howser
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89394
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Due South" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Due South
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89393
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Everybody Loves Raymond" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Everybody Loves Raymond
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89392
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Family Matters" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Family Matters
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89391
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Family Ties" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Family Ties
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Fawlty Towers" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 Fawlty Towers
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89388
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Frasier" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 Frasier
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Friends" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f496cm9enuEsZkSPzCwnTESEK5s.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Friends
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89386
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Get Smart" tvg-logo="https://i.ibb.co/rfNmTfr/getsmart.png" group-title="24/7 | CLASSIC SHOWS",24/7 Get Smart
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89385
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Gilligan's Island" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Gilligan's Island
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Girlfriends 2000" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Girlfriends 2000
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Gomer Pyle, U.S.M.C." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wy1SoeKjUiOQ48sXQi40DJupoZ.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Gomer Pyle, U.S.M.C.
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Good Times" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 Good Times
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89381
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Green Acres" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Green Acres
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Gunsmoke" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Gunsmoke
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 HANGIN with MR. COOPER" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 HANGIN with MR. COOPER
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89378
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Happy Days" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTjJPlENoZSuO2cblfUISM6jnGN.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Happy Days
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Have Gun Will Travel" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Have Gun Will Travel
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Hogan's Heroes" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 Hogan's Heroes
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Home Improvement" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Home Improvement
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Hunter 1984" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Hunter 1984
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 I Dream Of Jeannie" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 I Dream Of Jeannie
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 I Love Lucy" tvg-logo="https://cdn1.thr.com/sites/default/files/2019/08/lucie_arnaz.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 I Love Lucy
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 In The Heat of The Night 1988" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 In The Heat of The Night 1988
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Ironside 1967" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Ironside 1967
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 It's Always Sunny in Philadelphia
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Judge Judy" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 Judge Judy
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89367
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Knight Rider" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAdtPYEo2O2T1gkiWc1DjwwWF4h.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Knight Rider
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Kojak" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Kojak
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Laramie 1959" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Laramie 1959
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89364
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Laverne & Shirley" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Laverne & Shirley
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89363
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Leave It to Beaver" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Leave It to Beaver
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Little House on the Prairie" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Little House on the Prairie
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89361
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Lost In Space" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Lost In Space
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Love American Style" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Love American Style
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89358
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Love Boat 1976" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Love Boat 1976
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89357
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Mannix" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Mannix
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89356
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Married... with Children" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Married... with Children
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89355
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Martin" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Martin
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89354
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 MASH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 MASH
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89353
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Maverick" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Maverick
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89352
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 McCloud 1970" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 McCloud 1970
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Melrose Place" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Melrose Place
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89350
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Mission Impossible 1966" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Mission Impossible 1966
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89349
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Mister Ed" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Mister Ed
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89348
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Night Court" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Night Court
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89347
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Ninja Turtles The Next Mutation" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Ninja Turtles The Next Mutation
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89346
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Only Fools And Horses" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAFPAdUiOecSJYnI09pLq6KLFNW.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Only Fools And Horses
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89344
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Oz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CwqqwYWnMOLUwsqAqveHNnwTGC.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Oz
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89343
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Parks & Recreation" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Parks & Recreation
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89342
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Petticoat Junction" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Petticoat Junction
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89341
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Pimp My Ride" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1thoAaIj17GVVl7tUCCX2McdYrk.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Pimp My Ride
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89340
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Rob and Big" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Rob and Big
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89339
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Roseanne" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Roseanne
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Sanford & Son" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Sanford & Son
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89337
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Seinfeld" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 Seinfeld
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89336
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Silver Spoons" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Silver Spoons
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89335
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Some Mothers Do 'Ave 'Em" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Some Mothers Do 'Ave 'Em
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89334
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Starsky and Hutch" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Starsky and Hutch
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89333
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Step By Step" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Step By Step
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Tales from the Crypt" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Tales from the Crypt
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89330
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 That Girl" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 That Girl
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Addams Family" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Addams Family
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89328
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Andy Griffith Show" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Andy Griffith Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89327
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Avengers" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Avengers
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89326
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Beverly Hillbillies" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Beverly Hillbillies
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Cosby Show" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Cosby Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89324
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Dukes of Hazzard" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Dukes of Hazzard
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89323
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Facts of Life" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Facts of Life
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Fresh Prince of Bel-Air" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYPE5vfStpVTf1ULE11B1Vwm12b.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 The Fresh Prince of Bel-Air
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Golden Girls" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Golden Girls
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Honeymooners" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 The Honeymooners
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Jamie Foxx Show" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 The Jamie Foxx Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Jeffersons" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Jeffersons
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Little Rascals" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Little Rascals
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Munsters" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Munsters
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Rockford Files 1974" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Rockford Files 1974
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Simpsons" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 | CLASSIC SHOWS",24/7 The Simpsons
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Sopranos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nNZnnUkXcI3DvdrkclulanYXzg.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 The Sopranos
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Steve Harvey Show" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Steve Harvey Show
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Streets Of San Francisco" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Streets Of San Francisco
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89309
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Three Stooges" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 The Three Stooges
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Three's Company" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Three's Company
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Twilight Zone" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Twilight Zone
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89306
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Wagon Train Season" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Wagon Train Season
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Welcome Back, Kotter" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 Welcome Back, Kotter
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89303
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 What's Happening!!" tvg-logo="" group-title="24/7 | CLASSIC SHOWS",24/7 What's Happening!!
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 WKRP in Cincinnati" tvg-logo="https://static.realiptv.to/snapshots/50861.jpg" group-title="24/7 | CLASSIC SHOWS",24/7 WKRP in Cincinnati
+http://lordstreams.live:80/mszala@comcast.net/0323910031/89301
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Flintstones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30P6ifagQ3fguTsI33KMmDLTAx6.jpg" group-title="24/7 | FAMILY",24/7 The Flintstones
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85356
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Continuum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI2gMnLENFRmcnL40wjP7SzhGIL.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 Continuum
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85111
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 NCIS: Los Angeles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0doUtM8RhXcAwHs6VmMZMQKpai.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 NCIS: Los Angeles
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 NCIS: New Orleans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkFlhbRl7HZVWpIqaMPVXCuOQHI.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 NCIS: New Orleans
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85055
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Quantum Leap" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 Quantum Leap
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85050
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Star Trek: Deep Space Nine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 Star Trek: Deep Space Nine
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Star Trek: Enterprise" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVRMbEXFiccxVhFCrEyo1T24FhX.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 Star Trek: Enterprise
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85031
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Stargate Atlantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 Stargate Atlantis
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Stargate SG-1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rst5xc4f7v1KiDiQjzDiZqLtBpl.jpg" group-title="24/7 | ACTION & ADVENTURE",24/7 Stargate SG-1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/85026
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 1 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 1 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271076
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 2 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 2 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271075
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 3 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 3 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271074
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 4 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 4 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271073
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 5 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 5 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271072
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 6 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 6 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271071
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 7 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 7 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 8 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 8 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 9 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 9 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 10 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 10 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 11 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 11 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271066
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 12 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 12 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 13 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 13 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 14 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 14 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 15 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 15 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 16 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 16 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 17 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 17 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 18 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 18 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals 19 ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals 19 ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="hulu Originals info ᴴᴰ" tvg-logo="https://iili.io/63OQhx.md.png" group-title="USA | Hulu Originals",hulu Originals info ᴴᴰ
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271077
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 1" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271095
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 2" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271094
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 3" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271093
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 4" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271092
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 5" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271091
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 6" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271090
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 7" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271089
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 8" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271088
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 9" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271087
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 10" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271086
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 11" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 11
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 12" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 12
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271084
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 13" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 13
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271083
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 14" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 14
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271082
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 15" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 15
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271081
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 16" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 16
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271080
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original 17" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original 17
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271079
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HBOMax Original info" tvg-logo="https://iili.io/6GDGuR.md.png" group-title="USA | HBOMax Original",HBOMax Original info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271096
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 1" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271128
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 2" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271127
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 3" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271126
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 4" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271125
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 5" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271124
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 6" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271123
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 7" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271122
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 8" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271121
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 9" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271120
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie 10" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271119
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PrimeVideo Serie info" tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271129
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 1" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271139
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 2" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271138
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 3" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271137
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 4" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271136
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 5" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271135
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 6" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271134
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 7" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271133
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 8" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271132
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 9" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271131
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series 10" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271130
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Apple TV+ Series info" tvg-logo="https://iili.io/wwppKG.md.png" group-title="USA | AppleTV +",Apple TV+ Series info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271140
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Premiere 1" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Premiere 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Premiere 2" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Premiere 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 1" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 2" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271149
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 3" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271148
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 4" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271147
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 5" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271146
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 6" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271145
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 7" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271144
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 8" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271143
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 9" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271142
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series 10" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271141
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Disney+ Series info" tvg-logo="https://iili.io/wvqAu9.md.png" group-title="USA | Disney+ Originals",Disney+ Series info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 1" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271163
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 2" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 3" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271161
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 4" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271160
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 5" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271159
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 6" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271158
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 7" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 8" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271156
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 9" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271155
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series 10" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271154
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Series info" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 1" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271178
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 2" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271177
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 3" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271176
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 4" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271175
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 5" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271174
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 6" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271173
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 7" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 8" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271171
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 9" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 10" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 11" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 11
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 12" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 12
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere 13" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere 13
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Premiere info" tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="USA | Netflix Premiere Originals",Netflix Premiere info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271179
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 1" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 2" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 2
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 3" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 3
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271189
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 4" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 4
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271188
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 5" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 5
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 6" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 6
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271186
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 7" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 7
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271185
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 8" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 8
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271184
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 9" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 9
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271183
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 10" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 10
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271182
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 11" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 11
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271181
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original 12" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 12
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271180
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peacock Original info" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original info
+http://lordstreams.live:80/mszala@comcast.net/0323910031/271192
+
+
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="Sports",Sky Sports F1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/746775
+
+
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerangplus1.uk" tvg-name="UK: Boomerang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest?cb=20220308111336" group-title="UK | KIDS",UK: Boomerang
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277151
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="UK | KIDS",UK: Cartoon Network
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277147
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premier FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg/revision/latest?cb=20200702150346" group-title="UK | MOVIES",UK: Sky Cinema Premier FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest?cb=20210118213113" group-title="UK | MOVIES",UK: Sky Cinema Action FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sky_Cinema_Animation_2020.svg/revision/latest?cb=20211125131457" group-title="UK | MOVIES",UK: Sky Cinema Animation FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277003
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedy.uk" tvg-name="UK: Sky Cinema Comedy FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest?cb=20210118213600" group-title="UK | MOVIES",UK: Sky Cinema Comedy FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama/Christmas FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Sky_Cinema_Drama_2020.svg/revision/latest?cb=20210118213533" group-title="UK | MOVIES",UK: Sky Cinema Drama/Christmas FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Sky_Cinema_Family_-_Logo_2018.svg/revision/latest?cb=20200812142136" group-title="UK | MOVIES",UK: Sky Cinema Family FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/277000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sky_Cinema_Greats_2017.svg/revision/latest?cb=20180807123257" group-title="UK | MOVIES",UK: Sky Cinema Greats FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Cinema_Hits_2020.svg/revision/latest?cb=20200702151124" group-title="UK | MOVIES",UK: Sky Cinema Hits FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema ScFi/Hor FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Sky_Cinema_Sci-Fi_Horror.svg/revision/latest?cb=20200702154935" group-title="UK | MOVIES",UK: Sky Cinema ScFi/Hor FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select/5 Star Movies FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Sky_Cinema_Select_2020.svg/revision/latest?cb=20200702170349" group-title="UK | MOVIES",UK: Sky Cinema Select/5 Star Movies FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="UK: Sky Cinema Thriller FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest?cb=20201029120808" group-title="UK | MOVIES",UK: Sky Cinema Thriller FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premier SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg/revision/latest?cb=20200702150346" group-title="UK | MOVIES",UK: Sky Cinema Premier SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest?cb=20210118213113" group-title="UK | MOVIES",UK: Sky Cinema Action SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedy.uk" tvg-name="UK: Sky Cinema Comedy SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest?cb=20210118213600" group-title="UK | MOVIES",UK: Sky Cinema Comedy SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="117" tvg-name="UK: Sky Cinema Christmas SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Sky_Cinema_Drama_2020.svg/revision/latest?cb=20210118213533" group-title="UK | MOVIES",UK: Sky Cinema Christmas SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Sky_Cinema_Family_-_Logo_2018.svg/revision/latest?cb=20200812142136" group-title="UK | MOVIES",UK: Sky Cinema Family SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sky_Cinema_Greats_2017.svg/revision/latest?cb=20180807123257" group-title="UK | MOVIES",UK: Sky Cinema Greats SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Cinema_Hits_2020.svg/revision/latest?cb=20200702151124" group-title="UK | MOVIES",UK: Sky Cinema Hits SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema Sci-fi / Horror SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Sky_Cinema_Sci-Fi_Horror.svg/revision/latest?cb=20200702154935" group-title="UK | MOVIES",UK: Sky Cinema Sci-fi / Horror SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="UK: Sky Cinema Thriller SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest?cb=20201029120808" group-title="UK | MOVIES",UK: Sky Cinema Thriller SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sky_Cinema_Animation_2020.svg/revision/latest?cb=20211125131457" group-title="UK | MOVIES",UK: Sky Cinema Animation SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sky_Cinema_Animation_2020.svg/revision/latest?cb=20211125131457" group-title="UK | MOVIES",UK: Sky Cinema Animation HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg/revision/latest?cb=20200702150346" group-title="UK | MOVIES",UK: Sky Cinema Premier HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Cinema_Hits_2020.svg/revision/latest?cb=20200702151124" group-title="UK | MOVIES",UK: Sky Cinema Hits HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sky_Cinema_Greats_2017.svg/revision/latest?cb=20180807123257" group-title="UK | MOVIES",UK: Sky Cinema Greats HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Sky_Cinema_Family_-_Logo_2018.svg/revision/latest?cb=20200812142136" group-title="UK | MOVIES",UK: Sky Cinema Family HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest?cb=20210118213113" group-title="UK | MOVIES",UK: Sky Cinema Action HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedy.uk" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest?cb=20210118213600" group-title="UK | MOVIES",UK: Sky Cinema Comedy HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276977
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest?cb=20201029120808" group-title="UK | MOVIES",UK: Sky Cinema Thriller HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276976
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemadrama.uk" tvg-name="UK: Sky Cinema Christmas HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Sky_Cinema_Drama_2020.svg/revision/latest?cb=20210118213533" group-title="UK | MOVIES",UK: Sky Cinema Christmas HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276975
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema Syfy & Horror HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Sky_Cinema_Sci-Fi_Horror.svg/revision/latest?cb=20200702154935" group-title="UK | MOVIES",UK: Sky Cinema Syfy & Horror HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="movies24.uk" tvg-name="UK: Movies24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Movies_24.svg/revision/latest?cb=20170109133858" group-title="UK | MOVIES",UK: Movies24
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="movies24plus.uk" tvg-name="UK: Movies24 +1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUD8M5yYNkDvTqrcPzSRyQVneKnDWdHT6cLg&s" group-title="UK | MOVIES",UK: Movies24 +1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Action FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Action FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Animation FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Animation FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Blockbuster FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Blockbuster FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Comedy FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Comedy FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Cult FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Cult FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Family FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Family FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Greats FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Greats FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Hits FH" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Hits FH
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Horror FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Horror FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Musical FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Musical FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Mystery FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Mystery FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Premiere FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Premiere FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Romance FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Romance FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Sci-Fi FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Sci-Fi FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Thriller FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Thriller FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: Cinebox Western FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Western FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276954
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ctvedmonton.ca" tvg-name="CA CTV Edmonton" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada | Local",CA CTV Edmonton
+http://lordstreams.live:80/mszala@comcast.net/0323910031/296045
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ctvsaskatoon.ca" tvg-name="CA CTV Saskatoon Saskatchewan" tvg-logo="https://logo.m3uassets.com/ctvsaskatoon.png" group-title="Canada | General",CA CTV Saskatoon Saskatchewan
+http://lordstreams.live:80/mszala@comcast.net/0323910031/293081
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ctvsaskatoon.ca" tvg-name="CTV Saskatoon" tvg-logo="https://logo.m3uassets.com/ctvsaskatoon.png" group-title="Canada | General",CTV Saskatoon
+http://lordstreams.live:80/mszala@comcast.net/0323910031/293080
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ctvregina.ca" tvg-name="CTV Regina" tvg-logo="https://logo.m3uassets.com/ctvregina.png" group-title="Canada | General",CTV Regina
+http://lordstreams.live:80/mszala@comcast.net/0323910031/293079
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ctvcomedy.ca" tvg-name="CA CTV Comedy East" tvg-logo="https://logo.m3uassets.com/ctvcomedy.png" group-title="Canada | General",CA CTV Comedy East
+http://lordstreams.live:80/mszala@comcast.net/0323910031/3797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ctvcomedywest.ca" tvg-name="CA CTV Comedy West" tvg-logo="https://logo.m3uassets.com/ctvcomedy.png" group-title="Canada | General",CA CTV Comedy West
+http://lordstreams.live:80/mszala@comcast.net/0323910031/3798
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconelondon.uk" tvg-name="UK: BBC One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC One HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276754
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbctwo.nl" tvg-name="UK: BBC Two HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Two HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276751
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbbc.uk" tvg-name="UK: BBC Three HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1920px-BBC_Three_2022.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Three HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276749
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvlondon.uk" tvg-name="UK: ITV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276746
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv1angliaplus1.uk" tvg-name="UK: ITV+1" tvg-logo="https://static.filmon.com/assets/channels/1817/logo.png" group-title="UK | ENTERTAINMENT",UK: ITV+1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276744
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/250px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 4 HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276742
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channel5.uk" tvg-name="UK: Channel 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/120px-Channel_5_logo_2011.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 5 HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276738
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv2.uk" tvg-name="UK: ITV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV2 HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276734
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv3.uk" tvg-name="UK: ITV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV 3 HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276730
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv4.uk" tvg-name="UK: ITV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV4 HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276726
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyatlantic.it" tvg-name="UK: Sky Atlantic HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Sky_Atlantic_2020.svg/revision/latest/scale-to-width-down/78?cb=20210116003838" group-title="UK | ENTERTAINMENT",UK: Sky Atlantic HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276718
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedyhd.de" tvg-name="UK: Sky Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/dc/Sky_Comedy_Logo_2020.png/798px-Sky_Comedy_Logo_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Comedy HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276716
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymax.uk" tvg-name="UK: Sky Max FHD" tvg-logo="data:image/jpeg;base64,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" group-title="UK | ENTERTAINMENT",UK: Sky Max FHD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276713
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fiveusa.uk" tvg-name="UK: 5 USA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1920px-5USA_logo.svg.png" group-title="UK | ENTERTAINMENT",UK: 5 USA SD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276700
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fiveusaplus1.uk" tvg-name="UK: 5USA+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1920px-5USA_logo.svg.png" group-title="UK | ENTERTAINMENT",UK: 5USA+1
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276699
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.uk" tvg-name="UK: Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="UK | ENTERTAINMENT",UK: Comedy Central HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276681
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gold.uk" tvg-name="UK: GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/U%26Gold_%282024%29.svg/1920px-U%26Gold_%282024%29.svg.png" group-title="UK | ENTERTAINMENT",UK: GOLD HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276655
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.uk" tvg-name="UK: SyFy HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest?cb=20171210093256" group-title="UK | ENTERTAINMENT",UK: SyFy HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276621
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="talkingpictures.uk" tvg-name="UK: TalkingPictures" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/TPTV_promotional_logo.png" group-title="UK | ENTERTAINMENT",UK: TalkingPictures
+http://lordstreams.live:80/mszala@comcast.net/0323910031/276619
+
+
 
