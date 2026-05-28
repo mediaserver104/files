@@ -196,7 +196,7 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/302079
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="heroes&icons.us" tvg-name="USA Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/437
 
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="Classic TV",GET
