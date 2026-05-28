@@ -50,6 +50,8 @@ http://192.168.1.200:8409/iptv/channel/210.m3u8
 http://192.168.1.200:8409/iptv/channel/220.m3u8
 #EXTINF:0 tvg-id="C230.245.ersatztv.org" channel-id="pMzYG8F1MEmPlndGP-zU7w" channel-number="230" CUID="pMzYG8F1MEmPlndGP-zU7w" tvg-chno="230" tvg-name="Retro TV" tvg-logo="http://192.168.1.200:8409/iptv/logos/A4A746AC20F66B615193EAB0CF9501A9.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro TV
 http://192.168.1.200:8409/iptv/channel/230.m3u8
+#EXTINF:0 tvg-id="C231.246.ersatztv.org" channel-id="nM2Q-VfjXU-FCEivcZJKsg" channel-number="231" CUID="nM2Q-VfjXU-FCEivcZJKsg" tvg-chno="231" tvg-name="Kings Queens & Jokers" tvg-logo="http://192.168.1.200:8409/iptv/logos/4C1D22B73D367D70F3B925951895853D.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Kings Queens & Jokers
+http://192.168.1.200:8409/iptv/channel/231.m3u8
 #EXTINF:0 tvg-id="C232.247.ersatztv.org" channel-id="2sdCCw32tUq3HcAhJiH0oA" channel-number="232" CUID="2sdCCw32tUq3HcAhJiH0oA" tvg-chno="232" tvg-name="Cherries & Berries" tvg-logo="http://192.168.1.200:8409/iptv/logos/4C11FD520CAF466F611C0DDF57732762.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cherries & Berries
 http://192.168.1.200:8409/iptv/channel/232.m3u8
 #EXTINF:0 tvg-id="C235.250.ersatztv.org" channel-id="kGD7RxFP2kuBGpUdzPjX3g" channel-number="235" CUID="kGD7RxFP2kuBGpUdzPjX3g" tvg-chno="235" tvg-name="MASH" tvg-logo="http://192.168.1.200:8409/iptv/logos/6CBCF78F2EBAAB2DC77CA9CAEC8A4B8B.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MASH
@@ -6263,6 +6265,8 @@ http://100.74.98.51:8409/iptv/channel/210.m3u8
 http://100.74.98.51:8409/iptv/channel/220.m3u8
 #EXTINF:0 tvg-id="C230.245.ersatztv.org" channel-id="pMzYG8F1MEmPlndGP-zU7w" channel-number="230" CUID="pMzYG8F1MEmPlndGP-zU7w" tvg-chno="230" tvg-name="Retro TV" tvg-logo="http://100.74.98.51:8409/iptv/logos/A4A746AC20F66B615193EAB0CF9501A9.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Retro TV
 http://100.74.98.51:8409/iptv/channel/230.m3u8
+#EXTINF:0 tvg-id="C231.246.ersatztv.org" channel-id="nM2Q-VfjXU-FCEivcZJKsg" channel-number="231" CUID="nM2Q-VfjXU-FCEivcZJKsg" tvg-chno="231" tvg-name="Kings Queens & Jokers" tvg-logo="http://100.74.98.51:8409/iptv/logos/4C1D22B73D367D70F3B925951895853D.jpg" group-title="AtomicTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Kings Queens & Jokers
+http://100.74.98.51:8409/iptv/channel/231.m3u8
 #EXTINF:0 tvg-id="C232.247.ersatztv.org" channel-id="2sdCCw32tUq3HcAhJiH0oA" channel-number="232" CUID="2sdCCw32tUq3HcAhJiH0oA" tvg-chno="232" tvg-name="Cherries & Berries" tvg-logo="http://100.74.98.51:8409/iptv/logos/4C11FD520CAF466F611C0DDF57732762.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", Cherries & Berries
 http://100.74.98.51:8409/iptv/channel/232.m3u8
 #EXTINF:0 tvg-id="C235.250.ersatztv.org" channel-id="kGD7RxFP2kuBGpUdzPjX3g" channel-number="235" CUID="kGD7RxFP2kuBGpUdzPjX3g" tvg-chno="235" tvg-name="MASH" tvg-logo="http://100.74.98.51:8409/iptv/logos/6CBCF78F2EBAAB2DC77CA9CAEC8A4B8B.jpg" group-title="AtomicTV r" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", MASH
