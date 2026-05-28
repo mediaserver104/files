@@ -123,7 +123,7 @@ http://192.168.1.200:8409/iptv/channel/360.m3u8
 
 
 
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons" tvg-logo="https://logo.m3uassets.com/metvtoons.png" group-title="Classic TV",MeTV Toons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/494103
 
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV",MeTV Toons (HD)
@@ -195,6 +195,9 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/302079
 
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="heroes&icons.us" tvg-name="USA Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
+http://lordstreams.live:80/mszala@comcast.net/0323910031/437
 
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="Classic TV",GET
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
@@ -8097,6 +8100,7 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/276619
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rewind.ca" tvg-name="CA Rewind" tvg-logo="https://logo.m3uassets.com/rewind.png" group-title="Canada | Movies",CA Rewind
 http://lordstreams.live:80/mszala@comcast.net/0323910031/641213
 
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rvtv.us" tvg-name="USA RV Tv" tvg-logo="https://www.cannellamedia.com/wp-content/uploads/2023/07/RVTV_Logo-No-Padding-1-768x726.png" group-title="Auto",RV Tv
+http://lordstreams.live:80/mszala@comcast.net/0323910031/807966
 
 
