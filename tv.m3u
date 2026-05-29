@@ -137,13 +137,18 @@ https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="Nicktoons-east" group-title="Classic TV",Nicktoons
 https://tvpass.org/live/NicktoonsEast/hd
 
-#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="Classic TV",US MeTV Network East
+
+
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",MeTV Network
 http://1tv41.icu:8080/v5Ja7D/001405/16149
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Me.TV.Network.us2" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",METV
+http://25062025.xyz:80/Toby123/Toby123/219484
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Me.TV.Network.us2" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",METV UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
 
-#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="Me.TV.Network.us2" tvg-shift="-3" timeshift="-3" group-title="Classic TV",MeTV
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-pacific" tvg-shift="-3" timeshift="-3" group-title="Classic TV",MeTV
 http://lordstreams.live:80/mszala@comcast.net/0323910031/345
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV",MeTV
@@ -205,6 +210,9 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="470467" tvg-name="CA Dejaview" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_DejaView.png" group-title="Classic TV",Dejaview
 http://lordstreams.live:80/mszala@comcast.net/0323910031/302079
 
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA Dejaview HD (B)" tvg-logo="" group-title="Classic TV",CA Dejaview HD (B)
+http://1tv41.icu:8080/v5Ja7D/001405/122001
+
 #EXTINF:-1 tvg-id="Rewind.TV.us2" group-title="Classic TV" tvg-logo="",Rewind TV
 http://nor1live.win:80/livehttpplay?channel_id=23095
 
@@ -226,7 +234,7 @@ http://1tv41.icu:8080/v5Ja7D/001405/66087
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/437
 
-#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV " tvg-logo="https://logodix.com/logo/1826254.png" group-title="Classic TV",US GetTV 
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="gettv.us" tvg-logo="https://logodix.com/logo/1826254.png" group-title="Classic TV",Great
 http://1tv41.icu:8080/v5Ja7D/001405/18366
 
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="Classic TV",GET
