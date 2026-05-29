@@ -137,6 +137,9 @@ https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="Nicktoons-east" group-title="Classic TV",Nicktoons
 https://tvpass.org/live/NicktoonsEast/hd
 
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="Classic TV",US MeTV Network East
+http://1tv41.icu:8080/v5Ja7D/001405/16149
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Me.TV.Network.us2" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="Classic TV",METV UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
 
@@ -166,6 +169,13 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="XUMO_99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type=color_onBlack" group-title="Classic TV",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US TV Land " tvg-logo="" group-title="Classic TV",US TV Land 
+http://1tv41.icu:8080/v5Ja7D/001405/46696
+
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="Classic TV",USA: TV Land Classic HD
+http://1tv41.icu:8080/v5Ja7D/001405/9271
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv-land-eastern" tvg-name="USA TV Land UHD" tvg-logo="https://logo.m3uassets.com/tvland.png" group-title="Classic TV",TV Land UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268860
@@ -203,6 +213,9 @@ https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-decades/index.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy" tvg-logo="https://logo.m3uassets.com/catchycomedy.png" group-title="Classic TV",Catchy Comedy
 http://lordstreams.live:80/mszala@comcast.net/0323910031/477
+
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US Heroes & Icons (Los Angeles) " tvg-logo="" group-title="Classic TV",US Heroes & Icons (Los Angeles) 
+http://1tv41.icu:8080/v5Ja7D/001405/66087
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/437
@@ -8113,4 +8126,11 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/641213
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rvtv.us" tvg-name="USA RV Tv" tvg-logo="https://www.cannellamedia.com/wp-content/uploads/2023/07/RVTV_Logo-No-Padding-1-768x726.png" group-title="Auto",RV Tv
 http://lordstreams.live:80/mszala@comcast.net/0323910031/807966
 
+
+#EXTINF:-1 tvg-id="mtv.classic.gb" tvg-name="US MTV Classic (A)" tvg-logo="" group-title="Music",US MTV Classic (A)
+http://1tv41.icu:8080/v5Ja7D/001405/53734
+
+
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" tvg-logo="" group-title="Movies",Turner Classic Movies
+http://1tv41.icu:8080/v5Ja7D/001405/66242
 
