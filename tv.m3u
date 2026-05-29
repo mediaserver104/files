@@ -201,7 +201,7 @@ http://nor1live.win:80/livehttpplay?channel_id=23095
 #EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-logo="https://logo.m3uassets.com/catchycomedy.png" group-title="Classic TV" tvg-logo="",Catchy Comedy
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-decades/index.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wvah.us" tvg-name="Catchy Comedy" tvg-logo="https://logo.m3uassets.com/catchycomedy.png" group-title="Classic TV",Catchy Comedy
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy" tvg-logo="https://logo.m3uassets.com/catchycomedy.png" group-title="Classic TV",Catchy Comedy
 http://lordstreams.live:80/mszala@comcast.net/0323910031/477
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
