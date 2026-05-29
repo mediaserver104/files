@@ -226,6 +226,9 @@ http://1tv41.icu:8080/v5Ja7D/001405/66087
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons" tvg-logo="https://logo.m3uassets.com/heroesicons.png" group-title="Classic TV",Heroes & Icons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/437
 
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV " tvg-logo="https://logodix.com/logo/1826254.png" group-title="Classic TV",US GetTV 
+http://1tv41.icu:8080/v5Ja7D/001405/18366
+
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="Classic TV",GET
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 
@@ -234,6 +237,14 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1
 
 #EXTINF:-1 tvg-id="1da659db3ce914b59c2823fbe6529d76" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png" group-title="Classic TV",GET Comedy
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" tvg-logo="" group-title="Classic TV",US Comet (S)
+http://1tv41.icu:8080/v5Ja7D/001405/66244
+
+#EXTINF:-1 tvg-id="fetv.us" tvg-name="US Family Entertainment Television " tvg-logo="" group-title="Classic TV",US Family Entertainment Television 
+http://1tv41.icu:8080/v5Ja7D/001405/172481
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classic TV",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
@@ -8144,4 +8155,7 @@ http://1tv41.icu:8080/v5Ja7D/001405/66242
 
 #EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",USA:  Showtime NEXT
 http://1tv41.icu:8080/v5Ja7D/001405/9316
+
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) " tvg-logo="" group-title="Movies",US RetroPlex (East) 
+http://1tv41.icu:8080/v5Ja7D/001405/66379
 
