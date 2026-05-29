@@ -214,6 +214,12 @@ https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy" tvg-logo="https://logo.m3uassets.com/catchycomedy.png" group-title="Classic TV",Catchy Comedy
 http://lordstreams.live:80/mszala@comcast.net/0323910031/477
 
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412745090/blg54azaoqz0cj3at5zd.png" group-title="Classic TV",US IFC 
+http://1tv41.icu:8080/v5Ja7D/001405/9272
+
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="US Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="Classic TV",US Cozi
+http://1tv41.icu:8080/v5Ja7D/001405/11868
+
 #EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US Heroes & Icons (Los Angeles) " tvg-logo="" group-title="Classic TV",US Heroes & Icons (Los Angeles) 
 http://1tv41.icu:8080/v5Ja7D/001405/66087
 
@@ -309,6 +315,8 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/89303
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 WKRP in Cincinnati" tvg-logo="https://static.realiptv.to/snapshots/50861.jpg" group-title="Classic TV",24/7 WKRP in Cincinnati
 http://lordstreams.live:80/mszala@comcast.net/0323910031/89301
 
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US Antenna TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="Classic TV",US Antenna TV 
+http://1tv41.icu:8080/v5Ja7D/001405/20180
 
 #EXTINF:-1 tvg-id="Antenna.TV.us2" channel-id="AntennaTVKNXVDT2.us" tvg-name="ANTENNA TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png" group-title="Classic TV",ANTENNA TV
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/544767.ts
@@ -8133,4 +8141,7 @@ http://1tv41.icu:8080/v5Ja7D/001405/53734
 
 #EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" tvg-logo="" group-title="Movies",Turner Classic Movies
 http://1tv41.icu:8080/v5Ja7D/001405/66242
+
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",USA:  Showtime NEXT
+http://1tv41.icu:8080/v5Ja7D/001405/9316
 
