@@ -103,29 +103,29 @@ http://192.168.1.200:8409/iptv/channel/350.m3u8
 http://192.168.1.200:8409/iptv/channel/355.m3u8
 #EXTINF:0 tvg-id="C360.249.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/51C9F7B6F38A10EBBE718BED6A489255.jpg", X-Files
 http://192.168.1.200:8409/iptv/channel/360.m3u8
-#EXTINF:0 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvtoons.png",MeTV Toons
+#EXTINF:0 tvg-id="MeTV.Toons.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvtoons.png",MeTV Toons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/494103
-#EXTINF:0 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV" tvg-logo="",MeTV Toons (HD)
+#EXTINF:0 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvtoons.png",MeTV Toons (HD)
 https://tvpass.org/live/metv-toons/hd
-#EXTINF:0 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV" tvg-logo="",MeTV Toons (SD)
+#EXTINF:0 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvtoons.png",MeTV Toons (SD)
 https://tvpass.org/live/metv-toons/sd
 #EXTINF:0 tvg-id="Nicktoons-east" group-title="Classic TV" tvg-logo="",Nicktoons
 https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metv.png",MeTV Network
 http://1tv41.icu:8080/v5Ja7D/001405/16149
-#EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metv.png",METV
+#EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metv.png",MeTV
 http://25062025.xyz:80/Toby123/Toby123/219484
 #EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metv.png",METV UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
-#EXTINF:0 tvg-id="metv-pacific" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV
+#EXTINF:0 tvg-id="MeTVWest.us" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV (West)
 http://lordstreams.live:80/mszala@comcast.net/0323910031/345
-#EXTINF:0 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV
+#EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV
 http://lordstreams.live:80/mszala@comcast.net/0323910031/344
 #EXTINF:0 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV (SD)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 #EXTINF:0 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV (HD)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
-#EXTINF:0 tvg-id="metv-wjlp-new-jerseynew-york" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",ME TV
+#EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",ME TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 #EXTINF:0 tvg-id="MeTV.Plus.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvplus.png",MeTV Plus
 http://lordstreams.live:80/mszala@comcast.net/0323910031/414
@@ -133,51 +133,51 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/414
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0 tvg-id="XUMO_99951254" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/300x300.webp?type",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action
-#EXTINF:0 tvg-id="tvlandeast.us" group-title="Classic TV" tvg-logo="",US TV Land
+#EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",US TV Land
 http://1tv41.icu:8080/v5Ja7D/001405/46696
-#EXTINF:0 tvg-id="tvlandeast.us" group-title="Classic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png",USA: TV Land Classic HD
+#EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",USA: TV Land Classic HD
 http://1tv41.icu:8080/v5Ja7D/001405/9271
 #EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",TV Land UHD
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268860
-#EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format",TV LAND
+#EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",TV LAND
 http://lordstreams.live:80/mszala@comcast.net/0323910031/358
-#EXTINF:0 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/57bcfc66d1758e6b2bb3feeb/1496030622334-8XBGH88FYULFCVSCVNSM/TV+Land+Logo+Transparent.png?format",TV Land
+#EXTINF:0 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
-#EXTINF:0 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="http://primestreamstv.com/logos/TVLand.png",TV LAND Low
+#EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",TV LAND Low
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105977
-#EXTINF:0 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="http://primestreamstv.com/logos/TVLand.png",TV LAND
+#EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",TV LAND
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102220
-#EXTINF:0 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="http://primestreamstv.com/logos/TVLand.png",TV LAND WEST
+#EXTINF:0 tvg-id="TV.Land.HD.(Pacific).us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",TV LAND WEST
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107820
 #EXTINF:0 tvg-id="470467" group-title="Classic TV" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_DejaView.png",Dejaview
 http://lordstreams.live:80/mszala@comcast.net/0323910031/302079
-#EXTINF:0 tvg-id="dejaview.ca" group-title="Classic TV" tvg-logo="",CA Dejaview HD (B)
+#EXTINF:0 tvg-id="470467" group-title="Classic TV" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_DejaView.png",CA Dejaview HD (B)
 http://1tv41.icu:8080/v5Ja7D/001405/122001
-#EXTINF:0 tvg-id="Catchy.Comedy.us2" group-title="Classic TV" tvg-logo="",Catchy Comedy
+#EXTINF:0 tvg-id="Catchy.Comedy.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:0 tvg-id="Catchy.Comedy.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy
 http://lordstreams.live:80/mszala@comcast.net/0323910031/477
-#EXTINF:0 tvg-id="independentfilmchannel.us" group-title="Classic TV" tvg-logo="",US IFC
+#EXTINF:0 tvg-id="IFC.HD.us2" group-title="Classic TV" tvg-logo="",IFC
 http://1tv41.icu:8080/v5Ja7D/001405/9272
-#EXTINF:0 tvg-id="cozinetwork.us" group-title="Classic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png",US Cozi
+#EXTINF:0 tvg-id="COZI.TV.us2" group-title="Classic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png",US Cozi
 http://1tv41.icu:8080/v5Ja7D/001405/11868
 #EXTINF:0 tvg-id="Heroes.and.Icons.Network.SD.us2" group-title="Classic TV" tvg-logo="http://kdcg.com/wp-content/uploads/sites/113/HI-Website-Pic.jpg",US Heroes & Icons (Los Angeles)
 http://1tv41.icu:8080/v5Ja7D/001405/66087
 #EXTINF:0 tvg-id="Heroes.and.Icons.Network.SD.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/heroesicons.png",Heroes & Icons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/437
-#EXTINF:0 tvg-id="gettv.us" group-title="Classic TV" tvg-logo="https://logodix.com/logo/1826254.png",Great
+#EXTINF:0 tvg-id="d54dae14466b380a18d261ff2048e25e" group-title="Classic TV" tvg-logo="https://logodix.com/logo/1826254.png",Great
 http://1tv41.icu:8080/v5Ja7D/001405/18366
-#EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width",GET
+#EXTINF:0 tvg-id="USBD1200002PM" group-title="Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d54dae14466b380a18d261ff2048e25e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1727811469928_Roku_Get_HUD_Logo_260x147_Center.png",GET
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 #EXTINF:0 tvg-id="1da659db3ce914b59c2823fbe6529d76" group-title="Classic TV" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png",GET Comedy
 https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=830&wurl_name=GETComedy&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:0 tvg-id="1da659db3ce914b59c2823fbe6529d76" group-title="Classic TV" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/get_comedy_logo_color.png",GET Comedy
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="comet.us" group-title="Classic TV" tvg-logo="",US Comet (S)
+#EXTINF:0 tvg-id="Comet.us2" group-title="Classic TV" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270",Comet
 http://1tv41.icu:8080/v5Ja7D/001405/66244
-#EXTINF:0 tvg-id="fetv.us" group-title="Classic TV" tvg-logo="",US Family Entertainment Television
+#EXTINF:0 tvg-id="Family.Entertainment.Television.us2" group-title="Classic TV" tvg-logo="",Family Entertainment Television
 http://1tv41.icu:8080/v5Ja7D/001405/172481
-#EXTINF:0 tvg-id="insp.us" group-title="Classic TV" tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png",US insp
+#EXTINF:0 tvg-id="INSP.HD.us2" group-title="Classic TV" tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png",insp
 http://1tv41.icu:8080/v5Ja7D/001405/16262
 #EXTINF:0 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" group-title="Classic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
@@ -189,7 +189,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884544/hls/master.m3u8?includeAsse
 https://s11host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/channel-hls/v2/30c6faf68b51472b/88881508/master.m3u8?ads.cdnhost=s11host4.localnow.api.cms.amdvids.com&ads.playbackid=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n4=content_name&ads.v4=The%20Dick%20Van%20Dyke%20Show&ads.n21=content_livestream&ads.v21=1&ads.n22=dnt&ads.v22=&ads.n23=device_model&ads.v23=&ads.n24=content_custom_1_param&ads.v24=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n25=ip&ads.v25=185.217.168.164&ads.n26=channel_company_id&ads.v26=AMDP500105&ads.n27=channel_rating&ads.v27=TV-PG&ads.n28=did&ads.v28=&ads.n29=content_custom_3_param&ads.v29=channel&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=gpp_sid&ads.v31=&ads.n32=channel_corp&ads.v32=FilmRise&ads.n33=app_bundle&ads.v33=&ads.n34=w&ads.v34=1920&ads.n35=device_type&ads.v35=&ads.n36=content_type&ads.v36=channel&ads.n37=app_version&ads.v37=0.0.0&ads.n38=channel_id&ads.v38=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n39=app_name&ads.v39=&ads.n40=content_producer_name&ads.v40=FilmRise&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=content_custom_2_param&ads.v42=AMDB013719&ads.n43=app_store_url&ads.v43=&ads.n44=content_provider&ads.v44=the-dick-van-dyke-show&ads.n45=channel_brand_id&ads.v45=AMDB013719&ads.n46=device_make&ads.v46=&ads.n47=us_privacy&ads.v47=1YNY&ads.n48=channel_title&ads.v48=The%20Dick%20Van%20Dyke%20Show&ads.n49=channel_name&ads.v49=The%20Dick%20Van%20Dyke%20Show&ads.n50=channel_language&ads.v50=en&ads.n51=ifa_type&ads.v51=&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=h&ads.v53=1080&ads.n54=network_name&ads.v54=the-dick-van-dyke-show&ads.n55=gpp&ads.v55=&ads.n56=channel_genre&ads.v56=Comedy&ads.n57=pos&ads.v57=midroll&ads.n58=channel_ext_id&ads.v58=
 #EXTINF:0 tvg-id="b84d4953c086589c9d5202b7895552a7" group-title="Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b84d4953c086589c9d5202b7895552a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673454632549_Dick_Van_Dyke_HUDlogo_centered_260x147.png",The Dick Van Dyke Show
 https://jmp2.uk/rok-b84d4953c086589c9d5202b7895552a7.m3u8
-#EXTINF:0 tvg-id="TheThreeStooges+.us" group-title="Classic TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/The-three-stooges-5659a60a0e117.png",Three Stooges+
+#EXTINF:0 tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" group-title="Classic TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/The-three-stooges-5659a60a0e117.png",Three Stooges+
 https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?content_provider=three-stooges&did=&channel_brand_id=AMDB013402&h=1080&device_make=&iu=&channel_company_id=AMDP500511&gdpr=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&dnt=&channel_name=Three%20Stooges+&coppa=0&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_bundle=&app_store_url=&app_name=&genre=Comedy&w=1920&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ic=&device_model=&device_type=&channel_corp=C3%20Entertainment%20INC&us_privacy=1YNY&gdpr_consent=&idtype=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=86.48.9.131
 #EXTINF:0 tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" group-title="Classic TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png",Three Stooges+
 https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?idtype=&device_model=&gdpr_consent=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&iu=&channel_corp=C3%20Entertainment%20INC&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&channel_company_id=AMDP500511&app_name=&genre=Comedy&channel_name=Three%20Stooges+&app_bundle=&channel_brand_id=AMDB013402&gdpr=&dnt=&device_type=&device_make=&content_provider=three-stooges&ic=&did=&coppa=0&w=1920&h=1080&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_store_url=&us_privacy=1YNY&device_devicetype=desktop_web&ip_addr=185.217.168.164&app_version=0.0.0
