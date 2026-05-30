@@ -187,10 +187,22 @@ http://1tv41.icu:8080/v5Ja7D/001405/11868
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/91152
 #EXTINF:0 tvg-id="Comet.us2" group-title="Classic TV" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270",Comet
 http://1tv41.icu:8080/v5Ja7D/001405/66244
+#EXTINF:0 tvg-id="comet.us" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/comet.png",Comet
+http://lordstreams.live:80/mszala@comcast.net/0323910031/483
+#EXTINF:0 tvg-id="Comet.us2" group-title="Classic TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="",Comet_(1080p)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:0 tvg-id="Family.Entertainment.Television.us2" group-title="Classic TV" tvg-logo="https://fetv.tv/wp-content/uploads/2023/12/logo-new-tm@2x.png",Family Entertainment Television
 http://1tv41.icu:8080/v5Ja7D/001405/172481
 #EXTINF:0 tvg-id="99951245" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951245/900x900.png?type=color_onBlack",Universal Crime
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0 tvg-id="e2e10d08139b56aba73a448f5555b6fd" group-title="Classic TV" tvg-logo="https://i.imgur.com/8j2npVc.png",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:0 tvg-id="e2e10d08139b56aba73a448f5555b6fd" group-title="Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png",FilmRise Classic TV
+https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
+#EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="",FilmRise_Classic_TV_(720p)
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 #EXTINF:0 tvg-id="twilight-zone" group-title="Classic TV" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile",The Twilight Zone
 https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 #EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="",The Outer Limits
@@ -223,22 +235,10 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/477
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:0 tvg-id="ComedyClassics.sxm" group-title="Classic TV" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png",Comedy Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now
-#EXTINF:0 tvg-id="comet.us" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/comet.png",Comet
-http://lordstreams.live:80/mszala@comcast.net/0323910031/483
-#EXTINF:0 tvg-id="Comet.us2" group-title="Classic TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png",Comet TV
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="",Comet_(1080p)
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:0 tvg-id="mjh-10-diagnosismurder" group-title="Classic TV" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile",Diagnosis Murder
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 #EXTINF:0 tvg-id="XUMO_99951146" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/300x300.webp?type",Family Affair Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951146/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951146&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=MPIMediaFamilyAffair&ads.csid=xumo_[PLATFORM]_MPIMediaFamilyAffair_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3769&ads.xumo_contentName=MPIMediaFamilyAffair&ads.xumo_providerId=3769&ads.xumo_providerName=MPIMediaFamilyAffair&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951146&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:0 tvg-id="e2e10d08139b56aba73a448f5555b6fd" group-title="Classic TV" tvg-logo="https://i.imgur.com/8j2npVc.png",FilmRise Classic TV
-https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
-#EXTINF:0 tvg-id="e2e10d08139b56aba73a448f5555b6fd" group-title="Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png",FilmRise Classic TV
-https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
-#EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="",FilmRise_Classic_TV_(720p)
-https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 #EXTINF:0 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" group-title="Classic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png",Green Acres
 https://linear-1144.frequency.stream/dist/tcltv/1144/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 #EXTINF:0 tvg-id="99951152" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951152/900x900.png?type=color_onBlack",Grit Xtra
