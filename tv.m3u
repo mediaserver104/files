@@ -109,8 +109,6 @@ http://lordstreams.live:80/mszala@comcast.net/0323910031/494103
 https://tvpass.org/live/metv-toons/hd
 #EXTINF:0 tvg-id="metv-toons-wjlp2-new-jersey" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvtoons.png",MeTV Toons (SD)
 https://tvpass.org/live/metv-toons/sd
-#EXTINF:0 tvg-id="Nicktoons-east" group-title="Classic TV" tvg-logo="https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo",Nicktoons
-https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metv.png",MeTV Network
 http://1tv41.icu:8080/v5Ja7D/001405/16149
 #EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metv.png",MeTV
@@ -160,6 +158,8 @@ http://1tv41.icu:8080/v5Ja7D/001405/122001
 #EXTINF:0 tvg-id="Catchy.Comedy.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:0 tvg-id="Catchy.Comedy.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy HD
+http://lordstreams.live:80/mszala@comcast.net/0323910031/477
+#EXTINF:0 tvg-id="wvah.us" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy
 http://lordstreams.live:80/mszala@comcast.net/0323910031/477
 #EXTINF:0 tvg-id="465411" group-title="Classic TV" tvg-logo="https://images.prismic.io/gettv/aZX-m8FoBIGEgiJX_great_logo_magenta_no_ET.png",Great
 http://1tv41.icu:8080/v5Ja7D/001405/18366
@@ -227,14 +227,10 @@ http://1tv41.icu:8080/v5Ja7D/001405/20180
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/544767.ts
 #EXTINF:0 tvg-id="Antenna.TV.us2" group-title="Classic TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png",ANTENNA TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/39211
-#EXTINF:0 tvg-id="superchannelvault.ca" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/superchannelvault.png",CA Super Channel Vault
+#EXTINF:0 tvg-id="470325" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/superchannelvault.png",CA Super Channel Vault
 http://lordstreams.live:80/mszala@comcast.net/0323910031/3644
-#EXTINF:0 tvg-id="wvah.us" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy
-http://lordstreams.live:80/mszala@comcast.net/0323910031/477
 #EXTINF:0 tvg-id="CHARGE!.us2" group-title="Classic TV" tvg-logo="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=900&amp;h=900",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:0 tvg-id="ComedyClassics.sxm" group-title="Classic TV" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png",Comedy Classics
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now
 #EXTINF:0 tvg-id="mjh-10-diagnosismurder" group-title="Classic TV" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile",Diagnosis Murder
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 #EXTINF:0 tvg-id="XUMO_99951146" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/300x300.webp?type",Family Affair Channel
@@ -305,8 +301,6 @@ https://jmp2.uk/rok-b84d4953c086589c9d5202b7895552a7.m3u8
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-640205c68ecb41f2d89d5814/variant.m3u8?x-plex-token=t4WcvauAzowLm1AuP6WN&x-plex-advertising-identifier=&x-plex-client-identifier=7dcc945a-694c-4f86-9d71-87bb0f1ef0a4&x-plex-playback-id=p_1a86009a-64c6-49b9-a97a-522adf7ffb98&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=148.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1774246481&url=eb16cfccb43243d7cbe70acee4e9fd89-2ef1f4dd4c463a109a83b66df18114928b67fbec54c08eccc045b0c8b053ffb987b5382cf1f7c421e2b6c9b6ff6ea5e668347e90720853b7ed66bf8f02cddbf49c13c70877b53fe0f29d871baee85bcb49b1975f72cf86e3ad426bff50d8b2c0fc67b55be880897e068786a3a1ede54804f11737ae92e97578df1fcda4ae9f2e31abf87b7fd359901025210772c776b6713e52dd427731890b1f94755cbef0472637229bfd9a012473a9a2e9fc4e3b3a636967a3e1b3c40683117d965a56e0727e83772518a0fb7ad54f7011d3d1bc7201eb29b408d68eac43b85fee267f2db1
 #EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="https://a.jsrdn.com/hls/23195/the-family-tv-channel/logo_20250102_220756_70.png",The Family TV Channel
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/94N3POFVM3G76E3IZ2WY/hls3/now
-#EXTINF:0 tvg-id="" group-title="Classic TV" tvg-logo="https://a.jsrdn.com/hls/23195/the-holiday-tv-channel/logo_20241127_204328_70.png",The Holiday TV Channel
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now
 #EXTINF:0 tvg-id="99951216" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951216/900x900.png?type=color_onBlack",The Rifleman
 https://dbrb49pjoymg4.cloudfront.net/10001/99951216/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951216&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Rifleman&ads.csid=xumo_[PLATFORM]_Rifleman_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western
 #EXTINF:0 tvg-id="99951525" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951525/900x900.png?type=color_onBlack",The Virginian
@@ -3309,6 +3303,8 @@ https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg0107
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ThePetCollective.us@Australia" group-title="Animals & Nature" tvg-logo="",The Pet Collective International
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Nicktoons-east" group-title="Animation & Kids" tvg-logo="https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo",Nicktoons
+https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:0 tvg-id="mjh-abc-kids" group-title="Animation & Kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png", ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:0 tvg-id="mjh-10-adultanimation" group-title="Animation & Kids" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile", Adult Animation
