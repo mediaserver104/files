@@ -129,9 +129,9 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/38431
 #EXTINF:0 tvg-id="MeTV.Plus.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvplus.png",MeTV Plus
 http://lordstreams.live:80/mszala@comcast.net/0323910031/414
-#EXTINF:0 tvg-id="XUMO_99951254" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack",Universal Action
+#EXTINF:0 tvg-id="XUMO_99951254" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/500x500.png?type=color_onBlack",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0 tvg-id="XUMO_99951254" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack",Universal Action
+#EXTINF:0 tvg-id="XUMO_99951254" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/500x500.png?type=color_onBlack",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_[PLATFORM]_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Action
 #EXTINF:0 tvg-id="tv-land-eastern" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/tvland.png",US TV Land
 http://1tv41.icu:8080/v5Ja7D/001405/46696
@@ -157,7 +157,7 @@ http://1tv41.icu:8080/v5Ja7D/001405/122001
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:0 tvg-id="Catchy.Comedy.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/catchycomedy.png",Catchy Comedy
 http://lordstreams.live:80/mszala@comcast.net/0323910031/477
-#EXTINF:0 tvg-id="IFC.HD.us2" group-title="Classic TV" tvg-logo="http://dtil.tmsimg.com/assets/s59444_ll_h15_ab.png?w=360&amp;h=270",IFC
+#EXTINF:0 tvg-id="IFC.HD.us2" group-title="Classic TV" tvg-logo="https://www.clipartmax.com/png/full/129-1294111_honorable-mention-clip-art.png",IFC
 http://1tv41.icu:8080/v5Ja7D/001405/9272
 #EXTINF:0 tvg-id="COZI.TV.us2" group-title="Classic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png",US Cozi
 http://1tv41.icu:8080/v5Ja7D/001405/11868
@@ -165,7 +165,7 @@ http://1tv41.icu:8080/v5Ja7D/001405/11868
 http://1tv41.icu:8080/v5Ja7D/001405/66087
 #EXTINF:0 tvg-id="Heroes.and.Icons.Network.SD.us2" group-title="Classic TV" tvg-logo="http://kdcg.com/wp-content/uploads/sites/113/HI-Website-Pic.jpg",Heroes & Icons
 http://lordstreams.live:80/mszala@comcast.net/0323910031/437
-#EXTINF:0 tvg-id="465411" group-title="Classic TV" tvg-logo="https://logodix.com/logo/1826254.png",Great
+#EXTINF:0 tvg-id="465411" group-title="Classic TV" tvg-logo="https://images.prismic.io/gettv/aZX-m8FoBIGEgiJX_great_logo_magenta_no_ET.png",Great
 http://1tv41.icu:8080/v5Ja7D/001405/18366
 #EXTINF:0 tvg-id="d54dae14466b380a18d261ff2048e25e" group-title="Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d54dae14466b380a18d261ff2048e25e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1727811469928_Roku_Get_HUD_Logo_260x147_Center.png",GET
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
@@ -175,7 +175,7 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="Comet.us2" group-title="Classic TV" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270",Comet
 http://1tv41.icu:8080/v5Ja7D/001405/66244
-#EXTINF:0 tvg-id="Family.Entertainment.Television.us2" group-title="Classic TV" tvg-logo="http://dtil.tmsimg.com/assets/s73413_ll_h15_ab.png?w=360&amp;h=270",Family Entertainment Television
+#EXTINF:0 tvg-id="Family.Entertainment.Television.us2" group-title="Classic TV" tvg-logo="https://fetv.tv/wp-content/uploads/2023/12/logo-new-tm@2x.png",Family Entertainment Television
 http://1tv41.icu:8080/v5Ja7D/001405/172481
 #EXTINF:0 tvg-id="INSP.HD.us2" group-title="Classic TV" tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png",insp
 http://1tv41.icu:8080/v5Ja7D/001405/16262
