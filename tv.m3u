@@ -111,6 +111,8 @@ http://1tv41.icu:8080/v5Ja7D/001405/16149
 http://lordstreams.live:80/mszala@comcast.net/0323910031/268933
 #EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV
 http://lordstreams.live:80/mszala@comcast.net/0323910031/344
+#EXTINF:0 tvg-id="Me.TV.Network.us2" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",ME TV
+http://media2.xyz:8080/Tamekah/2ndtime/9172
 #EXTINF:0 tvg-id="465323" group-title="Classic TV" tvg-logo="https://www.metv.com/images/metv_logo.png",MeTV (West)
 http://lordstreams.live:80/mszala@comcast.net/0323910031/345
 #EXTINF:0 tvg-id="MeTV.Plus.us2" group-title="Classic TV" tvg-logo="https://logo.m3uassets.com/metvplus.png",MeTV Plus
@@ -175,6 +177,8 @@ https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
 http://lordstreams.live:80/mszala@comcast.net/0323910031/3644
 #EXTINF:0 tvg-id="9999614" group-title="Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/900x900.png?type=color_onBlack",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:0 tvg-id="Antenna.TV.us2" group-title="Classic TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png",Antenna TV
+http://lordstreams.live:80/mszala@comcast.net/0323910031/506
 #EXTINF:0 tvg-id="Antenna.TV.us2" group-title="Classic TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png",Antenna TV
 http://1tv41.icu:8080/v5Ja7D/001405/20180
 #EXTINF:0 tvg-id="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E" group-title="Classic TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/3-1x1.png",Shout! TV
@@ -3971,7 +3975,7 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109180
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102007
 #EXTINF:0 tvg-id="amc.us" group-title="NETWORK TV" tvg-logo="https://logo.m3uassets.com/amc.png",AMC
 http://lordstreams.live:80/mszala@comcast.net/0323910031/511
-#EXTINF:0 tvg-id="antennatv.us" group-title="NETWORK TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png",ANTENNA TV
+#EXTINF:0 tvg-id="antennatv.us" group-title="NETWORK TV" tvg-logo="http://primestreamstv.com/logos/Antenna%20TV.png",Antenna TV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/39211
 #EXTINF:0 tvg-id="aspiretv.us" group-title="NETWORK TV" tvg-logo="http://primestreamstv.com/logos/ASPiRE.png",ASPIRE
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/101997
