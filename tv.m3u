@@ -17,6 +17,8 @@ http://192.168.1.200:8409/iptv/channel/120.m3u8
 http://192.168.1.200:8409/iptv/channel/130.m3u8
 #EXTINF:0 tvg-id="C132.246.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/C4D9E0D562BD85AB52247DB417BA2E8C.jpg", Yesteryear
 http://192.168.1.200:8409/iptv/channel/132.m3u8
+#EXTINF:0 tvg-id="C133.247.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/C43D0FB4CBF302ACD88E6D3EA5D98342.jpg", Ozzie & Harriet
+http://192.168.1.200:8409/iptv/channel/133.m3u8
 #EXTINF:0 tvg-id="C135.249.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/D91189F7EF8BC118AF211A10EF1008F7.jpg", Magic Television
 http://192.168.1.200:8409/iptv/channel/135.m3u8
 #EXTINF:0 tvg-id="C137.251.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/98C9132F6D81B6CB3679D36AB38B8810.jpg", DejaView
