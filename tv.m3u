@@ -55,7 +55,7 @@ http://192.168.1.200:8409/iptv/channel/230.m3u8
 http://192.168.1.200:8409/iptv/channel/231.m3u8
 #EXTINF:0 tvg-id="C232.247.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/4C11FD520CAF466F611C0DDF57732762.jpg", Cherries & Berries
 http://192.168.1.200:8409/iptv/channel/232.m3u8
-#EXTINF:0 tvg-id="C235.250.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/6CBCF78F2EBAAB2DC77CA9CAEC8A4B8B.jpg", MASH
+#EXTINF:0 tvg-id="C235.250.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/90B3F97BDFE592B3487AE2FE80E15A4A.jpg", Action! TV
 http://192.168.1.200:8409/iptv/channel/235.m3u8
 #EXTINF:0 tvg-id="C237.252.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/58950F2A31443ABA032E8935A525E8B6.jpg", Sarge & Laugh
 http://192.168.1.200:8409/iptv/channel/237.m3u8
