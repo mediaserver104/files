@@ -85,6 +85,8 @@ http://192.168.1.200:8409/iptv/channel/270.m3u8
 http://192.168.1.200:8409/iptv/channel/295.m3u8
 #EXTINF:0 tvg-id="C300.243.ersatztv.org" group-title="AtomicTV" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png", Big Bang Theory
 http://192.168.1.200:8409/iptv/channel/300.m3u8
+#EXTINF:0 tvg-id="C305.248.ersatztv.org" tvg-logo="http://192.168.1.200:8409/iptv/logos/9D07C89653BD300465429ACAD3127CFC.jpg" group-title="AtomicTV", Chuck
+http://192.168.1.200:8409/iptv/channel/305.m3u8
 #EXTINF:0 tvg-id="C310.244.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/88EA643CC3AE95FC68B4C6A6F829A8E6.jpg", Modern Family
 http://192.168.1.200:8409/iptv/channel/310.m3u8
 #EXTINF:0 tvg-id="C312.246.ersatztv.org" group-title="AtomicTV" tvg-logo="http://192.168.1.200:8409/iptv/logos/50B89A623768CB01BE3A6C4C2FEA8D39.jpg", psych
